@@ -20,7 +20,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify -b https://anilzen.github.io/QTHub/
+        run: hugo --gc --minify -b https://qtd-hub.umd.edu
         #env HUGO_ENV="production" WC_POST_CSS="true" hugo --gc --minify -b https://anilzen.github.io
 
       - name: Deploy

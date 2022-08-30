@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/anilzen/QTHub'
+    url: 'https://github.com/anilzen/QTHub/'
     content_dir: content
     branch: main
   avatar:

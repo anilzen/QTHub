@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Quantum Thermodynamics Hub # Website name
-baseURL: 'https://anilzen.github.io/QTHub/' # Website URL
+baseURL: 'https://qtd-hub.umd.edu' # Website URL
 
 ############################
 ## LANGUAGE
