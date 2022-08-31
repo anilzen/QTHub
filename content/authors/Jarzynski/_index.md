@@ -66,7 +66,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Senior Personnel
 ---
 
 My research group and I focus on statistical mechanics and thermodynamics at the molecular level, with a particular emphasis on far-from-equilibrium phenomena. We have worked on topics that include the application of statistical mechanics to problems of biophysical interest; the analysis of artificial molecular machines; the development of efficient numerical schemes for estimating thermodynamic properties of complex systems; the relationship between thermodynamics and information processing. We also have interests in dynamical systems, quantum thermodynamics, and quantum and classical shortcuts to adiabaticity.

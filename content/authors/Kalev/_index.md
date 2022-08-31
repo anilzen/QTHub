@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Senior Personnel
 ---
 
 I am a quantum information scientist at the Information Sciences Institute (ISI) at the University of Southern California. Previously, I was a Hartree postdoc at the Joint Center for Quantum Information and Computer Science (QuICS) at UMD, a postdoc at the group of Prof. I. H. Deutsch at the Center for Quantum Information and Control (CQuIC), UNM, and a postdoc at the group of Prof. B.-G. Englert at the Centre for Quantum Technologies (CQT), NUS.
