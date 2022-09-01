@@ -2,6 +2,8 @@
 # Display name
 title: Amir Kalev
 
+weight: 40
+
 # Username (this should match the folder name)
 # authors:
 #   - Halpern

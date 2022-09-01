@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Nicole Yunger Halpern
+title: Sebastian Deffner
 
-weight: 20
+weight: 15
 
 # Username (this should match the folder name)
 # authors:
@@ -16,8 +16,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland
-    url: 'https://quantumsteampunk.umiacs.io/'
+  - name: University of Maryland, Baltimore County
+    url: 'https://quthermo.umbc.edu/group-members/sebastian-deffner/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,13 +46,13 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicoleyh@umd.edu'
+    link: 'mailto:deffner@umbc.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/nicoleyh11
+    link: https://twitter.com/quthermo_comp
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=P68O1fkAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=SlpkU2gAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nicoleyh@umd.edu'
+# email: 'nicoleyh@umd.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

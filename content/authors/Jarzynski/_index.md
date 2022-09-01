@@ -2,6 +2,8 @@
 # Display name
 title: Christopher Jarzynski
 
+weight: 30
+
 # Username (this should match the folder name)
 # authors:
 #   - Halpern

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anıl Zenginoğlu
+title: Anıl Zenginoglu
 
 # Is this the primary user of the site?
 superuser: true

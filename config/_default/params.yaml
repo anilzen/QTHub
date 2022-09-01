@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: victorian
   theme_night: minimal
-  font: native
+  font: lancelot
   font_size: L
 
 # SEO
