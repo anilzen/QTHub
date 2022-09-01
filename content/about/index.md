@@ -1,5 +1,5 @@
 ---
-title: The Quantum Thermodynamics Hub
+title: Maryland Quantum-Thermodynamics Hub
 subtitle:
 widget: blank
 headless: false
