@@ -44,6 +44,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://quthermo.umbc.edu/group-members/sebastian-deffner/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:deffner@umbc.edu'

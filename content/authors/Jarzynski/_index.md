@@ -44,6 +44,9 @@ bio: My research group and I focus on statistical mechanics and thermodynamics a
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://chem.umd.edu/people/christopher-jarzynski'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cjarzyns@umd.edu'
