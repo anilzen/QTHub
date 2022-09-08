@@ -7,7 +7,7 @@ name = "victorian"
 
   # Menu
   menu_primary = "#704214" # the logo background color for menu bar
-  menu_text = "#fff" # The text in the menu bar
+  menu_text = "#f9e09e" # The text in the menu bar
   menu_text_active = "#00828B" # for active section of first page, doesn't work for separate pages
   menu_title = "#53868b" # don't know what this is doing
 

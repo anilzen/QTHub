@@ -6,9 +6,8 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Maryland Quantum-Thermodynamics Hub
-hero_media: Quantum-Engine_2000.jpg
+title: Maryland Quantum-Thermodynamics Hub
+hero_media: QTD-Map.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,7 +18,6 @@ design:
 
 <br>
 
-The Quantum-Thermodynamics Hub at the University of Maryland is a lodestone for North American quantum thermodynamics with research activities, an international conference, symposia, seminars, and a visitors program.
+The Maryland Quantum-Thermodynamics Hub aims to serve as a lodestone for quantum-thermodynamics research in North America.
 
-
-![](JTF-Logo-Modified.png)
+![Templeton Foudation Logo](JTF-Logo-Modified.png)
