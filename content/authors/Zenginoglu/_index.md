@@ -6,13 +6,11 @@ title: Anıl Zenginoglu
 superuser: true
 
 # Role/position/tagline
-role: Assistant Research Scientist
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute for Physical Science & Technology
-  url: https://ipst.umd.edu
-- name: University of Maryland
+- name: University of Maryland, College Park
   url: https://umd.edu
 
 # Short bio (displayed in user profile at end of posts)

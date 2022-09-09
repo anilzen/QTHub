@@ -16,7 +16,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland
+  - name: University of Maryland, College Park
     url: 'https://chem.umd.edu/people/christopher-jarzynski'
 
 # Short bio (displayed in user profile at end of posts)

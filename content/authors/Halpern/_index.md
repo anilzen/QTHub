@@ -16,7 +16,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland
+  - name: University of Maryland, College Park
     url: 'https://quantumsteampunk.umiacs.io/'
 
 # Short bio (displayed in user profile at end of posts)
