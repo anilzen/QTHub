@@ -17,8 +17,6 @@ design:
   columns: '2'
 ---
 
-Short video contest
-
 YouTube Channel.
 
 Example of YouTube Video below.

@@ -22,3 +22,6 @@ main:
   - name: Outreach
     url: outreach
     weight: 60
+  - name: Essay
+    url: essay
+    weight: 80
