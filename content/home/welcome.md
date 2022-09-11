@@ -17,7 +17,19 @@ design:
 ---
 
 <br>
+The Maryland Quantum-Thermodynamics Hub aims to serve as a lodestone for quantum-thermodynamics research in North America, as part of an international network.
 
-The Maryland Quantum-Thermodynamics Hub aims to serve as a lodestone for quantum-thermodynamics research in North America.
+---
 
-![Templeton Foudation Logo](JTF-Logo-Modified.png)
+<section class="logo-list">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-6">
+                <a href="#"><img src="/uploads/umd_logo-university-of-maryland.png" class="img-fluid" alt="UMD Logo"></a>
+            </div>
+            <div class="col-lg-6 col-md-6 col-6">
+                <a href="#"><img src="/uploads/JTF-Logo-Modified.png" class="img-fluid" alt="Templeton Foundation Logo"></a>
+            </div>
+        </div>
+    </div>
+</section>

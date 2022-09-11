@@ -2,11 +2,11 @@
 # Display name
 title: Nicole Yunger Halpern
 
-weight: 20
+weight: 80
 
 # Username (this should match the folder name)
 # authors:
-#   - Halpern
+#   - Yunger-Halpern
 
 # Is this the primary user of the site?
 superuser: false

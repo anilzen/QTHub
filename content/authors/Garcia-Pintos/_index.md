@@ -6,7 +6,7 @@ weight: 18
 
 # Username (this should match the folder name)
 # authors:
-#   - Halpern
+#   - Yunger-Halpern
 
 # Is this the primary user of the site?
 superuser: false
