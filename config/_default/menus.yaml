@@ -23,5 +23,5 @@ main:
   #   url: outreach
   #   weight: 60
   - name: Contest
-    url: story
+    url: contest
     weight: 80

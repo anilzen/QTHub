@@ -6,6 +6,11 @@ headless: false
 weight: 20
 design:
   columns: '1'
+
+banner:
+  caption: ''
+  image: '20_06_12_090843_retouched.png'
+
 ---
 
 Quantum thermodynamics is an emerging field that offers fundamental insights into energy, information, and their relationship. Thermodynamics originally described “classical” systems—everyday objects formed from many particles. The theory has recently extended to the quantum domain of single electrons and few atoms, which behave in ways impossible for everyday objects. For example, quantum particles correlate strongly through “entanglement,” which gives one particle a surprisingly large amount of information about others. Scientists are leveraging such quantum phenomena in technologies such as quantum computers. We will combine mathematical and conceptual tools from quantum physics, information processing, and thermodynamics to understand how everyday phenomena—our classical world and the flow of time—emerge from microscopic quantum physics.
