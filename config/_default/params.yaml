@@ -9,7 +9,7 @@ appearance:
   theme_day: victorian
   theme_night: minimal
   font: lancelot
-  font_size: L
+  font_size: xl
 
 # SEO
 

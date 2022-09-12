@@ -15,7 +15,6 @@ design:
   css_style:
   css_class:
 ---
-
 <br>
 The Maryland Quantum-Thermodynamics Hub aims to serve as a lodestone for quantum-thermodynamics research in North America, as part of an international network.
 
