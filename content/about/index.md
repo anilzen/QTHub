@@ -9,7 +9,7 @@ design:
 
 banner:
   caption: ''
-  image: '20_06_12_090843_retouched.png'
+  image: '20_06_12_090843_retouched.jpg'
 
 ---
 
