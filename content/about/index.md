@@ -8,7 +8,7 @@ design:
   columns: '1'
 
 banner:
-  caption: 'Bruce Rosenbaum of ModVic and Illustrator Jim Su'
+  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Illustrator Jim Su'
   image: '20_06_12_090843_retouched.jpg'
 
 ---

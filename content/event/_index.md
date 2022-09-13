@@ -6,7 +6,7 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: 'Bruce Rosenbaum of ModVic and Illustrator Jim Su'
-  image: '20_07_08_140307_retouched.jpg'
+  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Illustrator Jim Su'
+  image: 'Redo.jpg'
 ---
 Stay tuned for upcoming events!
