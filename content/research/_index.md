@@ -2,6 +2,10 @@
 # Files in this folder represent a Widget Page
 title: Research
 
+banner:
+  caption: 'Bruce Rosenbaum of ModVic and Illustrator Jim Su'
+  image: '20_07_03_175412_retouched.jpg'
+
 ---
 
 Our research addresses fundamental issues in physics, including how classical reality and time’s arrow emerge from the counterintuitive laws of quantum mechanics. Quantum thermodynamics, a field focused on thermodynamic descriptions of individual quantum systems, provides a principled framework for studying the interactions between a quantum system and its thermal environment. The field’s tools and concepts have been used to elucidate fundamental physics such as far-from-equilibrium fluctuation relations, quantum resources theories, and the thermodynamics of quantum feedback control. We apply these tools and concepts to develop a distinctly thermodynamic perspective on the quantum-to- classical transition, and to illuminate deep connections between quantum coherence and the thermodynamic arrow of time.
