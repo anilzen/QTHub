@@ -3,7 +3,7 @@
 title: Research
 
 banner:
-  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Illustrator Jim Su'
+  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
   image: 'Redo.jpg'
 
 ---
