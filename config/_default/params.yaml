@@ -61,13 +61,13 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-      - python
+    enable: false
+    # extra_languages:
+    #   - r
+    #   - latex
+    #   - python
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
@@ -91,10 +91,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
+  # map:
+  #   provider: 'mapnik'
+  #   api_key: ''
+  #   zoom: 15
 
 # Extensions
 
