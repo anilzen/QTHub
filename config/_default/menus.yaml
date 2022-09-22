@@ -19,9 +19,9 @@ main:
   - name: Events
     url: event
     weight: 50
-  # - name: Outreach
-  #   url: outreach
-  #   weight: 60
   - name: Contest
     url: contest
     weight: 80
+  - name: Outreach
+    url: outreach
+    weight: 90
