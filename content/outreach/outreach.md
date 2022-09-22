@@ -16,7 +16,10 @@ design:
   columns: '2'
 ---
 
-{{< tweet nicoleyh11 1572936899815247873>}}
+- **21 September 2022**: Nicole Yunger Halpern announced the founding of the Maryland Quantum-Thermodynamics Hub in a [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/) on [Quantum Frontiers](https://quantumfrontiers.com/). See excerpt below.
+
+![](blog_post.png "Excerpt from Nicole's [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub).")
+
 
 <!-- YouTube Channel.
 
