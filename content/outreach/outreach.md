@@ -16,9 +16,9 @@ design:
   columns: '2'
 ---
 
-- **21 September 2022**: Nicole Yunger Halpern announced the founding of the Maryland Quantum-Thermodynamics Hub in a [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/) on [Quantum Frontiers](https://quantumfrontiers.com/). See excerpt below.
+- **21 September 2022**: Nicole Yunger Halpern announced the founding of the Maryland Quantum-Thermodynamics Hub in a [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/) on [*Quantum Frontiers*](https://quantumfrontiers.com/). See excerpt below.
 
-![](blog_post.png "Excerpt from Nicole's [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub).")
+![Excerpt from blog post](blog_post.png "Excerpt from Nicole's [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub) on [*Quantum Frontiers*](https://quantumfrontiers.com/).")
 
 
 <!-- YouTube Channel.
