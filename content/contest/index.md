@@ -5,7 +5,7 @@ subtitle: Coming soon.
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
-  image: '20_06_12_090401_retouched.jpg'
+  image: '20_06_12_090401_retouched.webp'
 
 # design:
 #   columns: '2'
