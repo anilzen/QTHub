@@ -1,6 +1,6 @@
 ---
 title: Quantum-steampunk short-story contest
-subtitle: Coming soon.
+subtitle:
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
@@ -13,10 +13,48 @@ banner:
 ---
 
 
+### Rules 
+
+Each entry must…
+1. be written in English;
+2. contain no more than 3,000 words;
+3. be written in a steampunk style—including, but not limited to, taking place during the 1800s (and, if desired, some time in the future); and
+4. involve at least one real or imagined quantum technology.
+
+Those are the main requirements. Common-sense rules (e.g., you must be the sole author of your submission) will be detailed on the submission form.
+
+### Stages
+
+1. *Submission:* Oct. 10, 2022—Jan. 15, 2023
+2. *First cut:* Jan. 15, 2023—Mar. 15, 2023 <br />
+The leadership team will choose 15 finalists.
+
+3. *Finalist judging:* Mar. 16, 2023—Apr. 16, 2023 <br/>
+	The [judges](#judges) will select winners. The finalists will be posted online, where the public can vote for a People’s Choice Award winner.
+
+4. *Announcement of winners:* May 1, 2023
+
+### Prizes 
+
+Multiple prizes will be awarded, in the form of Visa gift certificates. The grand prize will be $1,500; the rest of the prizes will be at least $100 each and will total $3,000. The leadership and judges will determine how many prizes and which denominations to award. We anticipate offering prizes for categories such as Most Badass Steampunk Hero/ine, People’s Choice, Best Student Submission, and Quantum Technology We’d Most Like to Have.
+
+
+### How to enter 
+
+Fill out and submit the online form that will appear here soon.
+
+### Who can enter 
+
+Everyone aged 13 and over.
+
+### Contact 
+nicoleyh@umd.edu
+
+
 <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrXmb9QweRXyZEx5?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
 
 
-<h2 class="text-center"> Judges </h2>
+<h2 id="judges" class="text-center"> Judges </h2>
 
 
 <div class="row justify-content-center">
