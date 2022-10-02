@@ -11,7 +11,7 @@ banner:
 #   columns: '2'
 
 ---
-
+![](contest_ad.webp)
 
 ### Rules 
 
