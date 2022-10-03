@@ -108,11 +108,18 @@ Everyone aged 13 and over.
 </div>
 
 <div class="row justify-content-center">
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-sm people-person">
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/uploads/Mitchell_Emily.jpg" alt="Avatar">
     <div class="portrait-title">
       <h2>Emily Brandchaft Mitchell</h2>
       <h3>Associate Professor of English and Novelist, University of Maryland.</h3>      
+    </div>
+  </div>
+  <div class="col-sm people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/uploads/Warfield_Patrick.jpg" alt="Avatar">
+    <div class="portrait-title">
+      <h2>Patrick R. Warfield</h2>
+      <h3>Director of Arts for All,  College of Arts and Humanities, University of Maryland.</h3>      
     </div>
   </div>
 
