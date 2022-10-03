@@ -1,5 +1,5 @@
 ---
-title: Quantum Steampunk Short-Story Contest
+title: 
 subtitle:
 
 # Optional header image (relative to `assets/media/` folder).
@@ -11,7 +11,7 @@ banner:
 #   columns: '2'
 
 ---
-![](contest_ad.webp)
+![Contest Advertisement](contest_ad.webp "Ad image by Hannah Cho" )
 
 ### Rules 
 
@@ -47,9 +47,10 @@ Fill out and submit the online form that will appear here soon.
 
 Everyone aged 13 and over.
 
-### Contact 
-nicoleyh@umd.edu
-
+### Leadership 
+- Hannah Cho (hkim821@terpmail.umd.edu)
+- Jade LeSchack (leschack@terpmail.umd.edu)
+- Nicole Yunger Halpern (nicoleyh@umd.edu)
 
 <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrXmb9QweRXyZEx5?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
 
