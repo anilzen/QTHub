@@ -1,5 +1,5 @@
 ---
-title: Quantum-steampunk short-story contest
+title: Quantum Steampunk Short-Story Contest
 subtitle:
 
 # Optional header image (relative to `assets/media/` folder).
