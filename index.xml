@@ -103,11 +103,18 @@ The &lt;a href="#judges">judges&lt;/a> will select winners. The finalists will b
 &lt;/div>
 &lt;/div>
 &lt;div class="row justify-content-center">
-&lt;div class="col-12 col-sm-auto people-person">
+&lt;div class="col-sm people-person">
 &lt;img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://qtd-hub.umd.edu/uploads/Mitchell_Emily.jpg" alt="Avatar">
 &lt;div class="portrait-title">
 &lt;h2>Emily Brandchaft Mitchell&lt;/h2>
 &lt;h3>Associate Professor of English and Novelist, University of Maryland.&lt;/h3>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm people-person">
+&lt;img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://qtd-hub.umd.edu/uploads/Warfield_Patrick.jpg" alt="Avatar">
+&lt;div class="portrait-title">
+&lt;h2>Patrick R. Warfield&lt;/h2>
+&lt;h3>Director of Arts for All, College of Arts and Humanities, University of Maryland.&lt;/h3>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title/><link>https://qtd-hub.umd.edu/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/outreach/</guid><description/></item><item><title/><link>https://qtd-hub.umd.edu/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/people/</guid><description/></item></channel></rss>
