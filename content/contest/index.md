@@ -41,7 +41,7 @@ Multiple prizes will be awarded, in the form of Visa gift certificates. The gran
 
 ### How to enter 
 
-Fill out the submission form [here](https://airtable.com/shrXmb9QweRXyZEx5) or [here](./submission).
+Fill out the submission form [here](https://airtable.com/shrXmb9QweRXyZEx5) or [here](../submission).
 
 ### Who can enter 
 
