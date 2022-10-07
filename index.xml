@@ -45,7 +45,7 @@ The &lt;a href="#judges">judges&lt;/a> will select winners. The finalists will b
 &lt;h3 id="prizes">Prizes&lt;/h3>
 &lt;p>Multiple prizes will be awarded, in the form of Visa gift certificates. The grand prize will be $1,500; the rest of the prizes will be at least $100 each and will total $3,000. The leadership and judges will determine how many prizes and which denominations to award. We anticipate offering prizes for categories such as Most Badass Steampunk Hero/ine, People’s Choice, Best Student Submission, and Quantum Technology We’d Most Like to Have.&lt;/p>
 &lt;h3 id="how-to-enter">How to enter&lt;/h3>
-&lt;p>Fill out the submission form &lt;a href="https://airtable.com/shrXmb9QweRXyZEx5" target="_blank" rel="noopener">here&lt;/a> or &lt;a href="./submission">here&lt;/a>.&lt;/p>
+&lt;p>Fill out the submission form &lt;a href="https://airtable.com/shrXmb9QweRXyZEx5" target="_blank" rel="noopener">here&lt;/a> or &lt;a href="../submission">here&lt;/a>.&lt;/p>
 &lt;h3 id="who-can-enter">Who can enter&lt;/h3>
 &lt;p>Everyone aged 13 and over.&lt;/p>
 &lt;h3 id="leadership">Leadership&lt;/h3>
@@ -117,4 +117,10 @@ The &lt;a href="#judges">judges&lt;/a> will select winners. The finalists will b
 &lt;h3>Director of Arts for All, College of Arts and Humanities, University of Maryland.&lt;/h3>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title/><link>https://qtd-hub.umd.edu/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/outreach/</guid><description/></item><item><title/><link>https://qtd-hub.umd.edu/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/people/</guid><description/></item></channel></rss>
+&lt;/div></description></item><item><title/><link>https://qtd-hub.umd.edu/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/outreach/</guid><description/></item><item><title/><link>https://qtd-hub.umd.edu/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/people/</guid><description/></item><item><title/><link>https://qtd-hub.umd.edu/submission/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/submission/</guid><description>&lt;!-- YouTube Channel.
+Example of YouTube Video below.
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/tMaQwZ_LRbI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+-->
+&lt;iframe class="airtable-embed" src="https://airtable.com/embed/shrXmb9QweRXyZEx5?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;">&lt;/iframe></description></item></channel></rss>
