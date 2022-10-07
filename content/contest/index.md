@@ -13,7 +13,7 @@ banner:
 ---
 ![Contest Advertisement](contest_ad.webp "By Hannah Cho" )
 
-### Rules 
+### Rules
 
 Each entry must…
 1. be written in English;
@@ -41,7 +41,7 @@ Multiple prizes will be awarded, in the form of Visa gift certificates. The gran
 
 ### How to enter 
 
-Fill out and submit the online form that will appear here soon.
+Fill out the submission form [here](https://airtable.com/shrXmb9QweRXyZEx5) or [here](./submission).
 
 ### Who can enter 
 
