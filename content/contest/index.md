@@ -13,10 +13,6 @@ banner:
 ---
 ![Contest Advertisement](contest_ad.webp "By Hannah Cho" )
 
-### Story behind the short-story contest
-
-Check out this [blog post]().
-
 ### Rules
 
 Each entry must…
