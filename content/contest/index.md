@@ -41,7 +41,9 @@ Multiple prizes will be awarded, in the form of Visa gift certificates. The gran
 
 ### How to enter 
 
-Fill out the submission form [here](https://forms.gle/U6T9DPwJzDu1JytbA).
+Fill out and submit the online form that will appear here soon.
+
+<!-- Fill out the submission form [here](https://forms.gle/U6T9DPwJzDu1JytbA). -->
 
 ### Who can enter 
 
