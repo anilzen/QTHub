@@ -25,7 +25,7 @@ Those are the main requirements. Common-sense details (e.g., you must be the sol
 
 ### Stages
 
-1. *Submission:* Oct. 10, 2022—Jan. 15, 2023
+1. *Submission:* Oct. 10, 2022—Jan. 15, 2023, 11:59 PM EST
 2. *First cut:* Jan. 15, 2023—Mar. 15, 2023 <br />
 The leadership team will choose 15 finalists.
 
