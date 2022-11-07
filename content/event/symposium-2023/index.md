@@ -77,7 +77,7 @@ Stay tuned for more!
     </tr>
     <tr>
       <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a></td>
-      <td></td>
+      <td>The University of Texas at Austin</td>
     </tr>
   </tbody>
 </table>
