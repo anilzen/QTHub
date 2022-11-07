@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-01T00:00:00Z'
 
-authors: []
+authors: [deffner, jarzynski]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -56,7 +56,7 @@ projects:
 
 ### Description
 
-The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day, 2023. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.'
+The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day, 2023. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.
 
 
 ### Confirmed Speakers
