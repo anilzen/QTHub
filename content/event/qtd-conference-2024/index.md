@@ -22,7 +22,7 @@ date: '2024-01-01T13:00:00Z' # To add month and day, change date_format in param
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-08-01T00:00:00Z'
+publishDate: '2024-08-01T00:00:00Z'
 
 authors: [Garcia-Pintos]
 tags: []

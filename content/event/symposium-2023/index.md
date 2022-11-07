@@ -1,19 +1,19 @@
 ---
 title: Symposium 2023
 
-event: QTD Conference
-event_url: https://qtd.ifisc.uib-csic.es/accounts/events/
+event: Maryland Quantum-Thermodynamics Symposium
+event_url: ./
 
 location: University of Maryland
 address:
-  street: 4254 Stadium Drive
+  street:
   city: College Park
-  region: MD
-  postcode: '20742'
-  country: United States
+  region: MD, USA
+  postcode: 
+  country: USA
 
 summary: 'Our first symposium will take place on Tuesday, March 14th (Pi Day!), 2023!'
-abstract: 'The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Tuesday, March 14th (Pi Day!), 2023, at the University of Maryland, College Park. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.'
+#abstract: 'The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day, 2023. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,15 +24,15 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-01T00:00:00Z'
 
-authors: [Yunger-Halpern]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: True
 
-# image:
-#   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
+  focal_point: Center
 
 url_code: ''
 url_pdf: ''
@@ -53,3 +53,31 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+### Description
+
+The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day, 2023. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.'
+
+
+### Confirmed Speakers
+
+Stay tuned for more!
+
+<table class="table table-hover">
+  <thead class="thead" style="background-color: #7f6c34;">
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal</a></td>
+      <td>University of Toronto</td>
+    </tr>
+    <tr>
+      <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
