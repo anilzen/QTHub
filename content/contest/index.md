@@ -21,15 +21,13 @@ Each entry must…
 3. be written in a steampunk style—including, but not limited to, taking place during the 1800s (and, if desired, some time in the future); and
 4. involve at least one real or imagined quantum technology.
 
-Those are the main requirements. Common-sense details (e.g., you must be the sole author of your submission) will be delineated on the submission form. 
-
-<!-- A detailed list in PDF format is in the [Contest Rules Document](./Contest_Rules.pdf). -->
+Those are the main requirements. Common-sense details (e.g., you must be the sole author of your submission) are delineated on the [submission form](https://forms.gle/gr1ejeKDCBQPeBcbA). For the full list in PDF format, see the [Contest Rules Document](./Contest_Rules.pdf).
 
 ### Stages
 
-1. *Submission:* Oct. 10, 2022—Jan. 15, 2023, 11:59 PM EST
-2. *First cut:* Jan. 15, 2023—Mar. 15, 2023 <br />
-The leadership team will choose 15 finalists.
+1. *Submission:* Oct. 10, 2022—Jan. 15, 2023, 11:59 PM EST, via [submission form](https://forms.gle/gr1ejeKDCBQPeBcbA).
+2. *First cut:* Jan. 15, 2023—Mar. 15, 2023. <br />
+The [leadership team](#leadership) will choose 15 finalists.
 
 3. *Finalist judging:* Mar. 16, 2023—Apr. 16, 2023 <br/>
 	The [judges](#judges) will select winners. The finalists will be posted online, where the public can vote for a People’s Choice Award winner.
@@ -43,13 +41,11 @@ Multiple prizes will be awarded, in the form of Visa gift certificates. The gran
 
 ### How to enter 
 
-Fill out and submit the online form that will appear here soon.
-
-<!-- Fill out the submission form [here](https://forms.gle/U6T9DPwJzDu1JytbA). -->
+Fill out and submit the [online form](https://forms.gle/gr1ejeKDCBQPeBcbA).
 
 ### Who can enter 
 
-Everyone aged 13 and over.
+Everyone aged 13 and over. 
 
 ### Leadership 
 - Nicole Yunger Halpern (nicoleyh@umd.edu)
