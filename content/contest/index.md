@@ -21,7 +21,7 @@ Each entry must…
 3. be written in a steampunk style—including, but not limited to, taking place during the 1800s (and, if desired, some time in the future); and
 4. involve at least one real or imagined quantum technology.
 
-Those are the main requirements. Common-sense details (e.g., you must be the sole author of your submission) are delineated on the [submission form](https://forms.gle/gr1ejeKDCBQPeBcbA). For the full list in PDF format, see the [Contest Rules Document](./Contest_Rules.pdf).
+Those are the main requirements. Common-sense details are in the [Contest Rules](./Contest_Rules.pdf).
 
 ### Stages
 
