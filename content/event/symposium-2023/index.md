@@ -58,6 +58,8 @@ projects:
 
 The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day, 2023. This one-day event’s aim is to cover recent advances in quantum thermodynamics broadly while fostering new collaborations. The symposium will include four invited speakers, lightning talks, and ample time for discussions.
 
+### Registration
+Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28n5Nyd2vrmMG8YR3LeXPSsl_jTgEJWm9KnYC0w/viewform) if you're interested in attending the symposium.
 
 ### Confirmed Speakers
 
