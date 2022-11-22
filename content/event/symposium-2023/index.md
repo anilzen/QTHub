@@ -63,8 +63,6 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
 
 ### Confirmed Speakers
 
-Stay tuned for more!
-
 <table class="table table-hover">
   <thead class="thead" style="background-color: #7f6c34;">
     <tr>
@@ -74,12 +72,18 @@ Stay tuned for more!
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal</a></td>
-      <td>University of Toronto</td>
+      <td><a href="https://www.preposterousuniverse.com/">Sean Carroll</a></td>
+      <td>Johns Hopkins University</td>
     </tr>
     <tr>
       <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a></td>
       <td>The University of Texas at Austin</td>
     </tr>
+    <tr>
+      <td><a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal</a></td>
+      <td>University of Toronto</td>
+    </tr>
   </tbody>
 </table>
+
+Stay tuned for more!
