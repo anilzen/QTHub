@@ -3,7 +3,6 @@
 &lt;h3 id="registration">Registration&lt;/h3>
 &lt;p>Please fill out the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28n5Nyd2vrmMG8YR3LeXPSsl_jTgEJWm9KnYC0w/viewform" target="_blank" rel="noopener">form&lt;/a> to register for the symposium. Virtual attendance is possible.&lt;/p>
 &lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
-&lt;p>Stay tuned for more!&lt;/p>
 &lt;table class="table table-hover">
 &lt;thead class="thead" style="background-color: #7f6c34;">
 &lt;tr>
@@ -13,12 +12,17 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal&lt;/a>&lt;/td>
-&lt;td>University of Toronto&lt;/td>
+&lt;td>&lt;a href="https://www.preposterousuniverse.com/">Sean Carroll&lt;/a>&lt;/td>
+&lt;td>Johns Hopkins University&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;a href="https://raizenlab.ph.utexas.edu/">Mark Raizen&lt;/a>&lt;/td>
 &lt;td>The University of Texas at Austin&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td>&lt;a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal&lt;/a>&lt;/td>
+&lt;td>University of Toronto&lt;/td>
+&lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;p>Stay tuned for more!&lt;/p></description></item></channel></rss>
