@@ -16,7 +16,7 @@ design:
   columns: '2'
 ---
 
-- **21 November 2022**: Interested in a summer of quantum computing? Check the [blog post](https://quantumfrontiers.com/2022/11/13/the-spirit-of-relativity/) by Jade LeSchack where she writes about her summer internship experience at Northrop Grumman working on quantum computing and superconducting technology.
+- **21 November 2022**: Interested in a summer of quantum computing? Check the [blog post](https://quantumfrontiers.com/2022/11/21/a-peek-inside-northrop-grummans-subatomic-endeavors/) by Jade LeSchack where she writes about her summer internship experience at Northrop Grumman working on quantum computing and superconducting technology.
 - **14 November 2022**: From the Victorian-era experiment that presaged special relativity to the 21st-century Women in Physics and Astronomy Club; see Nicole Yunger Halpern's latest [blog post](https://quantumfrontiers.com/2022/11/13/the-spirit-of-relativity/) on her visit to Case Western Reserve University.
 - **9 October 2022**: The [Quantum-Steampunk Short-Story Contest](../contest/) is live! [Submit](https://forms.gle/U6T9DPwJzDu1JytbA) your stories in steampunk style. Stories must take place (partially) during the 1800s and must feature at least one quantum technology, real or imagined. See the announcement of the contest in a [blog post](https://quantumfrontiers.com/2022/10/09/announcing-the-quantum-steampunk-short-story-contest/) by Nicole Yunger Halpern on Quantum Frontiers. 
 - **8 October 2022**: University of Maryland's [Research Roundup](https://publicate.it/p/d4PZK_usDQTI313423) has included the Maryland Today [article](https://today.umd.edu/maryland-quantum-thermodynamics-hub-launches-with-2m-grant) on our hub in its October 7 issue.
