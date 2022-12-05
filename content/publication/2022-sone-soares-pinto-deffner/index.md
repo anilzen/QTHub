@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2022-12-04T00:32:59.450424Z'
 publication_types:
-- '2'
+- '3'
 abstract: 'We derive a general quantum exchange fluctuation theorem for multipartite systems with arbitrary coupling strengths by taking into account the informational contribution of the back-action of the quantum measurements. The resulting second law of thermodynamics for the net entropy production is tighter bounded by the quantum mutual information of the conditional thermal state, which is a thermal state conditioned on the initial energy measurement. These results elucidate the role of quantum correlations in the heat exchange between multiple subsystems interacting with arbitrary coupling strengths. '
 publication: '*arXiv:2209.12927*'
 url_pdf: https://arxiv.org/pdf/2209.12927.pdf
