@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '2'
 ---
-
+- **18 December 2022**: What’s it like to publish a book? If you're interested in reading about publishing a science book for the general public, check the Quantum Frontiers [blog post](https://quantumfrontiers.com/2022/12/18/eight-highlights-from-publishing-a-science-book-for-the-general-public/) by Nicole Yunger Halpern.
 - **21 November 2022**: Interested in a summer of quantum computing? Check the [blog post](https://quantumfrontiers.com/2022/11/21/a-peek-inside-northrop-grummans-subatomic-endeavors/) by Jade LeSchack where she writes about her summer internship experience at Northrop Grumman working on quantum computing and superconducting technology.
 - **14 November 2022**: From the Victorian-era experiment that presaged special relativity to the 21st-century Women in Physics and Astronomy Club; see Nicole Yunger Halpern's latest [blog post](https://quantumfrontiers.com/2022/11/13/the-spirit-of-relativity/) on her visit to Case Western Reserve University.
 - **9 October 2022**: The [Quantum-Steampunk Short-Story Contest](../contest/) is live! [Submit](https://forms.gle/U6T9DPwJzDu1JytbA) your stories in steampunk style. Stories must take place (partially) during the 1800s and must feature at least one quantum technology, real or imagined. See the announcement of the contest in a [blog post](https://quantumfrontiers.com/2022/10/09/announcing-the-quantum-steampunk-short-story-contest/) by Nicole Yunger Halpern on Quantum Frontiers. 
