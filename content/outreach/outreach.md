@@ -55,7 +55,7 @@ design:
 
 ### Photoshoot
 
-[**Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/), [UMIACS](https://www.umiacs.umd.edu), was included in the U. of Maryland in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022). 
+[**The Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
 
 ### Other News
 
