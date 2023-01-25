@@ -72,12 +72,12 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.preposterousuniverse.com/">Sean Carroll</a></td>
-      <td>Johns Hopkins University</td>
-    </tr>
-    <tr>
       <td><a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro</a></td>
       <td>Massachusetts Institute of Technology</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.preposterousuniverse.com/">Sean Carroll</a></td>
+      <td>Johns Hopkins University</td>
     </tr>
     <tr>
       <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a></td>
