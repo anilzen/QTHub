@@ -57,6 +57,7 @@ design:
 
 ## Blog Posts
 
+- [A (quantum) complex legacy](https://quantumfrontiers.com/2023/01/29/a-quantum-complex-legacy/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 29, 2023). By Nicole Yunger Halpern.
 - [Eight highlights from publishing a science book for the general public](https://quantumfrontiers.com/2022/12/18/eight-highlights-from-publishing-a-science-book-for-the-general-public/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 18, 2022). By Nicole Yunger Halpern.
 - [A peek inside Northrop Grumman’s subatomic endeavors](https://quantumfrontiers.com/2022/11/21/a-peek-inside-northrop-grummans-subatomic-endeavors/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 21, 2022). By Jade LeSchack.
 - [The spirit of relativity](https://quantumfrontiers.com/2022/11/13/the-spirit-of-relativity/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 14, 2022). By Nicole Yunger Halpern.
