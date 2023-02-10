@@ -60,7 +60,7 @@ The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day,
 
 ### Registration
 Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28n5Nyd2vrmMG8YR3LeXPSsl_jTgEJWm9KnYC0w/viewform) to register for the symposium. Virtual attendance is possible. 
-
+<!-- 
 ### Confirmed Speakers
 
 <table class="table table-hover">
@@ -90,7 +90,7 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
   </tbody>
 </table>
 
-Stay tuned for more!
+Stay tuned for more! -->
 
 ### Schedule
 
@@ -151,8 +151,8 @@ Stay tuned for more!
       <td>Poster Session</td>
     </tr>
     <tr style="background-color: #b9a56e;">
-      <td>06:30 PM — open end</td>
-      <td>Dinner</td>
+      <td>06:30 PM </td>
+      <td>End of Symposium</td>
     </tr>
   </tbody>
 </table>
