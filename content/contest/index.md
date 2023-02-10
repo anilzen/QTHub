@@ -12,7 +12,6 @@ banner:
 
 ---
 ![Contest Advertisement](contest_ad.webp "By Hannah Cho" )
-
 ### Rules
 
 Each entry must…
@@ -51,6 +50,9 @@ Everyone aged 13 and over.
 - Nicole Yunger Halpern (nicoleyh@umd.edu)
 - Jade LeSchack (leschack@terpmail.umd.edu)
 - Hannah Cho (hkim821@terpmail.umd.edu)
+- Undergraduate Quantum Association (shortlisting committee)
+
+![Undergraduate Quantum Association](UQA_Gray.png)
 
 <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrXmb9QweRXyZEx5?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
 

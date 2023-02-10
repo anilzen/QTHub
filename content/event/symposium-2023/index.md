@@ -64,10 +64,10 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
 ### Confirmed Speakers
 
 <table class="table table-hover">
-  <thead class="thead" style="background-color: #7f6c34;">
+  <thead class="thead" style="background-color: #704214;">
     <tr>
-      <th scope="col">Name</th>
-      <th scope="col">Affiliation</th>
+      <th  style="color: #EAE7D6;" scope="col">Name</th>
+      <th  style="color: #EAE7D6;" scope="col">Affiliation</th>
     </tr>
   </thead>
   <tbody>
@@ -91,3 +91,68 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
 </table>
 
 Stay tuned for more!
+
+### Schedule
+
+<table class="table table-bordered">
+  <thead class="thead" style="background-color: #704214;">
+    <tr>
+      <th style="color: #EAE7D6;">Time</th>
+      <th style="color: #EAE7D6;">Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #b9a56e;">
+      <td>9:00 AM — 9:45 AM</td>
+      <td>Cofee and Breakfast</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>9:45 AM — 10:00 AM</td>
+      <td>Welcome & Overview of Hub</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>10:00 AM — 10:45 AM</td>
+      <td><a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro</a>, MIT</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>10:45 AM — 11:00 AM</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>11:00 AM — 11:45 AM</td>
+      <td><a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal</a>, University of Toronto</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>11:45 AM — 01:15 PM</td>
+      <td>Lunch</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>01:15 PM — 02:00 PM</td>
+      <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a>, UT Austin</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>02:00 PM — 02:15 PM</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>02:15 PM — 03:00 PM</td>
+      <td><a href="https://www.preposterousuniverse.com/">Sean Carroll</a>, JHU</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>03:00 PM — 03:15 PM</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>03:15 PM — 04:00 PM</td>
+      <td>Lightning Talks</td>
+    </tr>
+    <tr style="background-color: #ffc8a1;">
+      <td>04:00 PM — 06:00 PM</td>
+      <td>Poster Session</td>
+    </tr>
+    <tr style="background-color: #b9a56e;">
+      <td>06:30 PM — open end</td>
+      <td>Dinner</td>
+    </tr>
+  </tbody>
+</table>
