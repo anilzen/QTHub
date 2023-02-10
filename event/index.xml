@@ -4,10 +4,10 @@
 &lt;p>Please fill out the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28n5Nyd2vrmMG8YR3LeXPSsl_jTgEJWm9KnYC0w/viewform" target="_blank" rel="noopener">form&lt;/a> to register for the symposium. Virtual attendance is possible.&lt;/p>
 &lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
 &lt;table class="table table-hover">
-&lt;thead class="thead" style="background-color: #7f6c34;">
+&lt;thead class="thead" style="background-color: #704214;">
 &lt;tr>
-&lt;th scope="col">Name&lt;/th>
-&lt;th scope="col">Affiliation&lt;/th>
+&lt;th style="color: #EAE7D6;" scope="col">Name&lt;/th>
+&lt;th style="color: #EAE7D6;" scope="col">Affiliation&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -29,4 +29,67 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>Stay tuned for more!&lt;/p></description></item></channel></rss>
+&lt;p>Stay tuned for more!&lt;/p>
+&lt;h3 id="schedule">Schedule&lt;/h3>
+&lt;table class="table table-bordered">
+&lt;thead class="thead" style="background-color: #704214;">
+&lt;tr>
+&lt;th style="color: #EAE7D6;">Time&lt;/th>
+&lt;th style="color: #EAE7D6;">Event&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>9:00 AM — 9:45 AM&lt;/td>
+&lt;td>Cofee and Breakfast&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>9:45 AM — 10:00 AM&lt;/td>
+&lt;td>Welcome &amp; Overview of Hub&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>10:00 AM — 10:45 AM&lt;/td>
+&lt;td>&lt;a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro&lt;/a>, MIT&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>10:45 AM — 11:00 AM&lt;/td>
+&lt;td>Coffee Break&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>11:00 AM — 11:45 AM&lt;/td>
+&lt;td>&lt;a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal&lt;/a>, University of Toronto&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>11:45 AM — 01:15 PM&lt;/td>
+&lt;td>Lunch&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>01:15 PM — 02:00 PM&lt;/td>
+&lt;td>&lt;a href="https://raizenlab.ph.utexas.edu/">Mark Raizen&lt;/a>, UT Austin&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>02:00 PM — 02:15 PM&lt;/td>
+&lt;td>Coffee Break&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>02:15 PM — 03:00 PM&lt;/td>
+&lt;td>&lt;a href="https://www.preposterousuniverse.com/">Sean Carroll&lt;/a>, JHU&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>03:00 PM — 03:15 PM&lt;/td>
+&lt;td>Coffee Break&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>03:15 PM — 04:00 PM&lt;/td>
+&lt;td>Lightning Talks&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #ffc8a1;">
+&lt;td>04:00 PM — 06:00 PM&lt;/td>
+&lt;td>Poster Session&lt;/td>
+&lt;/tr>
+&lt;tr style="background-color: #b9a56e;">
+&lt;td>06:30 PM — open end&lt;/td>
+&lt;td>Dinner&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
