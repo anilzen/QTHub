@@ -106,7 +106,7 @@ Stay tuned for more!
       <td>9:00 AM — 9:45 AM</td>
       <td>Cofee and Breakfast</td>
     </tr>
-    <tr style="background-color: #b9a56e;">
+    <tr style="background-color: #ffc8a1;">
       <td>9:45 AM — 10:00 AM</td>
       <td>Welcome & Overview of Hub</td>
     </tr>
