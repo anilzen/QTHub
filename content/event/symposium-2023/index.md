@@ -151,7 +151,7 @@ Stay tuned for more! -->
       <td>Poster Session</td>
     </tr>
     <tr style="background-color: #b9a56e;">
-      <td>06:30 PM </td>
+      <td>06:00 PM </td>
       <td>End of Symposium</td>
     </tr>
   </tbody>
