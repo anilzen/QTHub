@@ -46,7 +46,7 @@ design:
 
 
 ## Presentations to student and interest groups
-
+- Presented "Quantum steampunk: The physics of yesterday's tomorrow" and participated in the panel discussion "Putting the 'Real' in Real Good Science Fiction" at [Boskone](https://boskone.org) (the oldest annual science-fiction convention in New England) organized by the [New England Science-Fiction Organization](https://www.nesfa.or) (Feb. 17–19, 2023). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.cavendishinspiringwomxn.co.uk/event-info/quantum-steampunk-the-physics-of-yesterdays-tomorrow-nicole-yunger-halpern), [Cavendish Inspiring Women](https://www.cavendishinspiringwomxn.co.uk), [Cavendish Laboratory](https://www.phy.cam.ac.uk), [U. of Cambridge](https://www.cam.ac.uk), Cambridge, UK and online (Nov. 10, 2022). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.eventbrite.com/e/quantum-steampunk-the-physics-of-yesterdays-tomorrow-tickets-447530073497), [Zen4Quantum](https://www.meetup.com/zen4quantum/), Santa Clara, CA, USA and online (Oct. 29, 2022). By Nicole Yunger Halpern.
 - Quantum steampunk: Quantum information meets thermodynamics, [Undergraduate Quantum Association,](https://umdphysics.umd.edu/academics/ugrad-student-opportunities/undergraduate-quantum-association.html), University of Maryland, College Park, MD, USA (Oct. 25, 2022). By Nicole Yunger Halpern.
