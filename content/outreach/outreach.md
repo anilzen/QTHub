@@ -21,6 +21,7 @@ design:
 
 ## Public lectures
 
+- [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/V3cQVWR1P5w), [Symposium in honor of Ludwig Boltzmann's 179th Birthday](https://www.boltzmann.com/2023/01/ludwig-boltzmann-forum-20-feb-2023/), [Ludwig Boltzmann Forum](https://www.boltzmann.com/forum/), online (Feb. 20--21, 2023). By Nicole Yunger Halpern
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/pa7c3l1--7E), [Institute for the Science of Origins](https://origins.case.edu), [Case Western Reserve U.](https://case.edu), Cleveland, OH, USA (Nov. 1, 2022). By Nicole Yunger Halpern.
 - [What if the Victorians had discovered quantum computing?](https://www.youtube.com/watch?v=kBNaqFF-lnI), [Ask a Physicist](\href{https://asuevents.asu.edu/content/ask-physicist-what-if-victorians-had-discovered-quantum-computing?eventDate=2022-10-24T18\%3A00), [Beyond Center](https://beyond.asu.edu), [Arizona State U.,](https://www.asu.edu) Tempe, AZ, USA and online (Oct. 24, 2022). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/4trC1FEFbjo),   [PQI 2022](https://www.pqi.org/events/pqi2022), [Pittsburgh Quantum Institute (PQI)](https://www.pqi.org), Pittsburgh, PA, USA (Sept. 15, 2022). By Nicole Yunger Halpern.
