@@ -11,7 +11,7 @@ banner:
 #   columns: '2'
 
 ---
-
+<!-- 
 ### Congratulations to our short-listed authors!
 Below are the short-listed finalists for the 2023 Quantum Steampunk Short Story Contest. 
 - *Entry1* by Author1
@@ -20,7 +20,7 @@ Below are the short-listed finalists for the 2023 Quantum Steampunk Short Story 
 ### Vote for a People's Choice Award winner!
 Please vote for your favorite story in the People's Choice Award category! You can use the Google form by following [this link](https://forms.gle/bwKyE8F262EWRK699) or by entering your choices below.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeOVsJDa27e7G90LrAtJfTGM8jcqNImrnl9ft7GHsObvxuwQ/viewform?embedded=true" width="640" height="895" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeOVsJDa27e7G90LrAtJfTGM8jcqNImrnl9ft7GHsObvxuwQ/viewform?embedded=true" width="640" height="895" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 
 ![Contest Advertisement](contest_ad.webp "By Hannah Cho" )
