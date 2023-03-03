@@ -94,10 +94,10 @@ Stay tuned for more! -->
 
 ### Schedule
 
-<table class="table table-bordered">
+<table class="table table-bordered table-responsive">
   <thead class="thead" style="background-color: #704214;">
     <tr>
-      <th style="color: #EAE7D6;">Time</th>
+      <th style="width: 30%; color: #EAE7D6;">Time</th>
       <th style="color: #EAE7D6;">Event</th>
     </tr>
   </thead>
