@@ -50,7 +50,9 @@ Stay tuned for more! -->
 &lt;/tr>
 &lt;tr style="background-color: #ffc8a1;">
 &lt;td>10:00 AM — 10:45 AM&lt;/td>
-&lt;td>&lt;a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro&lt;/a>, MIT&lt;/td>
+&lt;td>&lt;a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro&lt;/a>, MIT
+&lt;br> TBA
+&lt;/td>
 &lt;/tr>
 &lt;tr style="background-color: #b9a56e;">
 &lt;td>10:45 AM — 11:00 AM&lt;/td>
@@ -58,15 +60,26 @@ Stay tuned for more! -->
 &lt;/tr>
 &lt;tr style="background-color: #ffc8a1;">
 &lt;td>11:00 AM — 11:45 AM&lt;/td>
-&lt;td>&lt;a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal&lt;/a>, University of Toronto&lt;/td>
+&lt;td>&lt;a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal&lt;/a>, University of Toronto
+&lt;br>
+&lt;a data-toggle="collapse" href="#Segal" role="button" aria-expanded="false" aria-controls="Segal">The Quantum Absorption Refrigerator as a Case Study in Quantum Thermodynamics&lt;/a>
+&lt;div class="collapse" id="Segal">
+Rethinking the operation principles of thermal machines in the nanoscale and quantum domain, we focus on a continuous machine operating in steady state, the quantum absorption refrigerator, and examine three key questions: (i) What is the impact of coherences within the working fluid on the performance of the quantum machine? (ii) How does the strong system-bath interaction affect the device's operation? (iii) What can we learn about the machine from current noise? To examine these topics, I will discuss open quantum system techniques, which we utilize and develop. I will then describe some results, focusing on principles. Finally, I will offer my perspective on the impact of research in theoretical quantum thermodynamics on related disciplines.
+&lt;/div>
+&lt;/td>
 &lt;/tr>
 &lt;tr style="background-color: #b9a56e;">
 &lt;td>11:45 AM — 01:15 PM&lt;/td>
-&lt;td>Lunch&lt;/td>
+&lt;td>Group photo followed by lunch&lt;/td>
 &lt;/tr>
 &lt;tr style="background-color: #ffc8a1;">
 &lt;td>01:15 PM — 02:00 PM&lt;/td>
-&lt;td>&lt;a href="https://raizenlab.ph.utexas.edu/">Mark Raizen&lt;/a>, UT Austin&lt;/td>
+&lt;td>&lt;a href="https://raizenlab.ph.utexas.edu/">Mark Raizen&lt;/a>, UT Austin
+&lt;br> &lt;a data-toggle="collapse" href="#Raizen" role="button" aria-expanded="false" aria-controls="Raizen"> Controlling and Cooling of Atoms using Photon Entropy&lt;/a>
+&lt;div class="collapse" id="Raizen">
+Production of quantum degenerate atomic gases relies on laser cooling and evaporative cooling. The latter has been the limiting factor for the available flux of atom lasers due to the large loss of atoms and the long evaporation times. Motivated by proposed fundamental tests of physics which require ultra-bright atom lasers, we developed a new approach to cooling atoms towards quantum degeneracy as an alternative to evaporative cooling. Our method relies on a self-acting one-way wall for atoms that operates away from thermal equilibrium. It uses the entropy of the photon, not its momentum, and realizes informational cooling at maximum efficiency. The method was demonstrated experimentally, and new improvements will utilize high-angular momentum states to achieve very large phase-space compression. Beyond cooling of atoms, a similar method is being used to efficiently separate isotopes for medicine at the non-profit Pointsman Foundation, www.pointsman.org. This work illustrates the utility of controlling and sorting atoms to benefit humanity.
+&lt;/div>
+&lt;/td>
 &lt;/tr>
 &lt;tr style="background-color: #b9a56e;">
 &lt;td>02:00 PM — 02:15 PM&lt;/td>
@@ -74,7 +87,12 @@ Stay tuned for more! -->
 &lt;/tr>
 &lt;tr style="background-color: #ffc8a1;">
 &lt;td>02:15 PM — 03:00 PM&lt;/td>
-&lt;td>&lt;a href="https://www.preposterousuniverse.com/">Sean Carroll&lt;/a>, JHU&lt;/td>
+&lt;td>&lt;a href="https://www.preposterousuniverse.com/">Sean Carroll&lt;/a>, JHU
+&lt;br> &lt;a data-toggle="collapse" href="#Carroll" role="button" aria-expanded="false" aria-controls="Carroll"> Philosophical Issues in Quantum Thermodynamics&lt;/a>
+&lt;div class="collapse" id="Carroll">
+Quantum mechanics and thermodynamics, individually, are two areas of physics where foundational issues loom large. It stands to reason that their overlap would raise particularly pressing questions, but that specific territory is largely unexplored. I will introduce the most important foundational ideas in both QM and thermo, discuss how they might be brought together, and speculate on connections to cosmology and other fields.
+&lt;/div>
+&lt;/td>
 &lt;/tr>
 &lt;tr style="background-color: #b9a56e;">
 &lt;td>03:00 PM — 03:15 PM&lt;/td>
