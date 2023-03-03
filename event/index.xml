@@ -32,10 +32,10 @@
 &lt;/table>
 Stay tuned for more! -->
 &lt;h3 id="schedule">Schedule&lt;/h3>
-&lt;table class="table table-bordered">
+&lt;table class="table table-bordered table-responsive">
 &lt;thead class="thead" style="background-color: #704214;">
 &lt;tr>
-&lt;th style="color: #EAE7D6;">Time&lt;/th>
+&lt;th style="width: 30%; color: #EAE7D6;">Time&lt;/th>
 &lt;th style="color: #EAE7D6;">Event&lt;/th>
 &lt;/tr>
 &lt;/thead>
