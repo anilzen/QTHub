@@ -1,10 +1,10 @@
 ---
-title: Symposium 2023
+title: Maryland Quantum-Thermodynamics Symposium 2023
 
 event: Maryland Quantum-Thermodynamics Symposium
 event_url: ./
 
-location: University of Maryland
+location: 1103 Bioscience Research Bldg. <br> University of Maryland
 address:
   street:
   city: College Park
