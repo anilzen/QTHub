@@ -13,7 +13,7 @@ banner:
 ---
 <!-- 
 ### Congratulations to our short-listed authors!
-Below are the short-listed finalists for the 2023 Quantum Steampunk Short Story Contest. 
+Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story Contest. 
 - *Entry1* by Author1
 - *Entry2* by Author2
 
