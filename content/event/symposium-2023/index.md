@@ -60,37 +60,6 @@ The Maryland Quantum-Thermodynamics Hub will hold its first symposium on Pi Day,
 
 ### Registration
 Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28n5Nyd2vrmMG8YR3LeXPSsl_jTgEJWm9KnYC0w/viewform) to register for the symposium. Virtual attendance is possible. 
-<!-- 
-### Confirmed Speakers
-
-<table class="table table-hover">
-  <thead class="thead" style="background-color: #704214;">
-    <tr>
-      <th  style="color: #EAE7D6;" scope="col">Name</th>
-      <th  style="color: #EAE7D6;" scope="col">Affiliation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro</a></td>
-      <td>Massachusetts Institute of Technology</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.preposterousuniverse.com/">Sean Carroll</a></td>
-      <td>Johns Hopkins University</td>
-    </tr>
-    <tr>
-      <td><a href="https://raizenlab.ph.utexas.edu/">Mark Raizen</a></td>
-      <td>The University of Texas at Austin</td>
-    </tr>
-    <tr>
-      <td><a href="https://sites.chem.utoronto.ca/chemistry/dsegal/">Dvira Segal</a></td>
-      <td>University of Toronto</td>
-    </tr>
-  </tbody>
-</table>
-
-Stay tuned for more! -->
 
 ### Schedule
 
@@ -113,7 +82,11 @@ Stay tuned for more! -->
     <tr style="background-color: #ffc8a1;">
       <td>10:00 AM — 10:45 AM</td>
       <td><a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro</a>, MIT
-      <br> TBA
+      <br> 
+      <a data-toggle="collapse" href="#Cappellaro" role="button" aria-expanded="false" aria-controls="Cappellaro">An experimental toolbox for quantum thermodynamics</a>
+      <div class="collapse" id="Cappellaro">
+      Elucidating the laws of thermodynamics at their most fundamental level requires clarifying the thermodynamic properties of quantum systems, and especially the contributions of coherence and correlations in the concept of work and heat transfer. Quantum fluctuation relations have emerged as a powerful guide to understanding nonequilibrium quantum thermodynamic processes, but they are challenging to probe experimentally due to requirements of the measurement protocols and limited access to the environment.  In this talk I will show how we can use spins associated with the nitrogen-vacancy center in diamond as a novel toolbox for quantum thermodynamics, thanks to the good control and coherence time, as well as our ability to tailor the interaction with a dissipative environment. As an example, I will show how we can employ repeated optical interactions to engineer a tunable dissipative channel which embodies an autonomous feedback process (Maxwell’s demon). In turns, this allows to measure generalized energy fluctuations relations in a qutrit system.
+      </div>
       </td>
     </tr>
     <tr style="background-color: #b9a56e;">
