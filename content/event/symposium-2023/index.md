@@ -147,3 +147,13 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
     </tr>
   </tbody>
 </table>
+
+### Directions to the Symposium
+
+The symposium will be held in the [Biosciences Research Building](https://facilities.umd.edu/node/37298) (BRB) at the University of Maryland, College Park. The poster session will take place in the Atrium.
+![Biosciences Research Building](./BRB.jpg)
+
+You can access the [campus map](https://maps.umd.edu/map/index.html?feature=building&name=413&basemap=detailed&hideiframe=true) and the [Google map](https://www.google.com/maps/place/Biosciences+Research+Building,+College+Park,+MD+20740/@38.989032,-76.9473592,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7c6983db1236d:0xa59a6c3927bc68ed!8m2!3d38.9890321!4d-76.9431374!16s%2Fg%2F12hlfgm6n) to the building. On the Google map screenshot below, the red arrow indicates the BRB main entrance, shown in the photo, facing the NW corner of Hornbake Plaza. The red balloon marks the location of BRB 1103, where the talks will take place. Upon entering the building, go through the doors immediately to your right, then proceed through the long Atrium and up a small flight of steps to BRB 1103.
+![Google Map Screenshot](./map_screenshot.webp)
+
+To print a PDF version of the directions, click [here](./directions.pdf).
