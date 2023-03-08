@@ -19,6 +19,7 @@ design:
 - [PROSE Award in Popular Science and Mathematics](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) for Nicole Yunger Halpern's book [Quantum Steampunk: The Physics of Yesterday’s Tomorrow](https://www.press.jhu.edu/books/title/12750/quantum-steampunk).
   - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
   - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
+- [**The Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
 
 ## Popular-Science Articles
 
@@ -59,9 +60,6 @@ design:
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.eventbrite.com/e/quantum-steampunk-the-physics-of-yesterdays-tomorrow-tickets-447530073497), [Zen4Quantum](https://www.meetup.com/zen4quantum/), Santa Clara, CA, USA and online (Oct. 29, 2022). By Nicole Yunger Halpern.
 - Quantum steampunk: Quantum information meets thermodynamics, [Undergraduate Quantum Association,](https://umdphysics.umd.edu/academics/ugrad-student-opportunities/undergraduate-quantum-association.html), University of Maryland, College Park, MD, USA (Oct. 25, 2022). By Nicole Yunger Halpern.
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
-
-## Photoshoot
-[**The Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland. With Nicole Yunger Halpern.
 
 ## Blog Posts
 - [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
