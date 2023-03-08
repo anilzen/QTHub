@@ -83,7 +83,7 @@ Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSeDzA_GcMM28
       <td>10:00 AM — 10:45 AM</td>
       <td><a href="https://physics.mit.edu/faculty/paola-cappellaro/">Paola Cappellaro</a>, MIT
       <br> 
-      <a data-toggle="collapse" href="#Cappellaro" role="button" aria-expanded="false" aria-controls="Cappellaro">An experimental toolbox for quantum thermodynamics</a>
+      <a data-toggle="collapse" href="#Cappellaro" role="button" aria-expanded="false" aria-controls="Cappellaro">An Experimental Toolbox for Quantum Thermodynamics</a>
       <div class="collapse" id="Cappellaro">
       Elucidating the laws of thermodynamics at their most fundamental level requires clarifying the thermodynamic properties of quantum systems, and especially the contributions of coherence and correlations in the concept of work and heat transfer. Quantum fluctuation relations have emerged as a powerful guide to understanding nonequilibrium quantum thermodynamic processes, but they are challenging to probe experimentally due to requirements of the measurement protocols and limited access to the environment.  In this talk I will show how we can use spins associated with the nitrogen-vacancy center in diamond as a novel toolbox for quantum thermodynamics, thanks to the good control and coherence time, as well as our ability to tailor the interaction with a dissipative environment. As an example, I will show how we can employ repeated optical interactions to engineer a tunable dissipative channel which embodies an autonomous feedback process (Maxwell’s demon). In turns, this allows to measure generalized energy fluctuations relations in a qutrit system.
       </div>
