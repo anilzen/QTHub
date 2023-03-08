@@ -15,6 +15,11 @@ subtitle:
 design:
   columns: '1'
 ---
+## Awards
+- [PROSE Award in Popular Science and Mathematics](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) for Nicole Yunger Halpern's book [Quantum Steampunk: The Physics of Yesterday’s Tomorrow](https://www.press.jhu.edu/books/title/12750/quantum-steampunk).
+  - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
+  - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
+
 ## Popular-Science Articles
 
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
@@ -34,11 +39,10 @@ design:
       
 - [Nicole Yunger Halpern on quantum steampunk](https://conversationsattheperimeter.podbean.com/e/nicole-yunger-halpern-on-quantum-steampunk/), [Conversations at the Perimeter](https://conversationsattheperimeter.podbean.com), [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca) (Dec. 1, 2022). With Nicole Yunger Halpern.
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
-      
 
 
 ## Interviews in mainstream media
-
+- [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award). 
 - [A Reboot of the Maxwell's Demon Thougt Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
 - [Maryland Quantum-Thermodynamics Hub Launches With $2M Grant](https://today.umd.edu/maryland-quantum-thermodynamics-hub-launches-with-2m-grant?utm_source=Publicate&utm_medium=URL&utm_content=...&utm_campaign=221007+-+WEB), [Maryland Today](https://today.umd.edu/) (Sept. 30, 2022) and [University of Maryland Research Roundup](https://publicate.it/p/d4PZK_usDQTI313423) (Oct. 7, 2022). Interviewee: Nicole Yunger Halpern.
 - [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/#), by Dan Garisto, [*Scientific American*](https://www.scientificamerican.com) (Oct. 6, 2022). Interviewee: Nicole Yunger Halpern.
@@ -60,7 +64,7 @@ design:
 [**The Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland. With Nicole Yunger Halpern.
 
 ## Blog Posts
-
+- [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
 - [A (quantum) complex legacy](https://quantumfrontiers.com/2023/01/29/a-quantum-complex-legacy/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 29, 2023). By Nicole Yunger Halpern.
 - [Eight highlights from publishing a science book for the general public](https://quantumfrontiers.com/2022/12/18/eight-highlights-from-publishing-a-science-book-for-the-general-public/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 18, 2022). By Nicole Yunger Halpern.
 - [A peek inside Northrop Grumman’s subatomic endeavors](https://quantumfrontiers.com/2022/11/21/a-peek-inside-northrop-grummans-subatomic-endeavors/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 21, 2022). By Jade LeSchack.
