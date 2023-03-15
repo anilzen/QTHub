@@ -62,6 +62,7 @@ design:
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Identical twins and quantum entanglement](https://quantumfrontiers.com/2023/03/12/identical-twins-and-quantum-entanglement/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 12, 2023). By Nicole Yunger Halpern.
 - [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
 - [A (quantum) complex legacy](https://quantumfrontiers.com/2023/01/29/a-quantum-complex-legacy/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 29, 2023). By Nicole Yunger Halpern.
 - [Eight highlights from publishing a science book for the general public](https://quantumfrontiers.com/2022/12/18/eight-highlights-from-publishing-a-science-book-for-the-general-public/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 18, 2022). By Nicole Yunger Halpern.
