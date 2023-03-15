@@ -19,7 +19,7 @@ design:
 - [PROSE Award in Popular Science and Mathematics](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) for Nicole Yunger Halpern's book [Quantum Steampunk: The Physics of Yesterday’s Tomorrow](https://www.press.jhu.edu/books/title/12750/quantum-steampunk).
   - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
   - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
-- [**The Quantum-Steampunk Photo Shoot**](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
+- [The Quantum-Steampunk Photo Shoot](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
 
 ## Popular-Science Articles
 
