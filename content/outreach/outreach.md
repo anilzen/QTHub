@@ -43,6 +43,7 @@ design:
 
 
 ## Interviews in mainstream media
+- [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
 - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award). 
 - [A Reboot of the Maxwell's Demon Thougt Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
 - [Maryland Quantum-Thermodynamics Hub Launches With $2M Grant](https://today.umd.edu/maryland-quantum-thermodynamics-hub-launches-with-2m-grant?utm_source=Publicate&utm_medium=URL&utm_content=...&utm_campaign=221007+-+WEB), [Maryland Today](https://today.umd.edu/) (Sept. 30, 2022) and [University of Maryland Research Roundup](https://publicate.it/p/d4PZK_usDQTI313423) (Oct. 7, 2022). Interviewee: Nicole Yunger Halpern.
