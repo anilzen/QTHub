@@ -21,6 +21,14 @@ design:
   - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
 - [The Quantum-Steampunk Photo Shoot](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
 
+## YouTube Channel
+
+We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring videos from our [events](../event/). The lectures of the [Maryland Quantum-Thermodynamics Symposium 2023](https://qtd-hub.umd.edu/event/symposium-2023/) are collected in a [playlist](https://www.youtube.com/playlist?list=PLpSxWmTiKkRUyCuLangnSY_nCDAbkNEdy). 
+- Santiago Hernández Gómez - [An Experimental Toolbox for Quantum Thermodynamics](https://www.youtube.com/watch?v=ErdCxE9g04A)
+- Dvira Segal - [The Quantum Absorption Refrigerator as a Case Study in Quantum Thermodynamics](https://www.youtube.com/watch?v=vaD96u3WDOE)
+- Mark Raizen - [Controlling and Cooling of Atoms using Photon Entropy](https://www.youtube.com/watch?v=6nDngKrs48k)
+- Sean Carroll - [Philosophical Issues in Quantum Thermodynamics](https://www.youtube.com/watch?v=x9COqqqsFtc)
+
 ## Popular-Science Articles
 
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
@@ -45,7 +53,7 @@ design:
 ## Interviews in mainstream media
 - [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
 - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award). 
-- [A Reboot of the Maxwell's Demon Thougt Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
+- [A Reboot of the Maxwell's Demon Thought Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
 - [Maryland Quantum-Thermodynamics Hub Launches With $2M Grant](https://today.umd.edu/maryland-quantum-thermodynamics-hub-launches-with-2m-grant?utm_source=Publicate&utm_medium=URL&utm_content=...&utm_campaign=221007+-+WEB), [Maryland Today](https://today.umd.edu/) (Sept. 30, 2022) and [University of Maryland Research Roundup](https://publicate.it/p/d4PZK_usDQTI313423) (Oct. 7, 2022). Interviewee: Nicole Yunger Halpern.
 - [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/#), by Dan Garisto, [*Scientific American*](https://www.scientificamerican.com) (Oct. 6, 2022). Interviewee: Nicole Yunger Halpern.
 - [UMD graduate students reflect on end of Ford Foundation diversity fellowship](https://dbknews.com/2022/10/03/end-ford-foundation-diversity-fellowship/), by Nene Narh-Mensah, [*Diamondback*](https://dbknews.com) (Oct. 3, 2022). Interviewees: Anthony Munson and Nicole Yunger Halpern.
@@ -65,6 +73,7 @@ design:
 ## Blog Posts
 - [Identical twins and quantum entanglement](https://quantumfrontiers.com/2023/03/12/identical-twins-and-quantum-entanglement/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 12, 2023). By Nicole Yunger Halpern.
 - [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
+- [A (quantum) complex legacy: Part deux](https://quantumfrontiers.com/2023/02/19/a-quantum-complex-legacy-part-deux/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 19, 2023). By Nicole Yunger Halpern.
 - [A (quantum) complex legacy](https://quantumfrontiers.com/2023/01/29/a-quantum-complex-legacy/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 29, 2023). By Nicole Yunger Halpern.
 - [Eight highlights from publishing a science book for the general public](https://quantumfrontiers.com/2022/12/18/eight-highlights-from-publishing-a-science-book-for-the-general-public/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 18, 2022). By Nicole Yunger Halpern.
 - [A peek inside Northrop Grumman’s subatomic endeavors](https://quantumfrontiers.com/2022/11/21/a-peek-inside-northrop-grummans-subatomic-endeavors/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 21, 2022). By Jade LeSchack.
@@ -77,8 +86,3 @@ design:
 ![Excerpt from blog post](blog_post.png "Excerpt from Nicole's [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub) on [*Quantum Frontiers*](https://quantumfrontiers.com/).") -->
 
 
-<!-- YouTube Channel.
-
-Example of YouTube Video below.
-
-{{< youtube tMaQwZ_LRbI >}} -->
