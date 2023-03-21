@@ -24,10 +24,10 @@ design:
 ## YouTube Channel
 
 We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring videos from our [events](../event/). The lectures of the [Maryland Quantum-Thermodynamics Symposium 2023](https://qtd-hub.umd.edu/event/symposium-2023/) are collected in a [playlist](https://www.youtube.com/playlist?list=PLpSxWmTiKkRUyCuLangnSY_nCDAbkNEdy). 
-- Santiago Hernández Gómez - [An Experimental Toolbox for Quantum Thermodynamics](https://www.youtube.com/watch?v=ErdCxE9g04A)
+<!-- - Santiago Hernández Gómez - [An Experimental Toolbox for Quantum Thermodynamics](https://www.youtube.com/watch?v=ErdCxE9g04A)
 - Dvira Segal - [The Quantum Absorption Refrigerator as a Case Study in Quantum Thermodynamics](https://www.youtube.com/watch?v=vaD96u3WDOE)
 - Mark Raizen - [Controlling and Cooling of Atoms using Photon Entropy](https://www.youtube.com/watch?v=6nDngKrs48k)
-- Sean Carroll - [Philosophical Issues in Quantum Thermodynamics](https://www.youtube.com/watch?v=x9COqqqsFtc)
+- Sean Carroll - [Philosophical Issues in Quantum Thermodynamics](https://www.youtube.com/watch?v=x9COqqqsFtc) -->
 
 ## Popular-Science Articles
 
