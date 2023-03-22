@@ -43,7 +43,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 ## Podcasts
 
-- [Quantum steampunk](https://www.youtube.com/watch?v=\_h7afJ1S-iA), [Qubites](https://valoremreply.com/post/qubites-quantum-steampunk)
+- [Quantum steampunk](https://www.youtube.com/watch?v=_h7afJ1S-iA), [Qubites](https://valoremreply.com/post/qubites-quantum-steampunk)
 [Valorem Reply](https://valoremreply.com) (Dec. 21, 2022). With Nicole Yunger Halpern.
       
 - [Nicole Yunger Halpern on quantum steampunk](https://conversationsattheperimeter.podbean.com/e/nicole-yunger-halpern-on-quantum-steampunk/), [Conversations at the Perimeter](https://conversationsattheperimeter.podbean.com), [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca) (Dec. 1, 2022). With Nicole Yunger Halpern.
