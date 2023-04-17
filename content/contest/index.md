@@ -12,7 +12,8 @@ banner:
 
 ---
 ### Congratulations to our short-listed authors!
-Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story Contest. Vote for your favorite story in the People's Choice Award category! Enter your vote at [this link](https://forms.gle/bwKyE8F262EWRK699) by 11:59 PM ET on **April 16**, 2023.
+Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story Contest. The voting period has ended. Thank you for your input! The winner will be announced on May 1.
+<!-- Vote for your favorite story in the People's Choice Award category! Enter your vote at [this link](https://forms.gle/bwKyE8F262EWRK699) by 11:59 PM ET on **April 16**, 2023. -->
 
 - [*The Recurrence Machine*](https://drive.google.com/file/d/1dA4D1jsvPP6BNA8jWXLWEz72J_rOF5U0/view?usp=share_link)&nbsp; by Rick  Searle : "I am a writer with a deep interest in physics and its implications for the human condition."
 - [*Doctor Up and Mister Down*](https://drive.google.com/file/d/1ChIkCDhPuXhgnM9t4vsjxHvslRHSfyKL/view?usp=share_link)&nbsp; by Gerard McCaul: "I am a British physicist who works on quantum control theory at Tulane University in New Orleans. After the third incident, I am no longer allowed to discuss my interests in polite society."

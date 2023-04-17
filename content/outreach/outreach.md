@@ -71,6 +71,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Quantum computing vs. Grubhub](https://quantumfrontiers.com/2023/04/03/quantum-computing-vs-grubhub/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 3, 2023). By Nicole Yunger Halpern.
 - [Identical twins and quantum entanglement](https://quantumfrontiers.com/2023/03/12/identical-twins-and-quantum-entanglement/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 12, 2023). By Nicole Yunger Halpern.
 - [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
 - [A (quantum) complex legacy: Part deux](https://quantumfrontiers.com/2023/02/19/a-quantum-complex-legacy-part-deux/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 19, 2023). By Nicole Yunger Halpern.
