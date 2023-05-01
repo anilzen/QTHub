@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Experimental Observation of Thermalization with Noncommuting Charges
+title: Experimental observation of thermalization with noncommuting charges
 subtitle: ''
 summary: ''
 authors:

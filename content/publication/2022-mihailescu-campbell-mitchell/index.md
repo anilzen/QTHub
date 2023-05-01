@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Thermometry of Quantum Environments with Impurity Probes
+title: Thermometry of quantum environments with impurity probes
 subtitle: ''
 summary: ''
 authors:
