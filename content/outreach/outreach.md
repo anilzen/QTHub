@@ -73,6 +73,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 ## Blog Posts
 - [Winners of the Quantum-Steampunk Short-Story Contest!](https://quantumfrontiers.com/2023/05/01/winners-of-the-quantum-steampunk-short-story-contest/), [Quantum Frontiers](https://quantumfrontiers.com) (May 1, 2023). By Nicole Yunger Halpern.
 - [Quantum computing vs. Grubhub](https://quantumfrontiers.com/2023/04/03/quantum-computing-vs-grubhub/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 3, 2023). By Nicole Yunger Halpern.
+- [Cross-entropy](https://anilzen.github.io/post/2023/cross-entropy/) (Apr. 2, 2023). By Anıl Zenginoğlu.
 - [Identical twins and quantum entanglement](https://quantumfrontiers.com/2023/03/12/identical-twins-and-quantum-entanglement/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 12, 2023). By Nicole Yunger Halpern.
 - [Memories of things past](https://quantumfrontiers.com/2023/03/05/memories-of-things-past/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 5, 2023). By Nicole Yunger Halpern.
 - [A (quantum) complex legacy: Part deux](https://quantumfrontiers.com/2023/02/19/a-quantum-complex-legacy-part-deux/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 19, 2023). By Nicole Yunger Halpern.
