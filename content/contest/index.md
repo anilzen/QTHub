@@ -11,6 +11,24 @@ banner:
 #   columns: '2'
 
 ---
+# Congratulations to our winners!
+## Conventional prizes
+
+- **Grand prize:** [*The Creature of Ashen House*](https://drive.google.com/file/d/1qTODLbGMCmPoJSrBQE-3tZQEdpvwlJb2/view?usp=share_link), by David Wakeham — $1,500 
+- **First runner-up:** [*Doctor Up and Mister Down*](https://drive.google.com/file/d/1ChIkCDhPuXhgnM9t4vsjxHvslRHSfyKL/view?usp=share_link), by Gerard McCaul — $1,000
+- **Second runner-up:** [*Eikonal*](https://drive.google.com/file/d/1QJWDWvolKL1z2qLGp2IwO3gOKlB9PDLU/view?usp=share_link), by Paulo Barreto — $500
+- **People’s Choice Award:** [*Pursuit*](https://drive.google.com/file/d/1FGNV4fgwI1UePovP4SCd9S3jGf6XMVvv/view?usp=share_link), by Cristina Legarda — $500
+
+## Idiosyncratic prizes
+
+- **For its badass steampunk heroine:** [*Stealing Buttons*](https://drive.google.com/file/d/1Akp2RhJPp6betZXZ4DkstdqF_bBaLWm_/view?usp=share_link), by Jeff Provine — $250
+- **For its wit and (relatedly) its portrayal of academia:** [*Three Imperiled Scientists*](https://drive.google.com/file/d/1iEiappQdmz3PZAgcRvKpaUWha0KPro6J/view?usp=share_link), by Matt King — $250
+- **For its steampunk atmosphere:** [*The Recurrence Machine*](https://drive.google.com/file/d/1dA4D1jsvPP6BNA8jWXLWEz72J_rOF5U0/view?usp=share_link), by Rick Searle — $250
+- **For its heart-capturing automaton:** [*Looking Forward, Looking Back*](https://drive.google.com/file/d/1PL2Nxcd3NSaGX-ap8Pj_2GXU8BSz68Gu/view?usp=share_link), by Claudia Clarke — $250
+
+
+Read all the finalist stories below. Thanks to all our writers, readers, and judges for participating!
+
 ### Congratulations to our short-listed authors!
 Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story Contest. Vote for your favorite story in the People's Choice Award category! Enter your vote at [this link](https://forms.gle/bwKyE8F262EWRK699) by 11:59 PM ET on **April 16**, 2023.
 - [*The Recurrence Machine*](https://drive.google.com/file/d/1dA4D1jsvPP6BNA8jWXLWEz72J_rOF5U0/view?usp=share_link)&nbsp; by Rick  Searle : "I am a writer with a deep interest in physics and its implications for the human condition."
