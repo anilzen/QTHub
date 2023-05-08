@@ -27,7 +27,7 @@ banner:
 - **For its heart-capturing automaton:** [*Looking Forward, Looking Back*](https://drive.google.com/file/d/1PL2Nxcd3NSaGX-ap8Pj_2GXU8BSz68Gu/view?usp=share_link), by Claudia Clarke — $250
 
 
-Read all the finalist stories below. Thanks to all our writers, readers, and judges for participating!
+Read all the finalist stories below, and read about contest statistics in [this blog post](https://quantumfrontiers.com/2023/05/01/winners-of-the-quantum-steampunk-short-story-contest/). Thanks to all our writers, readers, and judges for participating!
 
 ### Congratulations to our short-listed authors!
 Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story Contest. Vote for your favorite story in the People's Choice Award category! Enter your vote at [this link](https://forms.gle/bwKyE8F262EWRK699) by 11:59 PM ET on **April 16**, 2023.
