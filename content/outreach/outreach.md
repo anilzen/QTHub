@@ -34,7 +34,6 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
 ## Public lectures
-- High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/V3cQVWR1P5w), [Symposium in honor of Ludwig Boltzmann's 179th Birthday](https://www.boltzmann.com/2023/01/ludwig-boltzmann-forum-20-feb-2023/), [Ludwig Boltzmann Forum](https://www.boltzmann.com/forum/), online (Feb. 20--21, 2023). By Nicole Yunger Halpern
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/pa7c3l1--7E), [Institute for the Science of Origins](https://origins.case.edu), [Case Western Reserve U.](https://case.edu), Cleveland, OH, USA (Nov. 1, 2022). By Nicole Yunger Halpern.
 - [What if the Victorians had discovered quantum computing?](https://www.youtube.com/watch?v=kBNaqFF-lnI), [Ask a Physicist](\href{https://asuevents.asu.edu/content/ask-physicist-what-if-victorians-had-discovered-quantum-computing?eventDate=2022-10-24T18\%3A00), [Beyond Center](https://beyond.asu.edu), [Arizona State U.,](https://www.asu.edu) Tempe, AZ, USA and online (Oct. 24, 2022). By Nicole Yunger Halpern.
@@ -51,6 +50,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
 - [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
 - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award). 
 - [A Reboot of the Maxwell's Demon Thought Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
