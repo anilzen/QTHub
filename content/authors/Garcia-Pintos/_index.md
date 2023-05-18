@@ -49,7 +49,7 @@ social:
     link: 'http://www.lpgarciapintos.com/'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lpgp@umd.edu'
+    link: 'mailto:lpgp@lanl.gov'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lpgarciapintos
