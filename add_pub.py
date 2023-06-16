@@ -1,3 +1,4 @@
+import os
 import arxiv
 import requests
 import sys
@@ -10,9 +11,9 @@ search = arxiv.Search(id_list=[arxiv_id])
 paper = next(search.results())
 
 # Create a directory with the authors' last names and the year.
-import os
 lastnames = [author.name.split(" ")[-1] for author in paper.authors]
-dirname = os.path.join("content/publication/"+str(paper.published.year) + "-" + "-".join(lastnames))
+dirname = os.path.join("content/publication/" +
+                       str(paper.published.year) + "-" + "-".join(lastnames))
 # Create directory if it doesn't exist.
 if not os.path.exists(dirname):
     os.makedirs(dirname)
@@ -32,14 +33,14 @@ date = paper.published.strftime("%Y-%m-%d")
 abstract = paper.summary.replace("\n", " ")
 # Get the journal reference if it exists, otherwise use the arXiv ID.
 if paper.journal_ref:
-    publication = paper.journal_ref 
-    pub_type = "3"
+    publication = paper.journal_ref
+    pub_type = "2"
 else:
     publication = "arXiv:"+arxiv_id
-    pub_type = "2"
+    pub_type = "3"
 
 # Generate the text of the index.md file.
-text_of_index= f"""---
+text_of_index = f"""---
 title: {title}
 subtitle: ''
 summary: ''
