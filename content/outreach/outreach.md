@@ -50,7 +50,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
-- High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
+- [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/), by George Musser, [*Quanta Magazine*](https://www.quantamagazine.org) (June 6, 2023). Interviewee: Nicole Yunger Halpern.
 - [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
 - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award). 
 - [A Reboot of the Maxwell's Demon Thought Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
@@ -61,9 +61,9 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Presentations to student and interest groups
-
+- Faculty lunch seminar, [TREND REU](https://trend.umd.edu) (Training and Research in Nonlinear Dynamics Research Experience for Undergraduates) Program, [Institute for Physical Science and Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu), College Park, MD, USA (June 27, 2023). By Nicole Yunger Halpern.
+- High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
 - Speaker and Panelist at the [Tucson Festival of Books](https://tucsonfestivalofbooks.org) (third-largest book festival in the US). Participated in the panel discussion [The Future of Tech](https://tucsonfestivalofbooks.org/?id=67) and spoke at the session "The Future is Quantum!" (Mar. 4–6, 2023). By Nicole Yunger Halpern.
-
 - Presented "Quantum steampunk: The physics of yesterday's tomorrow" and participated in the panel discussion "Putting the 'Real' in Real Good Science Fiction" at [Boskone](https://boskone.org) (the oldest annual science-fiction convention in New England) organized by the [New England Science-Fiction Organization](https://www.nesfa.or) (Feb. 17–19, 2023). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.cavendishinspiringwomxn.co.uk/event-info/quantum-steampunk-the-physics-of-yesterdays-tomorrow-nicole-yunger-halpern), [Cavendish Inspiring Women](https://www.cavendishinspiringwomxn.co.uk), [Cavendish Laboratory](https://www.phy.cam.ac.uk), [U. of Cambridge](https://www.cam.ac.uk), Cambridge, UK and online (Nov. 10, 2022). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.eventbrite.com/e/quantum-steampunk-the-physics-of-yesterdays-tomorrow-tickets-447530073497), [Zen4Quantum](https://www.meetup.com/zen4quantum/), Santa Clara, CA, USA and online (Oct. 29, 2022). By Nicole Yunger Halpern.
@@ -71,6 +71,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Let the great world spin](https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/), [Quantum Frontiers](https://quantumfrontiers.com) (June 11, 2023). By Nicole Yunger Halpern.
 - [Winners of the Quantum-Steampunk Short-Story Contest!](https://quantumfrontiers.com/2023/05/01/winners-of-the-quantum-steampunk-short-story-contest/), [Quantum Frontiers](https://quantumfrontiers.com) (May 1, 2023). By Nicole Yunger Halpern.
 - [Quantum computing vs. Grubhub](https://quantumfrontiers.com/2023/04/03/quantum-computing-vs-grubhub/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 3, 2023). By Nicole Yunger Halpern.
 - [Cross-entropy](https://anilzen.github.io/post/2023/cross-entropy/) (Apr. 2, 2023). By Anıl Zenginoğlu.
