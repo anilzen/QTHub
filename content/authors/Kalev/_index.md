@@ -47,7 +47,7 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://www.isi.edu/directory/amirk/'
+    link: 'https://www.isi.edu/people-amirk'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:amirk@isi.edu'
