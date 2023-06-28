@@ -17,7 +17,7 @@ role:
 # Organizations/Affiliations
 organizations:
   - name: University of Southern California
-    url: 'https://www.isi.edu/directory/amirk/'
+    url: 'https://www.isi.edu/people-amirk'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a quantum information scientist at the Information Sciences Institute (ISI) at the University of Southern California. Previously, I was a Hartree postdoc at the Joint Center for Quantum Information and Computer Science (QuICS) at UMD, a postdoc at the group of Prof. I. H. Deutsch at the Center for Quantum Information and Control (CQuIC), UNM, and a postdoc at the group of Prof. B.-G. Englert at the Centre for Quantum Technologies (CQT), NUS.
