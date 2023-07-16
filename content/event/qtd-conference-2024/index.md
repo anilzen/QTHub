@@ -17,9 +17,9 @@ summary: A gathering of leading figures exploring the thermodynamics of quantum 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-01T13:00:00Z' # To add month and day, change date_format in params.yaml
+date: '2024-07-08T13:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-# date_end: '2023-06-06T15:00:00Z'
+date_end: '2023-07-12T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
