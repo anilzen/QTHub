@@ -54,6 +54,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Presentations to student and interest groups
+- Mentored summer projects in [Talaria Summer Institute](https://talariasummerinstitute.org/) on quantum physics. By Kanu Sinha.
 - Faculty lunch seminar, [TREND REU](https://trend.umd.edu) (Training and Research in Nonlinear Dynamics Research Experience for Undergraduates) Program, [Institute for Physical Science and Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu), College Park, MD, USA (June 27, 2023). By Nicole Yunger Halpern.
 - High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
 - Speaker and Panelist at the [Tucson Festival of Books](https://tucsonfestivalofbooks.org) (third-largest book festival in the US). Participated in the panel discussion [The Future of Tech](https://tucsonfestivalofbooks.org/?id=67) and spoke at the session "The Future is Quantum!" (Mar. 4–6, 2023). By Nicole Yunger Halpern.
@@ -79,10 +80,6 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [Announcing the quantum-steampunk short-story contest!](https://quantumfrontiers.com/2022/10/09/announcing-the-quantum-steampunk-short-story-contest/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 9, 2022). By Nicole Yunger Halpern.
 - [Mo’ heights mo’ challenges – Climbing mount grad school](https://quantumfrontiers.com/2022/10/03/mo-heights-mo-challenges-climbing-mount-grad-school/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 3, 2022). By Shayan Majidy. 
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sept. 21, 2022). By Nicole Yunger Halpern.
- 
-<!-- See excerpt below.
-![Excerpt from blog post](blog_post.png "Excerpt from Nicole's [blog post](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub) on [*Quantum Frontiers*](https://quantumfrontiers.com/).") -->
-
 
 ## Awards
 - [Yunger Halpern is US Nominee for ASPIRE Young Researcher Award](https://jqi.umd.edu/news/yunger-halpern-us-nominee-aspire-young-researcher-award) (July 14, 2023).
