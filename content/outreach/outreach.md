@@ -43,8 +43,10 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 
+
 ## Interviews in mainstream media
-- [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/), by George Musser, [*Quanta Magazine*](https://www.quantamagazine.org) (June 6, 2023). Interviewee: Nicole Yunger Halpern.
+- [The Most Surprising Discoveries in Physics](https://www.scientificamerican.com/article/the-most-surprising-discoveries-in-physics/), by Clara Moskowitz, [*Scientific American*](https://www.scientificamerican.com) (Jul. 27, 2023). Interviewee: Nicole Yunger Halpern.
+- [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/), by George Musser, [*Quanta Magazine*](https://www.quantamagazine.org) (Jun. 6, 2023). Interviewee: Nicole Yunger Halpern.
 - [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
 - [A Reboot of the Maxwell's Demon Thought Experiment---in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/), by Sophia Chen, [*Wired*](https://www.wired.com)  (Oct. 14, 2022). Interviewee: Nicole Yunger Halpern.
 - [Maryland Quantum-Thermodynamics Hub Launches With $2M Grant](https://today.umd.edu/maryland-quantum-thermodynamics-hub-launches-with-2m-grant?utm_source=Publicate&utm_medium=URL&utm_content=...&utm_campaign=221007+-+WEB), [Maryland Today](https://today.umd.edu/) (Sept. 30, 2022) and [University of Maryland Research Roundup](https://publicate.it/p/d4PZK_usDQTI313423) (Oct. 7, 2022). Interviewee: Nicole Yunger Halpern.
