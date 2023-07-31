@@ -45,6 +45,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- [Quantum mechanics and thermodynamics can both be true, say physicists](https://physicsworld.com/a/quantum-mechanics-and-thermodynamics-can-both-be-true-say-physicists/), by Martijn Boerkamp, [*Physics World*](https://physicsworld.com) (Jul. 28, 2023). Interviewee: Nicole Yunger Halpern.
 - [The Most Surprising Discoveries in Physics](https://www.scientificamerican.com/article/the-most-surprising-discoveries-in-physics/), by Clara Moskowitz, [*Scientific American*](https://www.scientificamerican.com) (Jul. 27, 2023). Interviewee: Nicole Yunger Halpern.
 - [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/), by George Musser, [*Quanta Magazine*](https://www.quantamagazine.org) (Jun. 6, 2023). Interviewee: Nicole Yunger Halpern.
 - [What Tom Cruise's Weirdest Sci-Fi Movie Gets Wrong About Time Travel](https://www.inverse.com/science/reel-science-edge-of-tomorrow), by Tara Yarlagadda, [*Inverse*](https://www.inverse.com) (Mar. 17, 2023). Interviewee: Nicole Yunger Halpern.
