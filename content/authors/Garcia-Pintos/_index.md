@@ -16,7 +16,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland, College Park
+  - name: Los Alamos National Laboratory
     url: 'http://www.lpgarciapintos.com/'
 
 # Short bio (displayed in user profile at end of posts)
