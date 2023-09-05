@@ -85,6 +85,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sept. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Yunger Halpern's book, [Quantum Steampunk: The Physics of Yesterday's Tomorrow](https://quantumsteampunk.umiacs.io/book/) was shortlisted for the [Phi Beta Kappa Award for Science](https://www.pbk.org/2023ShortList) (September 5, 2023).
 - [Yunger Halpern is US Nominee for ASPIRE Young Researcher Award](https://jqi.umd.edu/news/yunger-halpern-us-nominee-aspire-young-researcher-award) (July 14, 2023).
 - [PROSE Award in Popular Science and Mathematics](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) for Nicole Yunger Halpern's book [Quantum Steampunk: The Physics of Yesterday’s Tomorrow](https://www.press.jhu.edu/books/title/12750/quantum-steampunk).
   - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
