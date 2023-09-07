@@ -4,9 +4,9 @@ title: Quantum Thermodynamics (QTD) Conference 2024
 event: QTD Conference
 event_url: https://qtd.ifisc.uib-csic.es/accounts/events/
 
-location: University of Maryland
+location: University of Maryland <br> [Edward St. John Learning and Teaching Center](https://goo.gl/maps/1oopBhs7BQPviSR39)
 address:
-  street: 4254 Stadium Drive
+  street: 4131 Campus Dr
   city: College Park
   region: MD
   postcode: '20742'
