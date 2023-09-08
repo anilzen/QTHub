@@ -68,8 +68,8 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
-- [The book of Mark, Chapter 2](https://quantumfrontiers.com/2023/08/28/the-book-of-mark-chapter-2/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 28, 2023). By Nicole Yunger Halpern.
-- [The book of Mark](https://quantumfrontiers.com/2023/07/09/the-book-of-mark/), [Quantum Frontiers](https://quantumfrontiers.com) (July 9, 2023). By Nicole Yunger Halpern.
+- [The Book of Mark, Chapter 2](https://quantumfrontiers.com/2023/08/28/the-book-of-mark-chapter-2/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 28, 2023). By Nicole Yunger Halpern.
+- [The Book of Mark](https://quantumfrontiers.com/2023/07/09/the-book-of-mark/), [Quantum Frontiers](https://quantumfrontiers.com) (July 9, 2023). By Nicole Yunger Halpern.
 - [Let the great world spin](https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/), [Quantum Frontiers](https://quantumfrontiers.com) (June 11, 2023). By Nicole Yunger Halpern.
 - [Winners of the Quantum-Steampunk Short-Story Contest!](https://quantumfrontiers.com/2023/05/01/winners-of-the-quantum-steampunk-short-story-contest/), [Quantum Frontiers](https://quantumfrontiers.com) (May 1, 2023). By Nicole Yunger Halpern.
 - [Quantum computing vs. Grubhub](https://quantumfrontiers.com/2023/04/03/quantum-computing-vs-grubhub/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 3, 2023). By Nicole Yunger Halpern.
