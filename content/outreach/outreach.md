@@ -68,6 +68,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Can Thermodynamics Resolve the Measurement Problem?](https://quantumfrontiers.com/2023/09/10/can-thermodynamics-resolve-the-measurement-problem/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 10, 2023). By Tom Rivlin.
 - [The Book of Mark, Chapter 2](https://quantumfrontiers.com/2023/08/28/the-book-of-mark-chapter-2/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 28, 2023). By Nicole Yunger Halpern.
 - [The Book of Mark](https://quantumfrontiers.com/2023/07/09/the-book-of-mark/), [Quantum Frontiers](https://quantumfrontiers.com) (July 9, 2023). By Nicole Yunger Halpern.
 - [Let the great world spin](https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/), [Quantum Frontiers](https://quantumfrontiers.com) (June 11, 2023). By Nicole Yunger Halpern.
