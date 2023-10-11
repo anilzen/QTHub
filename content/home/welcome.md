@@ -24,10 +24,10 @@ The Maryland Quantum-Thermodynamics Hub aims to serve as a lodestone for quantum
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-6">
-                <a href="#"><img src="/uploads/IPST.png" class="img-fluid" alt="UMD Logo"></a>
+                <a href="https://ipst.umd.edu/"><img src="/uploads/IPST.png" class="img-fluid" alt="UMD Logo"></a>
             </div>
             <div class="col-lg-6 col-md-6 col-6">
-                <a href="#"><img src="/uploads/JTF-Logo-Modified.png" class="img-fluid" alt="Templeton Foundation Logo"></a>
+                <a href="https://www.templeton.org/"><img src="/uploads/JTF-Logo-Modified.png" class="img-fluid" alt="Templeton Foundation Logo"></a>
             </div>
         </div>
     </div>
