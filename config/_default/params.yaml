@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: victorian
-  theme_night: minimal
   font: lancelot
   font_size: XL
 
@@ -62,12 +61,8 @@ locale:
 features:
   syntax_highlighter:
     enable: false
-    # extra_languages:
-    #   - r
-    #   - latex
-    #   - python
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
@@ -77,20 +72,8 @@ features:
   avatar:
     gravatar: false
     shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
   search:
     provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   # map:
   #   provider: 'mapnik'
   #   api_key: ''
@@ -103,7 +86,6 @@ extensions:
     enable: true
 
 # Citation style
-
 publications:
   date_format: January 2006
   citation_style: apa
