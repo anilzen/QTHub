@@ -58,6 +58,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Presentations to student and interest groups
+- Quantum steampunk: Quantum information meets thermodynamics, [Workshop on Stochastic Thermodynamics](https://indico.ictp.it/event/10171), Women's Network, online (Oct. 26, 2023). By Nicole Yunger Halpern.
 - Mentored summer projects in [Talaria Summer Institute](https://talariasummerinstitute.org/) on quantum physics. By Kanu Sinha.
 - Faculty lunch seminar, [TREND REU](https://trend.umd.edu) (Training and Research in Nonlinear Dynamics Research Experience for Undergraduates) Program, [Institute for Physical Science and Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu), College Park, MD, USA (June 27, 2023). By Nicole Yunger Halpern.
 - High-school-class visit, *Computational Biology course,* [Nueva School](https://www.nuevaschool.org), San Matteo, CA, USA and online (May 8, 2023).
