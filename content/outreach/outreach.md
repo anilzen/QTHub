@@ -28,6 +28,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
 ## Public lectures
+- Quantum steampunk, [Quantum Thermodynamics Down Under](https://qtdownunder2023.com), [U. of Queensland](https://uq.edu.au), Brisbane, Australia and online (Nov. 7--10, 2023). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://www.youtube.com/watch?v=mgnTfnnSrjM), [From Physics to Life](https://www.surrey.ac.uk/events/20231012-physics-life), [Life on the Edge](https://www.templeton.org/grant/life-on-the-edge-quantum-thermodynamics-quantum-biology-and-the-arrow-of-time), [U. of California, Los Angeles](https://www.ucla.edu), Los Angeles, CA, USA (Oct. 11--12, 2023). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/V3cQVWR1P5w), [Symposium in honor of Ludwig Boltzmann's 179th Birthday](https://www.boltzmann.com/2023/01/ludwig-boltzmann-forum-20-feb-2023/), [Ludwig Boltzmann Forum](https://www.boltzmann.com/forum/), online (Feb. 20--21, 2023). By Nicole Yunger Halpern
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/pa7c3l1--7E), [Institute for the Science of Origins](https://origins.case.edu), [Case Western Reserve U.](https://case.edu), Cleveland, OH, USA (Nov. 1, 2022). By Nicole Yunger Halpern.
@@ -91,9 +92,10 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sept. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
-- Yunger Halpern's book, [_Quantum Steampunk: The Physics of Yesterday's Tomorrow_](https://quantumsteampunk.umiacs.io/book/) was shortlisted for the [Phi Beta Kappa Award for Science](https://www.pbk.org/2023ShortList) (September 5, 2023).
-- [Yunger Halpern is US Nominee for ASPIRE Young Researcher Award](https://jqi.umd.edu/news/yunger-halpern-us-nominee-aspire-young-researcher-award) (July 14, 2023).
+- Nicole Yunger Halpern was awarded the [2023 Mary Somerville Medal and Prize](https://www.iop.org/about/awards/2023-mary-somerville-medal-and-prize) by the [Institute of Physics](https://www.iop.org).
+- Nicole Yunger Halpern's book, [_Quantum Steampunk: The Physics of Yesterday's Tomorrow_](https://quantumsteampunk.umiacs.io/book/) was shortlisted for the [Phi Beta Kappa Award for Science](https://www.pbk.org/2023ShortList) (September 5, 2023).
+- [Nicole Yunger Halpern is US Nominee for ASPIRE Young Researcher Award](https://jqi.umd.edu/news/yunger-halpern-us-nominee-aspire-young-researcher-award) (July 14, 2023).
 - [PROSE Award in Popular Science and Mathematics](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) for Nicole Yunger Halpern's book [Quantum Steampunk: The Physics of Yesterday’s Tomorrow](https://www.press.jhu.edu/books/title/12750/quantum-steampunk).
   - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
-  - [Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
+  - [Nicole Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
 - [The Quantum-Steampunk Photo Shoot](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
