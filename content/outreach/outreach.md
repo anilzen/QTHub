@@ -78,7 +78,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 ## Blog Posts
 - [The power of awe](https://quantumfrontiers.com/2023/11/19/the-power-of-awe/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 19, 2023). By Nicole Yunger Halpern.
-- [Astrobiology meets quantum computation](https://quantumfrontiers.com/2023/10/22/astrobiology-meets-quantum-computation/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 22, 2023). By Nicole Yunger Halpern.
+- [Astrobiology meets quantum computation?](https://quantumfrontiers.com/2023/10/22/astrobiology-meets-quantum-computation/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 22, 2023). By Nicole Yunger Halpern.
 - [May I have this dance?](https://quantumfrontiers.com/2023/09/26/may-i-have-this-dance/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 26, 2023). By Nicole Yunger Halpern.
 - [Can Thermodynamics Resolve the Measurement Problem?](https://quantumfrontiers.com/2023/09/10/can-thermodynamics-resolve-the-measurement-problem/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 10, 2023). By Tom Rivlin.
 - [The Book of Mark, Chapter 2](https://quantumfrontiers.com/2023/08/28/the-book-of-mark-chapter-2/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 28, 2023). By Nicole Yunger Halpern.
