@@ -77,6 +77,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [What geckos have to do with quantum computing](https://quantumfrontiers.com/2023/12/27/what-geckos-have-to-do-with-quantum-computing/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 27, 2023). By Nicole Yunger Halpern.
 - [The power of awe](https://quantumfrontiers.com/2023/11/19/the-power-of-awe/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 19, 2023). By Nicole Yunger Halpern.
 - [Astrobiology meets quantum computation?](https://quantumfrontiers.com/2023/10/22/astrobiology-meets-quantum-computation/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 22, 2023). By Nicole Yunger Halpern.
 - [May I have this dance?](https://quantumfrontiers.com/2023/09/26/may-i-have-this-dance/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 26, 2023). By Nicole Yunger Halpern.
