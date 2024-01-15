@@ -49,6 +49,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- [Simulations of time travel send quantum metrology back to the future](https://physicsworld.com/a/simulations-of-time-travel-send-quantum-metrology-back-to-the-future/), by  Unnati Akhouri, [*Physics World*](https://physicsworld.com) (Jan. 12, 2024). Interviewee: Nicole Yunger Halpern.
 - [Physicists find ultimate limit for how accurate clocks can be](https://www.newscientist.com/article/2405140-physicists-find-ultimate-limit-for-how-accurate-clocks-can-be/), by Alex Wilkins, [New Scientist](https://www.newscientist.com) (Nov. 28, 2023). Interviewee: Nicole Yunger Halpern.
 - [Shaping the infrastructure that is woven into our everyday life: that's what quantum computing will do](https://sparks.cern/halpern-nicole), by Antonella Del Rosso, [*Sparks!*](https://sparks.cern) and *README.IT*, an internal publication of [CERN](https://home.cern) (Nov. 9, 2023). Interviewee: Nicole Yunger Halpern.
 - [Physicists Say Time Travel Can Be Simulated Using Quantum Entanglement](https://gizmodo.com/simulated-time-travel-quantum-entanglement-physics-1850959081), by Isaac Schultz, [*Gizmodo*](https://gizmodo.com) (Oct. 28, 2023). Interviewee: Nicole Yunger Halpern.
