@@ -27,5 +27,3 @@ url_pdf: https://arxiv.org/pdf/2401.10343.pdf
 #   - name: Journal
 #     url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.012209
 ---
-
-Something something $ a = \sqrt{b}$
