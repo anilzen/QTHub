@@ -1,3 +1,6 @@
+# USAGE
+# python add_pub.py 2305.16710
+
 import os
 import arxiv
 import requests
