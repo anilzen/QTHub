@@ -50,6 +50,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- [If the multiverse theory is real, how soon can I ditch this sucky timeline?](https://www.salon.com/2024/01/30/if-the-multiverse-theory-is-real-how-soon-can-i-ditch-this-sucky-timeline/), by Carlyn Zwarenstein, [*Salon*](https://www.salon.com) (Jan. 30, 2024). Interviewee: Nicole Yunger Halpern.
 - [Simulations of time travel send quantum metrology back to the future](https://physicsworld.com/a/simulations-of-time-travel-send-quantum-metrology-back-to-the-future/), by  Unnati Akhouri, [*Physics World*](https://physicsworld.com) (Jan. 12, 2024). Interviewee: Nicole Yunger Halpern.
 - [Physicists find ultimate limit for how accurate clocks can be](https://www.newscientist.com/article/2405140-physicists-find-ultimate-limit-for-how-accurate-clocks-can-be/), by Alex Wilkins, [New Scientist](https://www.newscientist.com) (Nov. 28, 2023). Interviewee: Nicole Yunger Halpern.
 - [Shaping the infrastructure that is woven into our everyday life: that's what quantum computing will do](https://sparks.cern/halpern-nicole), by Antonella Del Rosso, [*Sparks!*](https://sparks.cern) and *README.IT*, an internal publication of [CERN](https://home.cern) (Nov. 9, 2023). Interviewee: Nicole Yunger Halpern.
@@ -79,6 +80,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [The Noncommuting-Charges World Tour (Part 1 of 4)](https://quantumfrontiers.com/2024/01/31/the-noncommuting-charges-world-tour-part-1-of-4/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 31, 2024). By Shayan Majidy.
 - [What geckos have to do with quantum computing](https://quantumfrontiers.com/2023/12/27/what-geckos-have-to-do-with-quantum-computing/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 27, 2023). By Nicole Yunger Halpern.
 - [The power of awe](https://quantumfrontiers.com/2023/11/19/the-power-of-awe/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 19, 2023). By Nicole Yunger Halpern.
 - [Astrobiology meets quantum computation?](https://quantumfrontiers.com/2023/10/22/astrobiology-meets-quantum-computation/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 22, 2023). By Nicole Yunger Halpern.
