@@ -80,6 +80,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [The rain in Portugal](https://quantumfrontiers.com/2024/02/18/the-rain-in-portugal/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 18, 2024). By Nicole Yunger Halpern.
 - [Discoveries at the Dibner](https://quantumfrontiers.com/2024/02/06/discoveries-at-the-dibner/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 6, 2024). By Twesh Upadhyaya.
 - [Colliding the familiar and the anti-familiar at CERN](https://quantumfrontiers.com/2024/01/21/colliding-the-familiar-and-the-anti-familiar-at-cern/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 21, 2024). By Nicole Yunger Halpern.
 - [The Noncommuting-Charges World Tour (Part 1 of 4)](https://quantumfrontiers.com/2024/01/31/the-noncommuting-charges-world-tour-part-1-of-4/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 31, 2024). By Shayan Majidy.
