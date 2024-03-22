@@ -109,6 +109,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sept. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Nicole Yunger Halpern was awarded the [2024 Hermann Weyl Prize](https://quics.umd.edu/news/quics-fellow-awarded-2024-hermann-weyl-prize) for her work in quantum thermodynamics.
 - Nicole Yunger Halpern was awarded the [2023 Mary Somerville Medal and Prize](https://www.iop.org/about/awards/2023-mary-somerville-medal-and-prize) by the [Institute of Physics](https://www.iop.org).
 - Nicole Yunger Halpern's book, [_Quantum Steampunk: The Physics of Yesterday's Tomorrow_](https://quantumsteampunk.umiacs.io/book/) was shortlisted for the [Phi Beta Kappa Award for Science](https://www.pbk.org/2023ShortList) (September 5, 2023).
 - [Nicole Yunger Halpern is US Nominee for ASPIRE Young Researcher Award](https://jqi.umd.edu/news/yunger-halpern-us-nominee-aspire-young-researcher-award) (July 14, 2023).
