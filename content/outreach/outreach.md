@@ -80,6 +80,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [My experimental adventures in quantum thermodynamics](https://quantumfrontiers.com/2024/03/24/my-experimental-adventures-in-quantum-thermodynamics/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 24, 2024). By Aleksander Lasek.
 - [Noncommuting charges are much like Batman](https://quantumfrontiers.com/2024/03/20/noncommuting-charges-are-much-like-batman/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 20, 2024). By Shayan Majidy.
 - [The quantum gold rush](https://quantumfrontiers.com/2024/03/17/the-quantum-gold-rush/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 17, 2024). By Nicole Yunger Halpern.
 - [The rain in Portugal](https://quantumfrontiers.com/2024/02/18/the-rain-in-portugal/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 18, 2024). By Nicole Yunger Halpern.
