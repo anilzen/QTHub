@@ -69,6 +69,8 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Presentations to student and interest groups
+- Talk at Women in Science and Engineering Retreat, Tanque Verde High School, Tucson (Apr. 2, 2024). By Kanu Sinha.
+- "Atom and Photons", [Tech Talk at Prism week](https://prismweek.womeninoptics.com), Optical science and engineering diversity event at University of Arizona (Mar. 25, 2024). By Kanu Sinha. 
 - Quantum steampunk: Quantum information meets thermodynamics, [Workshop on Stochastic Thermodynamics](https://indico.ictp.it/event/10171), Women's Network, online (Oct. 26, 2023). By Nicole Yunger Halpern.
 - Mentored summer projects in [Talaria Summer Institute](https://talariasummerinstitute.org/) on quantum physics. By Kanu Sinha.
 - Faculty lunch seminar, [TREND REU](https://trend.umd.edu) (Training and Research in Nonlinear Dynamics Research Experience for Undergraduates) Program, [Institute for Physical Science and Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu), College Park, MD, USA (June 27, 2023). By Nicole Yunger Halpern.
