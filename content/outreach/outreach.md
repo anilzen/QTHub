@@ -52,6 +52,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- [*Canadians Who Innovate: The Trailblazers and Ideas That Are Changing The World,*](https://www.simonandschuster.com/books/Canadians-Who-Innovate/Roseann-OReilly-Runte/9781668023853) by Roseann O'Reilly Runte, [Simon & Schuster](https://www.simonandschuster.com) (May 7, 2024). Interviewee: Nicole Yunger Halpern.
 - [If the multiverse theory is real, how soon can I ditch this sucky timeline?](https://www.salon.com/2024/01/30/if-the-multiverse-theory-is-real-how-soon-can-i-ditch-this-sucky-timeline/), by Carlyn Zwarenstein, [*Salon*](https://www.salon.com) (Jan. 30, 2024). Interviewee: Nicole Yunger Halpern.
 - [Simulations of time travel send quantum metrology back to the future](https://physicsworld.com/a/simulations-of-time-travel-send-quantum-metrology-back-to-the-future/), by  Unnati Akhouri, [*Physics World*](https://physicsworld.com) (Jan. 12, 2024). Interviewee: Nicole Yunger Halpern.
 - [Physicists find ultimate limit for how accurate clocks can be](https://www.newscientist.com/article/2405140-physicists-find-ultimate-limit-for-how-accurate-clocks-can-be/), by Alex Wilkins, [New Scientist](https://www.newscientist.com) (Nov. 28, 2023). Interviewee: Nicole Yunger Halpern.
@@ -84,6 +85,10 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Film noir and quantum thermo](https://quantumfrontiers.com/2024/05/22/film-noir-and-quantum-thermo/), [Quantum Frontiers](https://quantumfrontiers.com) (May 22, 2024). By Nicole Yunger Halpern.
+- [Let gravity do its work](https://quantumfrontiers.com/2024/05/12/let-gravity-do-its-work/), [Quantum Frontiers](https://quantumfrontiers.com) (May 12, 2024). By Nicole Yunger Halpern.
+- [To thermalize, or not to thermalize, that is the question](https://quantumfrontiers.com/2024/04/24/to-thermalize-or-not-to-thermalize-that-is-the-question/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 24, 2024). By Nicole Yunger Halpern.
+- [How I didn’t become a philosopher (but wound up presenting a named philosophy lecture anyway)](https://quantumfrontiers.com/2024/04/14/how-i-didnt-become-a-philosopher-but-wound-up-presenting-a-named-philosophy-lecture-anyway/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 14, 2024). By Nicole Yunger Halpern.
 - [My experimental adventures in quantum thermodynamics](https://quantumfrontiers.com/2024/03/24/my-experimental-adventures-in-quantum-thermodynamics/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 24, 2024). By Aleksander Lasek.
 - [Noncommuting charges are much like Batman](https://quantumfrontiers.com/2024/03/20/noncommuting-charges-are-much-like-batman/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 20, 2024). By Shayan Majidy.
 - [The quantum gold rush](https://quantumfrontiers.com/2024/03/17/the-quantum-gold-rush/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 17, 2024). By Nicole Yunger Halpern.
