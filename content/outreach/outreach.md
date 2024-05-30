@@ -52,6 +52,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 
 ## Interviews in mainstream media
+- [Quantum time travel: The experiment to 'send a particle into the past'](https://www.newscientist.com/article/mg26234932-900-quantum-time-travel-the-experiment-to-send-a-particle-into-the-past/), by Miriam Frankel, [*New Scientist*](https://www.newscientist.com) (May 29, 2024). Interviewee: Nicole Yunger Halpern.
 - [*Canadians Who Innovate: The Trailblazers and Ideas That Are Changing The World,*](https://www.simonandschuster.com/books/Canadians-Who-Innovate/Roseann-OReilly-Runte/9781668023853) by Roseann O'Reilly Runte, [Simon & Schuster](https://www.simonandschuster.com) (May 7, 2024). Interviewee: Nicole Yunger Halpern.
 - [If the multiverse theory is real, how soon can I ditch this sucky timeline?](https://www.salon.com/2024/01/30/if-the-multiverse-theory-is-real-how-soon-can-i-ditch-this-sucky-timeline/), by Carlyn Zwarenstein, [*Salon*](https://www.salon.com) (Jan. 30, 2024). Interviewee: Nicole Yunger Halpern.
 - [Simulations of time travel send quantum metrology back to the future](https://physicsworld.com/a/simulations-of-time-travel-send-quantum-metrology-back-to-the-future/), by  Unnati Akhouri, [*Physics World*](https://physicsworld.com) (Jan. 12, 2024). Interviewee: Nicole Yunger Halpern.
