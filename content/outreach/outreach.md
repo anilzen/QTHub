@@ -86,6 +86,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Quantum Frontiers salutes an English teacher](https://quantumfrontiers.com/2024/06/09/quantum-frontiers-salutes-an-english-teacher/), [Quantum Frontiers](https://quantumfrontiers.com) (June 9, 2024). By Nicole Yunger Halpern.
 - [Film noir and quantum thermo](https://quantumfrontiers.com/2024/05/22/film-noir-and-quantum-thermo/), [Quantum Frontiers](https://quantumfrontiers.com) (May 22, 2024). By Nicole Yunger Halpern.
 - [Let gravity do its work](https://quantumfrontiers.com/2024/05/12/let-gravity-do-its-work/), [Quantum Frontiers](https://quantumfrontiers.com) (May 12, 2024). By Nicole Yunger Halpern.
 - [To thermalize, or not to thermalize, that is the question](https://quantumfrontiers.com/2024/04/24/to-thermalize-or-not-to-thermalize-that-is-the-question/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 24, 2024). By Nicole Yunger Halpern.
