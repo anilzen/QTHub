@@ -74,7 +74,7 @@ The [leadership team](#leadership) will choose 15 finalists.
 
 ### Prizes 
 
-Multiple prizes will be awarded, in the form of Visa gift certificates. The grand prize will be $1,500; the rest of the prizes will be at least $100 each and will total $3,000. The leadership and judges will determine how many prizes and which denominations to award. We anticipate offering prizes for categories such as Most Badass Steampunk Hero/ine, People’s Choice, Best Student Submission, and Quantum Technology We’d Most Like to Have.
+Multiple prizes will be awarded, in the form of Visa gift certificates. The grand prize will be <span>&#36;</span>1,500; the rest of the prizes will be at least <span>&#36;</span>100 each and will total <span>&#36;</span>3,000. The leadership and judges will determine how many prizes and which denominations to award. We anticipate offering prizes for categories such as Most Badass Steampunk Hero/ine, People’s Choice, Best Student Submission, and Quantum Technology We’d Most Like to Have.
 
 
 ### How to enter 
