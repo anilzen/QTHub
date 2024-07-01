@@ -23,6 +23,8 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 - Mark Raizen - [Controlling and Cooling of Atoms using Photon Entropy](https://www.youtube.com/watch?v=6nDngKrs48k)
 - Sean Carroll - [Philosophical Issues in Quantum Thermodynamics](https://www.youtube.com/watch?v=x9COqqqsFtc) -->
 
+You can also see the lectures of the 2024 Winter Graduate School on AMO Physics, [Quantum Thermodynamics: quantum many-body meets thermodynamics](https://lweb.cfa.harvard.edu/itamp-event/2024-winter-graduate-school-amo-physics-quantum-thermodynamics-quantum-many-body-meets) in this [YouTube playlist](https://www.youtube.com/playlist?list=PLCoSh1h28ieKWM8T8cAiBm8w88nsJey0g).
+
 ## Popular-Science Articles
 
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
