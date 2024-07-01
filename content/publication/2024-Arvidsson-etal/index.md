@@ -1,5 +1,5 @@
 ---
-title: Properties and Applications of the Kirkwood-Dirac Distribution
+title: Properties and applications of the Kirkwood-Dirac distribution
 subtitle: ''
 summary: ''
 authors:

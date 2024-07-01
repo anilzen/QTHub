@@ -41,7 +41,7 @@ publishDate: '2023-01-04T00:33:00.091248Z'
 publication_types:
 - '2'
 abstract: The pillars of quantum theory include entanglement and operators' failure to commute. The Page curve quantifies the bipartite entanglement of a many-body system in a random pure state. This entanglement is known to decrease if one constrains extensive observables that commute with each other (Abelian “charges”). Non-Abelian charges, which fail to commute with each other, are of current interest in quantum thermodynamics. For example, noncommuting charges were shown to reduce entropy-production rates and may enhance finite-size deviations from eigenstate thermalization. Bridging quantum thermodynamics to many-body physics, we quantify the effects of charges' noncommutation—of a symmetry's non-Abelian nature—on Page curves. First, we construct two models that are closely analogous but differ in whether their charges commute. We show analytically and numerically that the noncommuting-charge case has more entanglement. Hence charges' noncommutation can promote entanglement.
-publication: 'Phys. Rev. B 107, 045102'
+publication: 'Physical Review B **107**, 045102'
 url_pdf: https://arxiv.org/pdf/2209.14303.pdf
 links:
   - name: Journal

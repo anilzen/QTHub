@@ -20,7 +20,7 @@ publishDate: '2022-12-04T00:32:59.853702Z'
 publication_types:
 - '2'
 abstract: "An expression is derived for the momentum diffusion constant due to photon scattering of a small polarizable particle in blackbody radiation, and is shown to be related to the long-wavelength collisional decoherence rate for such a particle in a thermal environment. We show how this diffusion constant appears in the steady-state photon emission rate of two dipoles induced by blackbody radiation. We consider in addition the Einstein–Hopf drag force on a small polarizable particle moving in a blackbody field, and derive its relativistic form from the Lorentz transformation of forces. We obtain an expression for the rate of change of the field energy density associated with changes in the particles' kinetic energies and relate it to the Kompaneets equation for the case of Compton scattering by thermalized electrons."
-publication: 'J. Phys. B: At. Mol. Opt. Phys. 55 204002'
+publication: 'Journal of Physics B: Atomic, Molecular and Optical Physics **55**, 204002'
 url_pdf: https://arxiv.org/pdf/2204.11113.pdf
 links:
   - name: Journal

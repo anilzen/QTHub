@@ -1,5 +1,5 @@
 ---
-title: Effects of Noncommuting Charges in Quantum Information and Thermodynamics
+title: Effects of noncommuting charges in quantum information and thermodynamics
 subtitle: ''
 summary: ''
 authors:

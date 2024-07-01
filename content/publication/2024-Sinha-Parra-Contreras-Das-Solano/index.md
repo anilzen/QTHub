@@ -1,5 +1,5 @@
 ---
-title: Spontaneous Emission in the presence of Quantum Mirrors
+title: Spontaneous emission in the presence of quantum mirrors
 subtitle: ''
 summary: ''
 authors:

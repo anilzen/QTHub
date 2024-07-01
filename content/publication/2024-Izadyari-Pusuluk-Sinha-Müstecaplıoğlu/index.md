@@ -1,5 +1,5 @@
 ---
-title: Steady-State Entanglement Generation via Casimir-Polder Interactions
+title: Steady-state entanglement generation via Casimir-Polder interactions
 subtitle: ''
 summary: ''
 authors:

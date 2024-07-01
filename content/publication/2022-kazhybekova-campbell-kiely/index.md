@@ -33,7 +33,7 @@ publishDate: '2022-11-25T00:33:00.091248Z'
 publication_types:
 - '2'
 abstract: "We present a general protocol to control closed quantum systems that is based on minimising the adiabatic action. Using tools based on the geometry of quantum evolutions through the quantum adiabatic brachistochrone, we show that high fidelity control of the ground state of critical quantum systems can be achieved and requires only a reasonable approximation for the ground state spectral gap. We demonstrate our results for three widely applicable systems: the Landau-Zener, Ising, and fully connected spin models."
-publication: 'J. Phys. Commun. 6 113001'
+publication: 'Journal of Physics Communications **6**, 113001 '
 url_pdf: https://arxiv.org/pdf/2208.09271.pdf
 links:
   - name: Journal

@@ -1,5 +1,5 @@
 ---
-title: Quantum Electrodynamics with Time-varying Dielectrics
+title: Quantum electrodynamics with time-varying dielectrics
 subtitle: ''
 summary: ''
 authors:
