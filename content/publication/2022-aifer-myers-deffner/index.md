@@ -2,8 +2,6 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Thermodynamics of quantum information in noisy polarizers
-subtitle: ''
-summary: ''
 authors:
 - Maxwell Aifer
 - Nathan Myers
