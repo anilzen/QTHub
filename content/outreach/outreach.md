@@ -46,6 +46,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://event.on24.com/wcc/r/3863571/654CBB543F41A568EE099884563F6E72?partnerref=Nicole), [Physics Today *Webinar: Editor's Series*](https://physicstoday.scitation.org/pto/info/resources/webinars), online (Sept. 8, 2022). By Nicole Yunger Halpern. 
 
 ## Podcasts and radio shows
+- [Noncommuting conserved charges in quantum thermodynamics and beyond](https://youtu.be/FyTQucWz5jw), [NiklasOPF](https://www.youtube.com/@niklasopf), online (July 20, 2024). With Twesh Upadhyaya.
 - [The Quirks & Quarks Listener-Question Show](https://www.cbc.ca/radio/quirks/dec-30-the-quirks-quarks-listener-question-show-1.7066583) (Dec. 30, 2023). With Shayan Majidy.
 - [Quantum steampunk](https://www.youtube.com/watch?v=_h7afJ1S-iA), [Qubites](https://valoremreply.com/post/qubites-quantum-steampunk)
 [Valorem Reply](https://valoremreply.com) (Dec. 21, 2022). With Nicole Yunger Halpern.
