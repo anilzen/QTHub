@@ -7,7 +7,7 @@ authors:
   - Sebastian Deffner
 tags:
 categories: []
-date: '2024-01-10'
+date: '2024-06-24'
 lastmod: 2024-01-10T19:33:00-05:00
 featured: false
 draft: false
