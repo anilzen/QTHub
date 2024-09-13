@@ -80,6 +80,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 
 
 ## Presentations to student and interest groups
+- Quantum steampunk: Quantum information meets thermodynamics, Society of Physics Students, [U. of Maryland](https://umd.edu), College Park, MD, USA (Sept. 12, 2024). By Nicole Yunger Halpern.
 - Talk at Women in Science and Engineering Retreat, Tanque Verde High School, Tucson (Apr. 2, 2024). By Kanu Sinha.
 - "Atom and Photons", [Tech Talk at Prism week](https://prismweek.womeninoptics.com), Optical science and engineering diversity event at University of Arizona (Mar. 25, 2024). By Kanu Sinha. 
 - Quantum steampunk: Quantum information meets thermodynamics, [Workshop on Stochastic Thermodynamics](https://indico.ictp.it/event/10171), Women's Network, online (Oct. 26, 2023). By Nicole Yunger Halpern.
