@@ -96,6 +96,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sept. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Announcing the Quantum-Steampunk Creative Writing Course](https://quantumfrontiers.com/2024/09/18/announcing-the-quantum-steampunk-creative-writing-course/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 18, 2024). By Nicole Yunger Halpern.
 - [Always appropriate](https://quantumfrontiers.com/2024/08/11/always-appropriate/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 11, 2024). By Nicole Yunger Halpern.
 - [My favorite rocket scientist](https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/), [Quantum Frontiers](https://quantumfrontiers.com) (July 7, 2024). By Nicole Yunger Halpern.
 - [Quantum Frontiers salutes an English teacher](https://quantumfrontiers.com/2024/06/09/quantum-frontiers-salutes-an-english-teacher/), [Quantum Frontiers](https://quantumfrontiers.com) (June 9, 2024). By Nicole Yunger Halpern.
