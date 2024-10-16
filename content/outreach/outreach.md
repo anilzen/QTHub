@@ -56,9 +56,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Nicole Yunger Halpern on quantum steampunk](https://conversationsattheperimeter.podbean.com/e/nicole-yunger-halpern-on-quantum-steampunk/), [Conversations at the Perimeter](https://conversationsattheperimeter.podbean.com), [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca) (Dec. 1, 2022). With Nicole Yunger Halpern.
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
-
-
 ## Interviews in mainstream media
+- [Quantum theory is challenging long-standing ideas about entropy](https://www.newscientist.com/article/2452045-quantum-theory-is-challenging-long-standing-ideas-about-entropy/), by Karmela Padavic-Callaghan, [*New Scientist*](https://www.newscientist.com) (Oct. 15, 2024). Interviewee: Nicole Yunger Halpern.
 - [Why this physicist is bringing thermodynamics to the quantum age](https://www.sciencenews.org/article/nicole-yunger-halpern-quantum-physics), by Emily Conover, [*Science News*](https://www.sciencenews.org) (Sep. 23, 2024). Interviewee: Nicole Yunger Halpern.
 - [Is it possible to send messages back in time?](https://epoch.org.il/science-and-technology/570060/), by Rakefet Tavor, [*Epoch*](https://epoch.org.il) (Aug. 8, 2024). Interviewee: Nicole Yunger Halpern.
 - [Quantum Q&A with Shayan Majidy](https://uwaterloo.ca/institute-for-quantum-computing/news/quantum-qa-shayan-majidy), [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing), [U. of Waterloo](https://uwaterloo.ca) (Oct. 20, 2023). Interviewee: Shayan Majidy.
