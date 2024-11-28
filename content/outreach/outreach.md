@@ -57,6 +57,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- [Carnot's Theorem, FQxI's "My Favourite" Ep 1](https://www.youtube.com/watch?v=iCE3VQWo70w), by [FQXi](https://fqxi.org) (Nov. 28, 2024). Interviewee: Nicole Yunger Halpern.
 - [Quantum theory is challenging long-standing ideas about entropy](https://www.newscientist.com/article/2452045-quantum-theory-is-challenging-long-standing-ideas-about-entropy/), by Karmela Padavic-Callaghan, [*New Scientist*](https://www.newscientist.com) (Oct. 15, 2024). Interviewee: Nicole Yunger Halpern.
 - [Why this physicist is bringing thermodynamics to the quantum age](https://www.sciencenews.org/article/nicole-yunger-halpern-quantum-physics), by Emily Conover, [*Science News*](https://www.sciencenews.org) (Sep. 23, 2024). Interviewee: Nicole Yunger Halpern.
 - [Is it possible to send messages back in time?](https://epoch.org.il/science-and-technology/570060/), by Rakefet Tavor, [*Epoch*](https://epoch.org.il) (Aug. 8, 2024). Interviewee: Nicole Yunger Halpern.
@@ -96,6 +97,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Happy 200th birthday, Carnot's theorem!](https://quantumfrontiers.com/2024/11/28/happy-200th-birthday-carnots-theorem/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 28, 2024). By Nicole Yunger Halpern.
 - [Announcing the quantum-steampunk creative writing course](https://quantumfrontiers.com/2024/09/18/announcing-the-quantum-steampunk-creative-writing-course/), [Quantum Frontiers](https://quantumfrontiers.com) (Sep. 18, 2024). By Nicole Yunger Halpern.
 - [Always appropriate](https://quantumfrontiers.com/2024/08/11/always-appropriate/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 11, 2024). By Nicole Yunger Halpern.
 - [My favorite rocket scientist](https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/), [Quantum Frontiers](https://quantumfrontiers.com) (Jul. 7, 2024). By Nicole Yunger Halpern.
