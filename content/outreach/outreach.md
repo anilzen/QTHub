@@ -57,6 +57,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- [What Is Entropy? A Measure of Just How Little We Really Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/), by Zack Savitsky, [*Quanta Magazine*](https://www.quantamagazine.org) (Dec. 13, 2024). Interviewee: Nicole Yunger Halpern.
 - [Carnot's Theorem, FQxI's "My Favourite" Ep 1](https://www.youtube.com/watch?v=iCE3VQWo70w), by [FQXi](https://fqxi.org) (Nov. 28, 2024). Interviewee: Nicole Yunger Halpern.
 - [Quantum theory is challenging long-standing ideas about entropy](https://www.newscientist.com/article/2452045-quantum-theory-is-challenging-long-standing-ideas-about-entropy/), by Karmela Padavic-Callaghan, [*New Scientist*](https://www.newscientist.com) (Oct. 15, 2024). Interviewee: Nicole Yunger Halpern.
 - [Why this physicist is bringing thermodynamics to the quantum age](https://www.sciencenews.org/article/nicole-yunger-halpern-quantum-physics), by Emily Conover, [*Science News*](https://www.sciencenews.org) (Sep. 23, 2024). Interviewee: Nicole Yunger Halpern.
