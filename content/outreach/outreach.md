@@ -138,6 +138,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Nicole Yunger Halpern was awarded the 2024 Katharine R. Gebbie Young Investigator Award from the NIST chapter of Sigma Xi.
 - Nicole Yunger Halpern was named one of the [10 early-career scientists to watch in 2024](https://www.sciencenews.org/article/sn-10-early-career-scientists-2024) by [*Science News*](https://www.sciencenews.org) (Sep 23, 2024).
 - Nicole Yunger Halpern was awarded the [2024 Hermann Weyl Prize](https://quics.umd.edu/news/quics-fellow-awarded-2024-hermann-weyl-prize) for her work in quantum thermodynamics.
 - Nicole Yunger Halpern was awarded the [2023 Mary Somerville Medal and Prize](https://www.iop.org/about/awards/2023-mary-somerville-medal-and-prize) by the [Institute of Physics](https://www.iop.org).
