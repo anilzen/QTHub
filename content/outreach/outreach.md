@@ -100,6 +100,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 ## Blog Posts
 - [Finding Ed Jaynes’s ghost](https://quantumfrontiers.com/2024/12/22/finding-ed-jayness-ghost/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 22, 2024). By Nicole Yunger Halpern.
 - [Happy 200th birthday, Carnot's theorem!](https://quantumfrontiers.com/2024/11/28/happy-200th-birthday-carnots-theorem/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 28, 2024). By Nicole Yunger Halpern.
+- [Sculpting quantum steampunk](https://quantumfrontiers.com/2024/10/27/sculpting-quantum-steampunk/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 27, 2024). By Nicole Yunger Halpern.
 - [Announcing the quantum-steampunk creative writing course](https://quantumfrontiers.com/2024/09/18/announcing-the-quantum-steampunk-creative-writing-course/), [Quantum Frontiers](https://quantumfrontiers.com) (Sep. 18, 2024). By Nicole Yunger Halpern.
 - [Always appropriate](https://quantumfrontiers.com/2024/08/11/always-appropriate/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 11, 2024). By Nicole Yunger Halpern.
 - [My favorite rocket scientist](https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/), [Quantum Frontiers](https://quantumfrontiers.com) (Jul. 7, 2024). By Nicole Yunger Halpern.
