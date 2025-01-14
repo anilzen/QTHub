@@ -87,6 +87,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 
 ## Presentations to student and interest groups
 - Quantum steampunk: Quantum information meets thermodynamics, Society of Physics Students, [U. of Maryland](https://umd.edu), College Park, MD, USA (Sep. 12, 2024). By Nicole Yunger Halpern.
+- [Classical Non-Abelian Thermodynamics](https://www.youtube.com/watch?v=9CGfWs6DUq4) presented at the [MathQuantum](https://mathquantum.umd.edu/) research fair (Aug. 11, 2024). By Jade LeSchack.
 - Talk at Women in Science and Engineering Retreat, Tanque Verde High School, Tucson (Apr. 2, 2024). By Kanu Sinha.
 - "Atom and Photons", [Tech Talk at Prism week](https://prismweek.womeninoptics.com), Optical science and engineering diversity event at University of Arizona (Mar. 25, 2024). By Kanu Sinha. 
 - Quantum steampunk: Quantum information meets thermodynamics, [Workshop on Stochastic Thermodynamics](https://indico.ictp.it/event/10171), Women's Network, online (Oct. 26, 2023). By Nicole Yunger Halpern.
@@ -143,6 +144,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Jade LeSchack was awarded a [MathQuantum](https://mathquantum.umd.edu/people/) undergraduate fellowship in the summer of 2024.
 - Nicole Yunger Halpern was awarded the 2024 Katharine R. Gebbie Young Investigator Award from the NIST chapter of Sigma Xi.
 - Nicole Yunger Halpern was named one of the [10 early-career scientists to watch in 2024](https://www.sciencenews.org/article/sn-10-early-career-scientists-2024) by [*Science News*](https://www.sciencenews.org) (Sep 23, 2024).
 - Nicole Yunger Halpern was awarded the [2024 Hermann Weyl Prize](https://quics.umd.edu/news/quics-fellow-awarded-2024-hermann-weyl-prize) for her work in quantum thermodynamics.
