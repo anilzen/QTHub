@@ -87,6 +87,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 
 
 ## Presentations to student and interest groups
+- Mentorship for the [STAR Lab Program](https://sarsef.org/programs/stem-exploration/star-lab/), [SARSEF](https://sarsef.org/) (Southern Arizona Research, Science and Engineering Foundation), Tucson, AZ, USA (Sep 2024—Jan 2025). By Kanu Sinha.
 - Quantum steampunk: Quantum information meets thermodynamics, Society of Physics Students, [U. of Maryland](https://umd.edu), College Park, MD, USA (Sep. 12, 2024). By Nicole Yunger Halpern.
 - [Classical Non-Abelian Thermodynamics](https://www.youtube.com/watch?v=9CGfWs6DUq4) presented at the [MathQuantum](https://mathquantum.umd.edu/) research fair (Aug. 11, 2024). By Jade LeSchack.
 - Talk at Women in Science and Engineering Retreat, Tanque Verde High School, Tucson (Apr. 2, 2024). By Kanu Sinha.
