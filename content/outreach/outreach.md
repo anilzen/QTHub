@@ -58,9 +58,11 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- [Quantum refrigerator keeps qubits cool](https://physics.aps.org/articles/v18/16), by Susan Curtis, [*Physics Magazine*](https://physics.aps.org) (Jan. 23, 2025). Interviewee: Nicole Yunger Halpern.
 - [Quantum computers get automatic error correction for the first time](https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/), by Karmela Padavic-Callaghan, [*New Scientist*](https://www.newscientist.com) (Jan. 9, 2025). Interviewee: Nicole Yunger Halpern.
 - [Novel ‘quantum refrigerator’ is great at erasing quantum computer’s chalkboard](https://www.nist.gov/news-events/news/2025/01/novel-quantum-refrigerator-great-erasing-quantum-computers-chalkboard), by Chad Boutin, [*NIST News*](https://www.nist.gov/news-events/news) (Jan. 9, 2025). Interviewee: Nicole Yunger Halpern.
 - [Record cold quantum refrigerator paves way for reliable quantum computers](https://www.chalmers.se/en/current/news/mc2-record-cold-quantum-refrigerator-paves-way-for-reliable-quantum-computers/), by Lovisa Håkansson, [*Chalmers U. News*](https://www.chalmers.se/en/current/news/) (Jan. 9, 2025). Interviewee: Nicole Yunger Halpern.
+- [Jobs If You Like Math](https://www.referencepointpress.com/JobsIfYouLikeMath.aspx), by Stuart Kallen, [Reference Point Press](https://www.referencepointpress.com) (Jan. 1, 2025). Interviewee: Nicole Yunger Halpern.
 - [What Is Entropy? A Measure of Just How Little We Really Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/), by Zack Savitsky, [*Quanta Magazine*](https://www.quantamagazine.org) (Dec. 13, 2024). Interviewee: Nicole Yunger Halpern.
 - [Carnot's Theorem, FQxI's "My Favourite" Ep 1](https://www.youtube.com/watch?v=iCE3VQWo70w), by [FQXi](https://fqxi.org) (Nov. 28, 2024). Interviewee: Nicole Yunger Halpern.
 - [Quantum theory is challenging long-standing ideas about entropy](https://www.newscientist.com/article/2452045-quantum-theory-is-challenging-long-standing-ideas-about-entropy/), by Karmela Padavic-Callaghan, [*New Scientist*](https://www.newscientist.com) (Oct. 15, 2024). Interviewee: Nicole Yunger Halpern.
@@ -104,6 +106,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Ten Lessons I Learned from John Preskill](https://quantumfrontiers.com/2025/01/19/ten-lessons-i-learned-from-john-preskill/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 19, 2025). By Nicole Yunger Halpern.
 - [Finding Ed Jaynes’s ghost](https://quantumfrontiers.com/2024/12/22/finding-ed-jayness-ghost/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 22, 2024). By Nicole Yunger Halpern.
 - [Happy 200th birthday, Carnot's theorem!](https://quantumfrontiers.com/2024/11/28/happy-200th-birthday-carnots-theorem/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 28, 2024). By Nicole Yunger Halpern.
 - [Sculpting quantum steampunk](https://quantumfrontiers.com/2024/10/27/sculpting-quantum-steampunk/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 27, 2024). By Nicole Yunger Halpern.
