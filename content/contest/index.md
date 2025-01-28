@@ -45,7 +45,7 @@ Below are the short-listed finalists for the 2023 Quantum-Steampunk Short-Story 
 - [*The Final Dawn*](https://drive.google.com/file/d/1ic5RIkRRBGr4fsg8rM-zegZCCp9GOdz6/view?usp=share_link)&nbsp; by Nathan Suri: "I am a particle physics graduate student, trying to explore the universe from its smallest levels to its largest. I seek the truth through a myriad of lenses, empirical and creative."
 - [*Eikonal*](https://drive.google.com/file/d/1QJWDWvolKL1z2qLGp2IwO3gOKlB9PDLU/view?usp=share_link)&nbsp; by Paulo Barreto: "This is not the kind of text I usually write (I did it almost on a whim, over a couple of hours after hearing about the contest)—but hey, there's a first time for everything!"
 - [*Raintown*](https://drive.google.com/file/d/1C9-XVNHBSeSXoFQJV3lROE-0NOUdgzt5/view?usp=share_link)&nbsp; by Katherine Wong: "Katherine Wong is an undergrad at Stanford University studying Symbolic Systems (Computer Science + Philosophy/Psychology) and English. She loves reading/writing sci-fi and collecting funky earrings."
-- [*A Message for Dr. Y.S. Sun*](https://drive.google.com/file/d/1Ri0wN_M0qM-pCvFWI0txL8DQI3Zt0IRL/view?usp=share_link)&nbsp; by M.H. Cheung: "M. H. Cheung is an alumnus of the Alpha Young Writers Workshop, and enjoys stories about broken worlds, how to mend and live within them. M. H. can be found on Twitter [@einduawau](https://twitter.com/@einduawau), and at mhcheung.com."
+- *A Message for Dr. Y.S. Sun*&nbsp; by M.H. Cheung: "M. H. Cheung is an alumnus of the Alpha Young Writers Workshop, and enjoys stories about broken worlds, how to mend and live within them. M. H. can be found on Twitter [@einduawau](https://twitter.com/@einduawau), and at mhcheung.com."
 
 --- 
 
