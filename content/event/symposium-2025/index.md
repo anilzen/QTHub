@@ -56,7 +56,7 @@ projects:
 
 ## Invited Speakers
 
-- [Alaina Green](https://scholar.google.com/citations?user=tmNzgUcAAAAJ&hl=en) (University of Maryland)
-- [Ceren B. Dag](https://scholar.google.com/citations?hl=en&user=gAKYr8sAAAAJ) (Indiana University Bloomington)
-- [Ricardo Román-Ancheyta](https://scholar.google.com/citations?hl=en&user=z1XQWOMAAAAJ) (Universidad Nacional Autónoma de México)
-- [Eduardo Martín-Martínez](https://scholar.google.com/citations?hl=en&user=AhUfKjkAAAAJ) (University of Waterloo)
+- [Alaina Green](https://jqi.umd.edu/people/alaina-green) (University of Maryland)
+- [Ceren B. Dag](https://physics.indiana.edu/about/directory/all-faculty-scientists/dag-ceren.html) (Indiana University Bloomington)
+- [Ricardo Román-Ancheyta](https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894) (Universidad Nacional Autónoma de México)
+- [Eduardo Martín-Martínez](https://sites.google.com/site/emmfis/) (University of Waterloo)
