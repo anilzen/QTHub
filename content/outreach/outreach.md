@@ -112,6 +112,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Lessons in frustration](https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 16, 2025). By Nicole Yunger Halpern.
 - [Ten Lessons I Learned from John Preskill](https://quantumfrontiers.com/2025/01/19/ten-lessons-i-learned-from-john-preskill/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 19, 2025). By Nicole Yunger Halpern.
 - [Finding Ed Jaynes’s ghost](https://quantumfrontiers.com/2024/12/22/finding-ed-jayness-ghost/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 22, 2024). By Nicole Yunger Halpern.
 - [Happy 200th birthday, Carnot's theorem!](https://quantumfrontiers.com/2024/11/28/happy-200th-birthday-carnots-theorem/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 28, 2024). By Nicole Yunger Halpern.
