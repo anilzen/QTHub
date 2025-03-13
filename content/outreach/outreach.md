@@ -58,6 +58,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- [UMD Physicist Helps Sculpt Quantum Mechanics into Reality](https://umdphysics.umd.edu/about-us/news/department-news/2012-feature-s25.html), [*UMD Department of Physics News*](https://umdphysics.umd.edu) (Mar. 2025). Interviewee: Nicole Yunger Halpern.
 - [In the quantum realm, time's arrow might fly in two directions](https://www.scientificamerican.com/article/does-time-work-differently-in-the-quantum-realm/), by Gayoung Lee, [*Scientific American*](https://www.scientificamerican.com) (Feb. 27, 2025). Interviewee: Nicole Yunger Halpern.
 - [‘Quantum Steampunk’ Creative Writing Course Explores the Science of Science Fiction](https://today.umd.edu/quantum-steampunk-creative-writing-course-explores-the-science-of-science-fiction), by John Tucker , [*Maryland Today*](https://today.umd.edu) (Feb. 14, 2025). Interviewee: Nicole Yunger Halpern.
 - [Your Consciousness Can Reach Back in Time to Shape the Past, a New Theory Suggests](https://www.popularmechanics.com/science/a63788081/consciousness-retrocausality/), by Stav Dimitropoulos, [*Popular Mechanics*](https://www.popularmechanics.com) (Feb. 13, 2025). Interviewee: Nicole Yunger Halpern.

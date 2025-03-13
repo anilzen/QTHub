@@ -1,7 +1,7 @@
 ---
-title: UMBC Quantum-Thermodynamics Symposium 2025
+title: Maryland Quantum-Thermodynamics Symposium 2025
 
-event: UMBC Quantum-Thermodynamics Symposium
+event: Maryland Quantum-Thermodynamics Symposium 2025
 event_url: ./
 
 location: University of Maryland, Baltimore County
@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-03-10T00:00:00Z'
 
-authors: [deffner, Yunger-Halpern]
+authors: [Anza, Campbell, Deffner, Jarzynski, Kalev, Sinha, Yunger-Halpern]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -54,6 +54,9 @@ slides:
 projects:
 ---
 
-### Description
+## Invited Speakers
 
-UMBC Symposium
+- [Alaina Green](https://scholar.google.com/citations?user=tmNzgUcAAAAJ&hl=en) (University of Maryland)
+- [Ceren B. Dag](https://scholar.google.com/citations?hl=en&user=gAKYr8sAAAAJ) (Indiana University Bloomington)
+- [Ricardo Román-Ancheyta](https://scholar.google.com/citations?hl=en&user=z1XQWOMAAAAJ) (Universidad Nacional Autónoma de México)
+- [Eduardo Martín-Martínez](https://scholar.google.com/citations?hl=en&user=AhUfKjkAAAAJ) (University of Waterloo)
