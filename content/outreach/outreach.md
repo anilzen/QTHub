@@ -58,6 +58,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- [The physicist on a mission to spark a quantum industrial revolution](https://www.newscientist.com/article/mg26535340-700-the-physicist-on-a-mission-to-spark-a-quantum-industrial-revolution/), by Thomas Lewton, [*New Scientist*](https://www.newscientist.com) (Mar. 10, 2025). Interviewee: Nicole Yunger Halpern.
 - [UMD Physicist Helps Sculpt Quantum Mechanics into Reality](https://umdphysics.umd.edu/about-us/news/department-news/2012-feature-s25.html), [*UMD Department of Physics News*](https://umdphysics.umd.edu) (Mar. 2025). Interviewee: Nicole Yunger Halpern.
 - [In the quantum realm, time's arrow might fly in two directions](https://www.scientificamerican.com/article/does-time-work-differently-in-the-quantum-realm/), by Gayoung Lee, [*Scientific American*](https://www.scientificamerican.com) (Feb. 27, 2025). Interviewee: Nicole Yunger Halpern.
 - [‘Quantum Steampunk’ Creative Writing Course Explores the Science of Science Fiction](https://today.umd.edu/quantum-steampunk-creative-writing-course-explores-the-science-of-science-fiction), by John Tucker , [*Maryland Today*](https://today.umd.edu) (Feb. 14, 2025). Interviewee: Nicole Yunger Halpern.
@@ -156,6 +157,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Postdoc Aleksander Lasek has won a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+- Nicole Yunger Halpern received a [Femtum Leap Innovation Award](https://quantuminnovationsummit.com/the-femtum-leap-awards/) from the [Quantum Innovation Summit](https://quantuminnovationsummit.com/).
 - Jade LeSchack was awarded a [MathQuantum](https://mathquantum.umd.edu/people/) undergraduate fellowship in the summer of 2024.
 - Nicole Yunger Halpern was awarded the 2024 Katharine R. Gebbie Young Investigator Award from the NIST chapter of Sigma Xi.
 - Nicole Yunger Halpern was named one of the [10 early-career scientists to watch in 2024](https://www.sciencenews.org/article/sn-10-early-career-scientists-2024) by [*Science News*](https://www.sciencenews.org) (Sep 23, 2024).
