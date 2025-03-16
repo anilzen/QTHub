@@ -56,7 +56,7 @@ projects:
 
 ## Invited Speakers
 
-- [Jacob A. Barandes](https://www.physics.harvard.edu/people/facpages/barandes)
+- [Jacob A. Barandes](https://www.jacobbarandes.com/) (Harvard University)
 - [Ceren B. Dag](https://physics.indiana.edu/about/directory/all-faculty-scientists/dag-ceren.html) (Indiana University Bloomington)
 - [Alaina Green](https://jqi.umd.edu/people/alaina-green) (University of Maryland)
 - [Eduardo Martín-Martínez](https://sites.google.com/site/emmfis/) (University of Waterloo)
