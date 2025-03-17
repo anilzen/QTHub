@@ -157,6 +157,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- Jade LeSchack was accepted into the [Omicron Delta Kappa National Leadership Honor Society](https://odk.umd.edu/) (Mar 2025).
 - Postdoc Aleksander Lasek has won a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 - Nicole Yunger Halpern received a [Femtum Leap Innovation Award](https://quantuminnovationsummit.com/the-femtum-leap-awards/) from the [Quantum Innovation Summit](https://quantuminnovationsummit.com/).
 - Jade LeSchack was awarded a [MathQuantum](https://mathquantum.umd.edu/people/) undergraduate fellowship in the summer of 2024.
