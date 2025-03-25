@@ -55,7 +55,7 @@ projects: []
 - [Ricardo Román-Ancheyta](https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894) (Universidad Nacional Autónoma de México)  
 
 
-<div style="border: 2px solid #7f6c34; padding: .2rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
+<div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
   <strong>🚧 More information to come soon. 🚧</strong>
 </div>
 
