@@ -51,8 +51,8 @@ projects: []
 - [Ceren B. Dag](https://physics.indiana.edu/about/directory/all-faculty-scientists/dag-ceren.html) (Indiana University Bloomington)
 - [Alaina Green](https://jqi.umd.edu/people/alaina-green) (University of Maryland)
 - [Eduardo Martin-Martinez](https://sites.google.com/site/emmfis/) (University of Waterloo)
-- [Iman Marvian](https://ece.duke.edu/people/iman-marvian/)
-- [John Nicol](https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html)
+- [Iman Marvian](https://ece.duke.edu/people/iman-marvian/) (Duke University)
+- [John Nicol](https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html) (University of Rochester)
 - [Ricardo Román-Ancheyta](https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894) (Universidad Nacional Autónoma de México)
 
 <div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
