@@ -4,16 +4,29 @@
 &lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Co-hosted by the &lt;a href="https://qsi.umbc.edu/" target="_blank" rel="noopener">Quantum Science Institute&lt;/a>&lt;/strong>.&lt;/p>
-&lt;h2 id="invited-speakers">Invited Speakers&lt;/h2>
+&lt;h1 id="invited-speakers">Invited Speakers&lt;/h1>
 &lt;ul>
 &lt;li>&lt;a href="https://www.jacobbarandes.com/" target="_blank" rel="noopener">Jacob A. Barandes&lt;/a> (Harvard University)&lt;/li>
 &lt;li>&lt;a href="https://physics.indiana.edu/about/directory/all-faculty-scientists/dag-ceren.html" target="_blank" rel="noopener">Ceren B. Dag&lt;/a> (Indiana University Bloomington)&lt;/li>
 &lt;li>&lt;a href="https://jqi.umd.edu/people/alaina-green" target="_blank" rel="noopener">Alaina Green&lt;/a> (University of Maryland)&lt;/li>
 &lt;li>&lt;a href="https://sites.google.com/site/emmfis/" target="_blank" rel="noopener">Eduardo Martin-Martinez&lt;/a> (University of Waterloo)&lt;/li>
 &lt;li>&lt;a href="https://ece.duke.edu/people/iman-marvian/" target="_blank" rel="noopener">Iman Marvian&lt;/a> (Duke University)&lt;/li>
-&lt;li>&lt;a href="https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html" target="_blank" rel="noopener">John Nicol&lt;/a> (University of Rochester)&lt;/li>
+&lt;li>&lt;a href="https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html" target="_blank" rel="noopener">John Nichol&lt;/a> (University of Rochester)&lt;/li>
 &lt;li>&lt;a href="https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894" target="_blank" rel="noopener">Ricardo Román-Ancheyta&lt;/a> (Universidad Nacional Autónoma de México)&lt;/li>
 &lt;/ul>
+&lt;hr>
+&lt;h1 id="titles-and-abstracts">Titles and Abstracts&lt;/h1>
+&lt;hr>
+&lt;h2 id="eduardo-martin-martinez">Eduardo Martin-Martinez&lt;/h2>
+&lt;p>&lt;em>University of Waterloo&lt;/em>&lt;/p>
+&lt;h3 id="towards-quantum-field-thermodynamics-observational-entropy-and-operational-definitions-of--work-and-heat">Towards Quantum Field Thermodynamics: Observational Entropy, and operational definitions of Work and Heat&lt;/h3>
+&lt;p>We will review the notions of internal energy and work distributions in quantum field theory (QFT), highlighting the limitations of extending standard thermodynamic definitions—many of them originally developed for finite-dimensional quantum systems—to the infinite-dimensional, local setting of QFT. Following this review, we will argue for a reformulation of thermodynamic concepts such as work, heat, and entropy within the algebraic framework of von Neumann algebras, which is the language that naturally encodes the operational and localization structure of QFT. This shift is essential for constructing a physically meaningful extension of quantum thermodynamics beyond finite systems, particularly in addressing the inadequacy of the von Neumann entropy to capture thermodynamic behavior in scenarios involving coarse-grained observations or limited resolution. Within this framework, we introduce a generalization of observational entropy for systems with a richer set of controllable degrees of freedom.&lt;/p>
+&lt;hr>
+&lt;h2 id="ricardo-román-ancheyta">Ricardo Román-Ancheyta&lt;/h2>
+&lt;p>&lt;em>Universidad Nacional Autónoma de México&lt;/em>&lt;/p>
+&lt;h3 id="heat-transport-and-rectification-via-quantum-statistical-and-coherence-asymmetries">Heat transport and rectification via quantum statistical and coherence asymmetries&lt;/h3>
+&lt;p>The repeated system-bath interaction model, also known as the quantum collision model, remains a versatile framework for studying quantum heat transport phenomena. This approach allows us to identify the fundamental symmetries that govern these behaviors. I will illustrate this by discussing our recent work, in which we thoroughly investigated thermal rectification (asymmetric heat conduction) in scenarios similar to single atomic junctions, quantum thermal machines, quantum thermalization, and coherence generation in the steady state through composite interactions.&lt;/p>
+&lt;hr>
 &lt;div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
 &lt;strong>🚧 More information to come soon. 🚧&lt;/strong>
 &lt;/div>
