@@ -9,4 +9,3 @@ banner:
   caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
   image: 'Redo.jpg'
 ---
-Stay tuned for upcoming events!
