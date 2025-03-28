@@ -62,17 +62,16 @@ projects: []
 ## Eduardo Martin-Martinez
 *University of Waterloo*
 
-### Towards Quantum Field Thermodynamics: Observational Entropy, and operational definitions of  Work and Heat
+### Towards Quantum Field Thermodynamics: Observational Entropy and Operational Definitions of Work and Heat
 
 We will review the notions of internal energy and work distributions in quantum field theory (QFT), highlighting the limitations of extending standard thermodynamic definitions—many of them originally developed for finite-dimensional quantum systems—to the infinite-dimensional, local setting of QFT. Following this review, we will argue for a reformulation of thermodynamic concepts such as work, heat, and entropy within the algebraic framework of von Neumann algebras, which is the language that naturally encodes the operational and localization structure of QFT. This shift is essential for constructing a physically meaningful extension of quantum thermodynamics beyond finite systems, particularly in addressing the inadequacy of the von Neumann entropy to capture thermodynamic behavior in scenarios involving coarse-grained observations or limited resolution. Within this framework, we introduce a generalization of observational entropy for systems with a richer set of controllable degrees of freedom.
 
 ---
 
-
 ## Ricardo Román-Ancheyta
 *Universidad Nacional Autónoma de México*
 
-### Heat transport and rectification via quantum statistical and coherence asymmetries
+### Heat Transport and Rectification via Quantum Statistical and Coherence Asymmetries
 
 The repeated system-bath interaction model, also known as the quantum collision model, remains a versatile framework for studying quantum heat transport phenomena. This approach allows us to identify the fundamental symmetries that govern these behaviors. I will illustrate this by discussing our recent work, in which we thoroughly investigated thermal rectification (asymmetric heat conduction) in scenarios similar to single atomic junctions, quantum thermal machines, quantum thermalization, and coherence generation in the steady state through composite interactions.
 
