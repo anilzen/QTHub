@@ -59,6 +59,15 @@ projects: []
 # Titles and Abstracts
 ---
 
+## Alaina Green
+*University of Maryland*
+
+### The Trapped Ion Toolkit for Quantum Thermodynamics
+
+The precise control of quantized degrees of freedom available in trapped ion quantum computers/simulators have already been leveraged to perform seminal projects of experimental quantum thermodynamics (QTD). In this talk I will describe the standard trapped ion toolkit for quantum simulation - the contemporary ways in which both the ion's valence electronic state and the ions harmonic motion (i.e. phonons) are controlled in the lab. Additionally, I will present a short description of the early QTD experiments which used this toolkit and preview the means of expanding the toolkit, presently being pursued in my lab and others. Time allowing, I will briefly compare trapped ion simulators to other simulation platforms and/or comment on trapped ion quantum computers as tools for experimental QTD.
+
+---
+
 ## Eduardo Martin-Martinez
 *University of Waterloo*
 
