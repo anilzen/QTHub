@@ -59,6 +59,19 @@ projects: []
 # Titles and Abstracts
 ---
 
+## Ceren B. Dag
+*Indiana University Bloomington*
+
+### Quantum scarring in many-body quantum systems
+
+Quantum scars, introduced within the context of single-particle billiard model in 1984, are quantum eigenstates with an enhanced probability density around an unstable periodic orbit (UPO) in a chaotic phase space. Recently, nonthermal many-body eigenstates embedded in an otherwise thermal spectrum have been identified as a many-body generalization of quantum scars. This concept, however, is not associated to a chaotic phase space, and hence the connection between the single- and many-body notions of quantum scars had remained incomplete. In this talk, I will present the first quantum many-body scars originating from UPOs of a chaotic phase space in different spin models. These states verify the eigenstate thermalization hypothesis, and we thus refer to them as thermal quantum many-body scars. While they do not preclude thermalization, their spectral structure featuring approximately equispaced towers of states yields an anomalous oscillatory dynamics preceding thermalization for wavepackets initialized on a UPO. I will highlight a particular spin-1 chain which hosts both types of scars, thermal and nonthermal where the latter is associated with stable periodic orbits. Time permitting, I will also provide evidence for the ubiquity of scarred quantum eigenstates in a generic spin-1/2 chain, and how scarring makes the system more likely to be found on an orbit it was initialized on, retaining a memory of its past. 
+
+Physical Review Letters 132 (2), [020401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.020401) (2024). </br>
+Physical Review B 110 (14), [144302](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.144302) (2024).</br>
+arXiv:[2408.10301](https://arxiv.org/abs/2408.10301)
+
+---
+
 ## Alaina Green
 *University of Maryland*
 
