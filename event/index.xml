@@ -17,6 +17,14 @@
 &lt;hr>
 &lt;h1 id="titles-and-abstracts">Titles and Abstracts&lt;/h1>
 &lt;hr>
+&lt;h2 id="ceren-b-dag">Ceren B. Dag&lt;/h2>
+&lt;p>&lt;em>Indiana University Bloomington&lt;/em>&lt;/p>
+&lt;h3 id="quantum-scarring-in-many-body-quantum-systems">Quantum scarring in many-body quantum systems&lt;/h3>
+&lt;p>Quantum scars, introduced within the context of single-particle billiard model in 1984, are quantum eigenstates with an enhanced probability density around an unstable periodic orbit (UPO) in a chaotic phase space. Recently, nonthermal many-body eigenstates embedded in an otherwise thermal spectrum have been identified as a many-body generalization of quantum scars. This concept, however, is not associated to a chaotic phase space, and hence the connection between the single- and many-body notions of quantum scars had remained incomplete. In this talk, I will present the first quantum many-body scars originating from UPOs of a chaotic phase space in different spin models. These states verify the eigenstate thermalization hypothesis, and we thus refer to them as thermal quantum many-body scars. While they do not preclude thermalization, their spectral structure featuring approximately equispaced towers of states yields an anomalous oscillatory dynamics preceding thermalization for wavepackets initialized on a UPO. I will highlight a particular spin-1 chain which hosts both types of scars, thermal and nonthermal where the latter is associated with stable periodic orbits. Time permitting, I will also provide evidence for the ubiquity of scarred quantum eigenstates in a generic spin-1/2 chain, and how scarring makes the system more likely to be found on an orbit it was initialized on, retaining a memory of its past.&lt;/p>
+&lt;p>Physical Review Letters 132 (2), &lt;a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.020401" target="_blank" rel="noopener">020401&lt;/a> (2024). &lt;/br>
+Physical Review B 110 (14), &lt;a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.144302" target="_blank" rel="noopener">144302&lt;/a> (2024).&lt;/br>
+arXiv:&lt;a href="https://arxiv.org/abs/2408.10301" target="_blank" rel="noopener">2408.10301&lt;/a>&lt;/p>
+&lt;hr>
 &lt;h2 id="alaina-green">Alaina Green&lt;/h2>
 &lt;p>&lt;em>University of Maryland&lt;/em>&lt;/p>
 &lt;h3 id="the-trapped-ion-toolkit-for-quantum-thermodynamics">The Trapped Ion Toolkit for Quantum Thermodynamics&lt;/h3>
