@@ -90,6 +90,15 @@ We will review the notions of internal energy and work distributions in quantum 
 
 ---
 
+## John Nichol
+*University of Rochester*
+
+### The thermodynamics of semiconductor quantum dots
+
+Electrons in semiconductor quantum dots offer a versatile platform for exploring a wide variety of physical concepts, including thermodynamics. I will review the basic ideas of thermodynamics in the context of semiconductor quantum dots, provide an overview of recent results and open questions in this area, and discuss current experiments in my group in this area.
+
+---
+
 ## Ricardo Román-Ancheyta
 *Universidad Nacional Autónoma de México*
 
