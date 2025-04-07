@@ -90,6 +90,19 @@ We will review the notions of internal energy and work distributions in quantum 
 
 ---
 
+
+## Iman Marvian
+*Duke University*
+
+### Coherence Distillation, Fisher Information Metrics, and Energy-Conserving Quantum Circuits
+
+In the first part of this talk, I will discuss the distillation of coherent states from multiple coherent thermal states under general phase-insensitive operations--protocols that combine several copies of noisy coherent states to obtain a single mode in a less noisy state, i.e., at a lower temperature. I will present the optimal protocol that yields the closest output to the desired coherent state and show that the error is governed by the so-called RLD Fisher information metric, thereby providing an operational interpretation of this quantity.
+
+In the second part, I will discuss an ongoing project on energy-conserving quantum circuits, i.e., circuits that conserve the intrinsic Hamiltonian of qubits. I will explain how general energy-conserving unitary transformations can be implemented using energy-conserving interactions, such as the XY interaction, provided that one can employ a single ancillary qubit that acts as a catalyst.
+
+
+---
+
 ## John Nichol
 *University of Rochester*
 
