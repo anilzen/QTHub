@@ -11,6 +11,7 @@
 &lt;li>&lt;a href="https://jqi.umd.edu/people/alaina-green" target="_blank" rel="noopener">Alaina Green&lt;/a> (University of Maryland)&lt;/li>
 &lt;li>&lt;a href="https://sites.google.com/site/emmfis/" target="_blank" rel="noopener">Eduardo Martin-Martinez&lt;/a> (University of Waterloo)&lt;/li>
 &lt;li>&lt;a href="https://ece.duke.edu/people/iman-marvian/" target="_blank" rel="noopener">Iman Marvian&lt;/a> (Duke University)&lt;/li>
+&lt;li>&lt;a href="https://physics.unm.edu/people/faculty/niklas-mueller.html" target="_blank" rel="noopener">Niklas Muller&lt;/a> (University of New Mexico)&lt;/li>
 &lt;li>&lt;a href="https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html" target="_blank" rel="noopener">John Nichol&lt;/a> (University of Rochester)&lt;/li>
 &lt;li>&lt;a href="https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894" target="_blank" rel="noopener">Ricardo Román-Ancheyta&lt;/a> (Universidad Nacional Autónoma de México)&lt;/li>
 &lt;/ul>
@@ -40,6 +41,10 @@ arXiv:&lt;a href="https://arxiv.org/abs/2408.10301" target="_blank" rel="noopene
 &lt;h3 id="coherence-distillation-fisher-information-metrics-and-energy-conserving-quantum-circuits">Coherence Distillation, Fisher Information Metrics, and Energy-Conserving Quantum Circuits&lt;/h3>
 &lt;p>In the first part of this talk, I will discuss the distillation of coherent states from multiple coherent thermal states under general phase-insensitive operations&amp;ndash;protocols that combine several copies of noisy coherent states to obtain a single mode in a less noisy state, i.e., at a lower temperature. I will present the optimal protocol that yields the closest output to the desired coherent state and show that the error is governed by the so-called RLD Fisher information metric, thereby providing an operational interpretation of this quantity.&lt;/p>
 &lt;p>In the second part, I will discuss an ongoing project on energy-conserving quantum circuits, i.e., circuits that conserve the intrinsic Hamiltonian of qubits. I will explain how general energy-conserving unitary transformations can be implemented using energy-conserving interactions, such as the XY interaction, provided that one can employ a single ancillary qubit that acts as a catalyst.&lt;/p>
+&lt;hr>
+&lt;h2 id="niklas-muller">Niklas Muller&lt;/h2>
+&lt;p>&lt;em>University of New Mexico&lt;/em>&lt;/p>
+&lt;h3 id="from-quantum-scars-to-advantage-quantum-simulating-thermalization">From Quantum Scars to Advantage: Quantum Simulating Thermalization&lt;/h3>
 &lt;hr>
 &lt;h2 id="john-nichol">John Nichol&lt;/h2>
 &lt;p>&lt;em>University of Rochester&lt;/em>&lt;/p>
