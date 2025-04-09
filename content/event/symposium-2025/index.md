@@ -52,6 +52,7 @@ projects: []
 - [Alaina Green](https://jqi.umd.edu/people/alaina-green) (University of Maryland)
 - [Eduardo Martin-Martinez](https://sites.google.com/site/emmfis/) (University of Waterloo)
 - [Iman Marvian](https://ece.duke.edu/people/iman-marvian/) (Duke University)
+- [Niklas Muller](https://physics.unm.edu/people/faculty/niklas-mueller.html) (University of New Mexico)
 - [John Nichol](https://www.sas.rochester.edu/pas/people/faculty/nichol_john/index.html) (University of Rochester)
 - [Ricardo Román-Ancheyta](https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=119894) (Universidad Nacional Autónoma de México)
 
@@ -100,6 +101,12 @@ In the first part of this talk, I will discuss the distillation of coherent stat
 
 In the second part, I will discuss an ongoing project on energy-conserving quantum circuits, i.e., circuits that conserve the intrinsic Hamiltonian of qubits. I will explain how general energy-conserving unitary transformations can be implemented using energy-conserving interactions, such as the XY interaction, provided that one can employ a single ancillary qubit that acts as a catalyst.
 
+---
+
+## Niklas Muller
+*University of New Mexico*
+
+### From Quantum Scars to Advantage: Quantum Simulating Thermalization
 
 ---
 
