@@ -60,6 +60,15 @@ projects: []
 # Titles and Abstracts
 ---
 
+## Jacob A. Barandes
+*Harvard University*
+
+### Statistical Mechanics with Stochastic Dynamics
+
+There are a number of deep questions at the foundations of statistical mechanics, including the rigorous justification of its probability distributions, the limitations of ergodicity, the origins of the thermodynamic arrow of time, and the precise intertheoretic reduction of classical thermodynamics to quantum mechanics. In this talk, I will argue that a new approach to formulating quantum theory in terms of ‘indivisible’ stochastic dynamics may provide new resources for answering these questions, as well as for related problems, like making microphysical sense of causal influences. By employing this new indivisible formulation, I will also show how to use simple thermodynamic systems to build real-world analog models of quantum systems, like qubits.
+
+---
+
 ## Ceren B. Dag
 *Indiana University Bloomington*
 
