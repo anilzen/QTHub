@@ -47,7 +47,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://youtu.be/4trC1FEFbjo),   [PQI 2022](https://www.pqi.org/events/pqi2022), [Pittsburgh Quantum Institute (PQI)](https://www.pqi.org), Pittsburgh, PA, USA (Sep. 15, 2022). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://event.on24.com/wcc/r/3863571/654CBB543F41A568EE099884563F6E72?partnerref=Nicole), [Physics Today *Webinar: Editor's Series*](https://physicstoday.scitation.org/pto/info/resources/webinars), online (Sep. 8, 2022). By Nicole Yunger Halpern. 
 
-## Podcasts and radio shows
+## Podcasts, radio shows, and videos
+- [Quantum Q&A](https://www.umiacs.umd.edu/news-events/news/quantum-qa-nicole-yunger-halpern-world-quantum-day), [*U. of Maryland Institute for Advanced Computer Studies*](https://www.umiacs.umd.edu) (Apr. 14, 2025). With Nicole Yunger Halpern.
 - [Can Thermodynamics Go Quantum?](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/), [*The Joy of Why,*](https://www.quantamagazine.org/tag/the-joy-of-why/) [*Quanta Magazine,*](https://www.quantamagazine.org) (Sep. 12, 2024). By Nicole Yunger Halpern.
 - [Twesh Upadhyaya on the Frontiers of Quantum Thermodynamics](https://www.youtube.com/watch?v=M5Y0U38pxeo), [The Quantum Record](https://www.youtube.com/@TheQuantumRecord), online (Aug. 28, 2024). With Twesh Upadhyaya.
 - [Noncommuting conserved charges in quantum thermodynamics and beyond](https://youtu.be/FyTQucWz5jw), [NiklasOPF](https://www.youtube.com/@niklasopf), online (Jul. 20, 2024). With Twesh Upadhyaya.
