@@ -60,7 +60,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
-- [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025).
+- [Kavli Special – Quantum Thermodynamics for Lattice Gauge Theories](https://youtu.be/jJmQUlocPHM?si=5jcn3LXJGoYxG3bE), [*Highlights from the Global Physics Summit*](https://www.youtube.com/playlist?list=PLGVe6BxyFHNUZ1VcTNR2xYcBHSCeCJflF), [*APS TV*](https://summit.aps.org/on-site-experience/aps-tv/) (Apr. 24, 2025). Interviewee: Nicole Yunger Halpern.
+- [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025). Interviewee: Nicole Yunger Halpern.
 - [“A new take on the oldest physics: What actually happened right after the big bang?”](https://rqs.umd.edu/news/new-take-oldest-physics-what-actually-happened-right-after-big-bang), by Dina Genkina, Institute for Robust Quantum Simulation (Apr. 7, 2025). Interviewee: Nicole Yunger Halpern.
 - [The physicist on a mission to spark a quantum industrial revolution](https://www.newscientist.com/article/mg26535340-700-the-physicist-on-a-mission-to-spark-a-quantum-industrial-revolution/), by Thomas Lewton, [*New Scientist*](https://www.newscientist.com) (Mar. 10, 2025). Interviewee: Nicole Yunger Halpern.
 - [UMD Physicist Helps Sculpt Quantum Mechanics into Reality](https://umdphysics.umd.edu/about-us/news/department-news/2012-feature-s25.html), [*UMD Department of Physics News*](https://umdphysics.umd.edu) (Mar. 2025). Interviewee: Nicole Yunger Halpern.
@@ -117,6 +118,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [Quantum automata](https://quantumfrontiers.com/2025/04/27/quantum-automata/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 27, 2025). By Nicole Yunger Halpern.
 - [Lessons in frustration](https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 16, 2025). By Nicole Yunger Halpern.
 - [Ten Lessons I Learned from John Preskill](https://quantumfrontiers.com/2025/01/19/ten-lessons-i-learned-from-john-preskill/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 19, 2025). By Nicole Yunger Halpern.
 - [Finding Ed Jaynes’s ghost](https://quantumfrontiers.com/2024/12/22/finding-ed-jayness-ghost/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 22, 2024). By Nicole Yunger Halpern.
