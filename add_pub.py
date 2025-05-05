@@ -1,73 +1,56 @@
-# USAGE
-# python add_pub.py 2305.16710
-
-import os
 import arxiv
+import os
 import requests
 import sys
 
-# Get the ArXiv ID of the paper from the command line.
-arxiv_id = sys.argv[1]
-
-# Search for the paper by its ID.
-search = arxiv.Search(id_list=[arxiv_id])
-paper = next(search.results())
-
-# Create a directory with the authors' last names and the year.
-lastnames = [author.name.split(" ")[-1] for author in paper.authors]
-dirname = os.path.join("content/publication/" +
-                       str(paper.published.year) + "-" + "-".join(lastnames))
-# Create directory if it doesn't exist.
-if not os.path.exists(dirname):
-    os.makedirs(dirname)
-
-# Query the BibTex citation at https://arxiv.org/bibtex/2305.16710
-response = requests.get("https://arxiv.org/bibtex/"+arxiv_id)
-# Write the response to a file named cite.bib
-with open(dirname+"/cite.bib", "w") as f:
-    f.write(response.text)
-
-# Get the title and authors of the paper.
-title = paper.title
-authors = "\n  ".join([f"- {author.name}" for author in paper.authors])
-# Get the date of publication.
-date = paper.published.strftime("%Y-%m-%d")
-# Get the abstract of the paper.
-abstract = paper.summary.replace("\n", " ")
-# Get the journal reference if it exists, otherwise use the arXiv ID.
-if paper.journal_ref:
-    publication = paper.journal_ref
-    pub_type = "2"
+client = arxiv.Client()
+search = arxiv.Search(id_list=[sys.argv[1]])
+paper = next(client.results(search))
+lastnames = [author.name.split()[-1] for author in paper.authors]
+if len(lastnames) > 3:
+    dir_authors = lastnames[:3] + ["etal"]
 else:
-    publication = "arXiv:"+arxiv_id
-    pub_type = "3"
+    dir_authors = lastnames
+year = paper.published.year
+short_list = "-".join(dir_authors)
+dirname    = os.path.join("content/publication", f"{year}-{short_list}")
+os.makedirs(dirname, exist_ok=True)
 
-# Generate the text of the index.md file.
-text_of_index = f"""---
+# Fetch BibTeX
+resp = requests.get(f"https://arxiv.org/bibtex/{paper.entry_id.split('/')[-1]}")
+with open(os.path.join(dirname, "cite.bib"), "w") as f:
+    f.write(resp.text)
+
+# Build index.md
+title       = paper.title
+authors_md  = "\n  ".join(f"- {a.name}" for a in paper.authors)
+date        = paper.published.strftime("%Y-%m-%d")
+abstract    = paper.summary.replace("\n", " ")
+if paper.journal_ref:
+    publication, pub_type = paper.journal_ref, "2"
+else:
+    publication, pub_type = f"arXiv:{paper.entry_id.split('/')[-1]}", "3"
+
+index_md = f"""---
 title: {title}
 subtitle: ''
 summary: ''
 authors:
-  {authors}
+  {authors_md}
 tags:
 categories: []
 date: '{date}'
-lastmod: {date}T19:33:00-05:00
+lastmod: '{date}T00:00:00-05:00'
 featured: false
 draft: false
 projects: []
-publishDate: '{date}T00:33:00.091248Z'
+publishDate: '{date}T00:00:00.000000Z'
 publication_types:
   - '{pub_type}'
 abstract: "{abstract}"
 publication: '{publication}'
-url_pdf: https://arxiv.org/pdf/{arxiv_id}.pdf
-# links:
-#   - name: Journal
-#     url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.012209
+url_pdf: https://arxiv.org/pdf/{paper.entry_id.split('/')[-1]}.pdf
 ---
 """
-
-# Write the index.md file.
-with open(dirname+"/index.md", "w") as f:
-    f.write(text_of_index)
+with open(os.path.join(dirname, "index.md"), "w") as f:
+    f.write(index_md)
