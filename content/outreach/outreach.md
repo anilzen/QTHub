@@ -60,6 +60,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- ["Interview with Nicole Yunger Halpern"](https://www.youtube.com/watch?v=oyIJTOGSmZE), [*Towards StatPhys 2025,*](https://www.youtube.com/@fisicadituttiigiorni) [Fisica di Tutti i Giorni](https://www.youtube.com/@fisicadituttiigiorni) (May 9, 2025). Interviewee: Nicole Yunger Halpern.
 - [Kavli Special – Quantum Thermodynamics for Lattice Gauge Theories](https://youtu.be/jJmQUlocPHM?si=5jcn3LXJGoYxG3bE), [*Highlights from the Global Physics Summit*](https://www.youtube.com/playlist?list=PLGVe6BxyFHNUZ1VcTNR2xYcBHSCeCJflF), [*APS TV*](https://summit.aps.org/on-site-experience/aps-tv/) (Apr. 24, 2025). Interviewee: Nicole Yunger Halpern.
 - [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025). Interviewee: Nicole Yunger Halpern.
 - [“A new take on the oldest physics: What actually happened right after the big bang?”](https://rqs.umd.edu/news/new-take-oldest-physics-what-actually-happened-right-after-big-bang), by Dina Genkina, Institute for Robust Quantum Simulation (Apr. 7, 2025). Interviewee: Nicole Yunger Halpern.
@@ -163,6 +164,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+- [Shayan Majidy](https://smajidy.github.io) received the [W. B. Pearson Medal](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/wb-pearson-medal) from the [University of Waterloo](https://uwaterloo.ca/) for creative research presented in his PhD thesis.
 - Jade LeSchack was accepted into the [Omicron Delta Kappa National Leadership Honor Society](https://odk.umd.edu/) (Mar 2025).
 - Postdoc Aleksander Lasek has won a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 - Nicole Yunger Halpern received a [Femtum Leap Innovation Award](https://quantuminnovationsummit.com/the-femtum-leap-awards/) from the [Quantum Innovation Summit](https://quantuminnovationsummit.com/).
