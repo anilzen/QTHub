@@ -30,6 +30,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
 ## Public lectures
+- [Quantum steampunk: The physics of yesterday's tomorrow](https://schedule.balticon.org/#part/20725), [Balticon 59](https://www.balticon.org), [Baltimore Science-Fiction Society](https://www.bsfs.org), Baltimore, MD, USA (May 25, 2025). By Nicole Yunger Halpern.
 - [Quantum steampunk: The physics of yesterday's tomorrow](https://calendars.illinois.edu/detail/7097?eventId=33516930), [*World Quantum Day Celebration*](https://calendars.illinois.edu/detail/7097?eventId=33516807), [Illinois Quantum Information Science and Technology Center](https://iquist.illinois.edu), [U. of Illinois Urbana-Champaign](https://illinois.edu), Urbana-Champaign, IL, USA (Apr. 12, 2025). By Nicole Yunger Halpern.
 - Heat, power, action! From steam engines to quantum computers, thermodynamics drives technology transformation, [CNMS Science Discovery Series](https://cnms.umbc.edu/discovery-series/), College of Natural and Mathematical Sciences, University of Maryland, Baltimore County, Baltimore, MD, USA (Nov. 7, 2024). By Sebastian Deffner.
 - Bell's inequality and the nature of physical reality, Meeting of the Physics Societies of Ireland (MOPSI), Dublin, Ireland (Apr. 13, 2024). By Steve Campbell.
@@ -119,6 +120,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog Posts
+- [The most steampunk qubit](https://quantumfrontiers.com/2025/05/25/the-most-steampunk-qubit/), [Quantum Frontiers](https://quantumfrontiers.com) (May 25, 2025). By Nicole Yunger Halpern.
 - [Quantum automata](https://quantumfrontiers.com/2025/04/27/quantum-automata/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 27, 2025). By Nicole Yunger Halpern.
 - [Lessons in frustration](https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 16, 2025). By Nicole Yunger Halpern.
 - [Ten Lessons I Learned from John Preskill](https://quantumfrontiers.com/2025/01/19/ten-lessons-i-learned-from-john-preskill/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 19, 2025). By Nicole Yunger Halpern.
