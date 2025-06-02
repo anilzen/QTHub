@@ -138,8 +138,6 @@ The repeated system-bath interaction model, also known as the quantum collision 
 ---
 
 
-<div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
+<!-- <div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
   <strong>🚧 More information to come soon. 🚧</strong>
-</div>
-
-</br>
+</div> -->
