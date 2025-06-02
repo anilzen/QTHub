@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
 ---
-## YouTube Channel
+## YouTube channel
 
 We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring videos from our [events](../event/). The lectures of the [Maryland Quantum-Thermodynamics Symposium 2023](https://qtd-hub.umd.edu/event/symposium-2023/) are collected in a [playlist](https://www.youtube.com/playlist?list=PLpSxWmTiKkRUyCuLangnSY_nCDAbkNEdy). 
 <!-- - Santiago Hernández Gómez - [An Experimental Toolbox for Quantum Thermodynamics](https://www.youtube.com/watch?v=ErdCxE9g04A)
@@ -25,7 +25,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 
 You can also see the lectures of the 2024 Winter Graduate School on AMO Physics, [Quantum Thermodynamics: quantum many-body meets thermodynamics](https://lweb.cfa.harvard.edu/itamp-event/2024-winter-graduate-school-amo-physics-quantum-thermodynamics-quantum-many-body-meets) in this [YouTube playlist](https://www.youtube.com/playlist?list=PLCoSh1h28ieKWM8T8cAiBm8w88nsJey0g).
 
-## Popular-Science Articles
+## Popular-science articles
 
 - [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
@@ -118,7 +118,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - Quantum steampunk: Quantum information meets thermodynamics, [Undergraduate Quantum Association](https://umdphysics.umd.edu/academics/ugrad-student-opportunities/undergraduate-quantum-association.html), University of Maryland, College Park, MD, USA (Oct. 25, 2022). By Nicole Yunger Halpern.
 - Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
-## Blog Posts
+## Blog posts
 - [The most steampunk qubit](https://quantumfrontiers.com/2025/05/25/the-most-steampunk-qubit/), [Quantum Frontiers](https://quantumfrontiers.com) (May 25, 2025). By Nicole Yunger Halpern.
 - [Quantum automata](https://quantumfrontiers.com/2025/04/27/quantum-automata/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 27, 2025). By Nicole Yunger Halpern.
 - [Lessons in frustration](https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 16, 2025). By Nicole Yunger Halpern.
