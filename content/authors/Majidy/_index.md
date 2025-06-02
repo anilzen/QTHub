@@ -30,5 +30,5 @@ social:
 highlight_name: true
 
 user_groups:
-- PhD students
+- Alumni
 ---
