@@ -18,7 +18,8 @@ content:
   user_groups:
     - Senior Personnel
     - Postdoctoral Scholars
-    - Students
+    - PhD students
+    - Undergraduate students
     - Staff
 
 design:
