@@ -165,13 +165,12 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 - [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
-- Nicole Yunger Halpern received the [Early-Career-Scientist Prize in Statistical Physics](https://iupap.org/who-we-are/internal-organization/commissions/c3-statistical-physics/c3-news/), International Union of Pure and Applied Physics (2025).
+- Nicole Yunger Halpern received the [Early-Career-Scientist Prize in Statistical Physics](https://iupap.org/who-we-are/internal-organization/commissions/c3-statistical-physics/c3-news/) from the International Union of Pure and Applied Physics (2025).
 - Shayan Majidy received the [IQC Achievement Award](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/iqc-achievement-award) from the Institute for Quantum Computing.
 - Shayan Majidy received the [Brodie Memorial Prize](https://annualreport.2024.perimeterinstitute.ca/training/phd-students/) from the Perimeter Institute.
 - Shayan Majidy received the [W. B. Pearson Medal](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/wb-pearson-medal) from the University of Waterloo.
 - Shayan Majidy was awarded an [NSERC Postgraduate Doctoral Fellowship (PDF)](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) from the Natural Sciences and Engineering Research Council of Canada.
 - Shayan Majidy received a [Banting Fellowship](https://banting.fellowships-bourses.gc.ca/en/2023-2024-eng.html) from the Natural Sciences and Engineering Research Council of Canada.
-<!-- - [Shayan Majidy](https://smajidy.github.io) received the [W. B. Pearson Medal](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/wb-pearson-medal) from the [University of Waterloo](https://uwaterloo.ca/) for creative research presented in his PhD thesis. -->
 - Jade LeSchack was accepted into the [Omicron Delta Kappa National Leadership Honor Society](https://odk.umd.edu/) (Mar 2025).
 - Postdoc Aleksander Lasek has won a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 - Nicole Yunger Halpern received a [Femtum Leap Innovation Award](https://quantuminnovationsummit.com/the-femtum-leap-awards/) from the [Quantum Innovation Summit](https://quantuminnovationsummit.com/).
@@ -186,3 +185,4 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
   - [Books Authored by Yunger Halpern and Shneiderman Win Literary PROSE Awards](https://www.umiacs.umd.edu/about-us/news/books-authored-yunger-halpern-and-shneiderman-win-literary-prose-awards) (Feb. 22, 2023).
   - [Nicole Yunger Halpern's Book Receives AAP Prose Award](https://jqi.umd.edu/news/yunger-halperns-book-receives-aap-prose-award) (Mar. 6, 2023).
 - [The Quantum-Steampunk Photo Shoot](https://quantumfrontiers.com/2021/12/12/a-quantum-steampunk-photo-shoot/) at [UMIACS](https://www.umiacs.umd.edu) with Nicole Yunger Halpern was included in [The Year in Pictures](https://today.umd.edu/the-year-in-pictures-2022) at the University of Maryland.
+<!-- - [Shayan Majidy](https://smajidy.github.io) received the [W. B. Pearson Medal](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/wb-pearson-medal) from the [University of Waterloo](https://uwaterloo.ca/) for creative research presented in his PhD thesis. -->
