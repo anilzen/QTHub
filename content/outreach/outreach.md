@@ -121,6 +121,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 ## Blog posts
 1. [The most steampunk qubit](https://quantumfrontiers.com/2025/05/25/the-most-steampunk-qubit/), [Quantum Frontiers](https://quantumfrontiers.com) (May 25, 2025). By Nicole Yunger Halpern.
 1. [Quantum automata](https://quantumfrontiers.com/2025/04/27/quantum-automata/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 27, 2025). By Nicole Yunger Halpern.
+1. [How writing a popular-science book led to a Nature Physics paper](https://quantumfrontiers.com/2025/03/30/how-writing-a-popular-science-book-led-to-a-nature-physics-paper/), [Quantum Frontiers](https://quantumfrontiers.com) (Mar. 30, 2025). By Nicole Yunger Halpern.
 1. [Lessons in frustration](https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 16, 2025). By Nicole Yunger Halpern.
 1. [Ten Lessons I Learned from John Preskill](https://quantumfrontiers.com/2025/01/19/ten-lessons-i-learned-from-john-preskill/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 19, 2025). By Nicole Yunger Halpern.
 1. [Finding Ed Jaynes’s ghost](https://quantumfrontiers.com/2024/12/22/finding-ed-jayness-ghost/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 22, 2024). By Nicole Yunger Halpern.
@@ -131,7 +132,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [My favorite rocket scientist](https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/), [Quantum Frontiers](https://quantumfrontiers.com) (Jul. 7, 2024). By Nicole Yunger Halpern.
 1. [Quantum Frontiers salutes an English teacher](https://quantumfrontiers.com/2024/06/09/quantum-frontiers-salutes-an-english-teacher/), [Quantum Frontiers](https://quantumfrontiers.com) (June 9, 2024). By Nicole Yunger Halpern.
 1. [Watch out for geese! My summer in Waterloo](https://quantumfrontiers.com/2024/06/06/watch-out-for-geese-my-summer-in-waterloo/), [Quantum Frontiers](https://quantumfrontiers.com) (June 6, 2024). By Jade LeSchack.
-1. [Film noir and quantum thermo](https://quantumfrontiers.com/2024/05/22/film-noir-and-quantum-thermo/), [Quantum Frontiers](https://quantumfrontiers.com) (May 22, 2024). By Nicole Yunger Halpern.
+1. [Film noir and quantum thermo](https://quantumfrontiers.com/2024/05/22/film-noir-and-quantum-thermo/), [Quantum Frontiers](https://quantumfrontiers.com) (May 22, 2024). By Shayan Majidy.
 1. [Let gravity do its work](https://quantumfrontiers.com/2024/05/12/let-gravity-do-its-work/), [Quantum Frontiers](https://quantumfrontiers.com) (May 12, 2024). By Nicole Yunger Halpern.
 1. [To thermalize, or not to thermalize, that is the question](https://quantumfrontiers.com/2024/04/24/to-thermalize-or-not-to-thermalize-that-is-the-question/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 24, 2024). By Shayan Majidy.
 1. [How I didn’t become a philosopher (but wound up presenting a named philosophy lecture anyway)](https://quantumfrontiers.com/2024/04/14/how-i-didnt-become-a-philosopher-but-wound-up-presenting-a-named-philosophy-lecture-anyway/), [Quantum Frontiers](https://quantumfrontiers.com) (Apr. 14, 2024). By Nicole Yunger Halpern.
