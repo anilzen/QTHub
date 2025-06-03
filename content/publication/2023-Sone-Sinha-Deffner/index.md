@@ -17,7 +17,7 @@ publishDate: '2023-08-09T00:33:00.091248Z'
 publication_types:
   - '3'
 abstract: "What is the major difference between large and small systems? At small length-scales the dynamics is dominated by fluctuations, whereas at large scales fluctuations are irrelevant. Therefore, any thermodynamically consistent description of quantum systems necessitates a thorough understanding of the nature and consequences of fluctuations. In this chapter, we outline two closely related fields of research that are commonly considered separately -- fluctuation forces and fluctuation theorems. Focusing on the main gist of these exciting and vivid fields of modern research, we seek to provide a instructive entry point for both communities of researchers interested in learning about the other."
-publication: 'arXiv:2308.04951'
+publication: 'arXiv:2308.04951. [DOI:10.48550/arXiv.2308.04951](https://doi.org/10.48550/arXiv.2308.04951)'
 url_pdf: https://arxiv.org/pdf/2308.04951.pdf
 # links:
 #   - name: Journal

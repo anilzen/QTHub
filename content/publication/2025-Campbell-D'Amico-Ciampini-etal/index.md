@@ -83,6 +83,6 @@ publishDate: '2025-04-28T00:00:00.000000Z'
 publication_types:
   - '3'
 abstract: "The last two decades has seen quantum thermodynamics become a well established field of research in its own right. In that time, it has demonstrated a remarkably broad applicability, ranging from providing foundational advances in the understanding of how thermodynamic principles apply at the nano-scale and in the presence of quantum coherence, to providing a guiding framework for the development of efficient quantum devices. Exquisite levels of control have allowed state-of-the-art experimental platforms to explore energetics and thermodynamics at the smallest scales which has in turn helped to drive theoretical advances. This Roadmap provides an overview of the recent developments across many of the field's sub-disciplines, assessing the key challenges and future prospects, providing a guide for its near term progress."
-publication: 'arXiv:2504.20145v1'
+publication: 'arXiv:2504.20145v1. [DOI:10.48550/arXiv.2504.20145](https://doi.org/10.48550/arXiv.2504.20145)'
 url_pdf: https://arxiv.org/pdf/2504.20145v1.pdf
 ---

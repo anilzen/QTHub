@@ -39,7 +39,7 @@ publishDate: '2023-01-06T00:33:00.091248Z'
 publication_types:
 - '2'
 abstract: "We study properties of the work distribution of a many-body system driven through a quantum phase transition in finite time. We focus on the non-Gaussianity of the distribution, which we characterize through two quantitative metrics: skewness and negentropy. In particular, we focus on the quantum Ising model and show that a finite duration of the ramp enhances the non-Gaussianity of the distribution for a finite size system. By examining the characteristics of the full distribution, we observe that there is a clear intermediate regime between the sudden quench and adiabatic limits, where the distribution becomes increasingly skewed."
-publication: 'Physical Review A **107**, 012209'
+publication: 'Physical Review A **107**, 012209. [DOI:10.1103/PhysRevA.107.012209](https://doi.org/10.1103/PhysRevA.107.012209)'
 url_pdf: https://arxiv.org/pdf/2208.06199.pdf
 links:
   - name: Journal

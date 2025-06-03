@@ -33,7 +33,7 @@ publishDate: '2022-12-04T00:33:00.091248Z'
 publication_types:
 - '2'
 abstract: Among the emerging technologies with prophesied quantum advantage, quantum communications has already led to fascinating demonstrations -- including quantum teleportation to and from satellites. However, all optical communication necessitates the use of optical devices, and their comprehensive quantum thermodynamic description is still severely lacking. In the present analysis we prove several versions of Landauer's principle for noisy polarizers, namely absorbing linear polarizers and polarizing beamsplitters. As main results we obtain statements of the second law quantifying the minimal amount of heat that is dissipated in the creating of linearly polarized light. Our findings are illustrated with an experimentally tractable example, namely the temperature dependence of a quantum eraser. 
-publication: 'Physical Review X Quantum **4**, 020343'
+publication: 'Physical Review X Quantum **4**, 020343. [DOI:10.1103/PRXQuantum.4.020343](https://doi.org/10.1103/PRXQuantum.4.020343)'
 url_pdf: https://arxiv.org/pdf/2212.00651.pdf
 links:
   - name: Journal
