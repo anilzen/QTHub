@@ -18,6 +18,7 @@ content:
   user_groups:
     - Senior Personnel
     - Postdoctoral Scholars
+    - Students
     - Alumni
     - Staff
 
