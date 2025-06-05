@@ -12,7 +12,7 @@ role:
 organizations:
 - name: University of Waterloo
   url: https://uwaterloo.ca/
-- name: University of Maryland
+- name: University of Maryland, College Park
   url: https://www.umd.edu/
 
 social:

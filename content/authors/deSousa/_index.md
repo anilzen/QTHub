@@ -10,7 +10,7 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland
+- name: University of Maryland, College Park
   url: https://www.umd.edu/
 
 social:
