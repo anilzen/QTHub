@@ -166,6 +166,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+1. Jade LeSchack earned High Honors from UMD’s Department of Physics for writing and defending a Bachelor’s thesis.
+1. Jade LeSchack received an Honorable Mention in the 2025 U.S. National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
 1. Nicole Yunger Halpern received the [Early-Career-Scientist Prize in Statistical Physics](https://iupap.org/who-we-are/internal-organization/commissions/c3-statistical-physics/c3-news/) from the International Union of Pure and Applied Physics (2025).
 1. Shayan Majidy received the [IQC Achievement Award](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/iqc-achievement-award) from the Institute for Quantum Computing.
 1. Shayan Majidy received the [Brodie Memorial Prize](https://annualreport.2024.perimeterinstitute.ca/training/phd-students/) from the Perimeter Institute.
