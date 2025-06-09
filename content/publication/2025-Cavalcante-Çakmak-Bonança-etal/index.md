@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
   - Moallison F. Cavalcante
-  - Bariş Çakmak
+  - Barış Çakmak
   - Marcus V. S. Bonança
   - Sebastian Deffner
 tags:
