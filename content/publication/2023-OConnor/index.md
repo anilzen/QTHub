@@ -23,7 +23,7 @@ abstract: "
 
 <p>Collectively, these results provide a toolbox to assess the optimality, either in terms of the dynamical paths taken, utility for metrological tasks, or ability to spotlight relevant physical properties of the model, for the dynamics of complex quantum systems.
 "
-publication: 'PhD thesis, University of College Dublin'
+publication: 'PhD thesis, University College Dublin'
 url_pdf: "/uploads/OConnor_Thesis.pdf"
 # links:
 #   - name: Journal

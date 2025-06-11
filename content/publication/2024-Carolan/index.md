@@ -27,6 +27,6 @@ abstract: "
 
 <p>Collectively, these findings provide a comprehensive framework for understanding information dynamics in open quantum systems, offering new strategies for preserving quantum coherence and diagnosing the impact of an environment on the structure of quantum information.
 "
-publication: 'PhD thesis, University of College Dublin'
+publication: 'PhD thesis, University College Dublin'
 url_pdf: "/uploads/Carolan_Thesis.pdf"
 ---
