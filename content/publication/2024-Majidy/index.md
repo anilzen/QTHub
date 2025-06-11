@@ -26,7 +26,7 @@ thermalization. Most quantum many-body systems thermalize; some don’t. In thos
 that don’t, what effect do noncommuting charges have? One type of system that does
 not thermalize is a system whose Hamiltonian has so-called dynamical symmetries (or
 spectrum-generating algebras). We find that noncommuting charges promote thermalization by reducing the dynamical symmetries in a system."
-publication: 'A thesis presented to the University of Waterloo'
+publication: 'PhD thesis, University of Waterloo'
 url_pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/20651/Majidy_Shayan.pdf
 # links:
 #   - name: Journal
