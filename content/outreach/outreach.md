@@ -26,7 +26,7 @@ We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring vide
 You can also see the lectures of the 2024 Winter Graduate School on AMO Physics, [Quantum Thermodynamics: quantum many-body meets thermodynamics](https://lweb.cfa.harvard.edu/itamp-event/2024-winter-graduate-school-amo-physics-quantum-thermodynamics-quantum-many-body-meets) in this [YouTube playlist](https://www.youtube.com/playlist?list=PLCoSh1h28ieKWM8T8cAiBm8w88nsJey0g).
 
 ## Popular-science articles
-
+1. [Student Perspective: Exploring Quantum Fluctuations with Twesh Upadhyaya](https://rqs.umd.edu/news/student-perspective-exploring-quantum-fluctuations-twesh-upadhyaya), [Institute for Robust Quantum Simulation](https://rqs.umd.edu) (May 14, 2025). By Twesh Upadhyaya.
 1. [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
 ## Public lectures
