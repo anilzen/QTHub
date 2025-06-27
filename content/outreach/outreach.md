@@ -30,6 +30,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Chaleur, travail, rendement: optimiser les machines quantiques](https://www.pourlascience.fr/sd/technologie/chaleur-travail-rendement-optimiser-les-machines-quantiques-24645.php), [Pour la Science](https://www.pourlascience.fr/) (Jan. 25, 2023). By Nicole Yunger Halpern. Translated from [English version](https://www.scientificamerican.com/article/quantum-steampunk-19th-century-science-meets-technology-of-today/) published in [Scientific American](https://www.scientificamerican.com/).
 
 ## Public lectures
+1. [Quantum steampunk: The physics of yesterday's tomorrow](https://events.rochester.edu/event/quantum-steampunk-the-physics-of-yesterdays-tomorrow), [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/), [U. of Rochester](https://www.rochester.edu), Rochester, NY, USA (June 26, 2025). By Nicole Yunger Halpern.
 1. [Quantum steampunk: The physics of yesterday's tomorrow](https://schedule.balticon.org/#part/20725), [Balticon 59](https://www.balticon.org), [Baltimore Science-Fiction Society](https://www.bsfs.org), Baltimore, MD, USA (May 25, 2025). By Nicole Yunger Halpern.
 1. [Quantum steampunk: The physics of yesterday's tomorrow](https://calendars.illinois.edu/detail/7097?eventId=33516930), [*World Quantum Day Celebration*](https://calendars.illinois.edu/detail/7097?eventId=33516807), [Illinois Quantum Information Science and Technology Center](https://iquist.illinois.edu), [U. of Illinois Urbana-Champaign](https://illinois.edu), Urbana-Champaign, IL, USA (Apr. 12, 2025). By Nicole Yunger Halpern.
 1. Heat, power, action! From steam engines to quantum computers, thermodynamics drives technology transformation, [CNMS Science Discovery Series](https://cnms.umbc.edu/discovery-series/), College of Natural and Mathematical Sciences, University of Maryland, Baltimore County, Baltimore, MD, USA (Nov. 7, 2024). By Sebastian Deffner.
@@ -167,6 +168,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/)  (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+1. Jade LeSchack was awarded the 2025 U.S. National Science Foundation (NSF) Graduate Research Fellowship for her graduate studies, after receiving an Honorable Mention in April.
 1. Jade LeSchack earned High Honors from UMD’s Department of Physics for writing and defending a Bachelor’s thesis.
 1. Jade LeSchack received an Honorable Mention in the 2025 U.S. National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
 1. Jade LeSchack was offered the Quantum New Mexico Institute (QNM-I) Fellowship from the University of New Mexico.
