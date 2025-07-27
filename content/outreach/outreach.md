@@ -65,6 +65,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+- “Getting a feel for quantum mechanics,” by Conor Feehly, [*Cosmos*](https://cosmosmagazine.com) (June 2025).
 1. [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025). Interviewee: Nicole Yunger Halpern.
 1. [“A new take on the oldest physics: What actually happened right after the big bang?”](https://rqs.umd.edu/news/new-take-oldest-physics-what-actually-happened-right-after-big-bang), by Dina Genkina, Institute for Robust Quantum Simulation (Apr. 7, 2025). Interviewee: Nicole Yunger Halpern.
 1. [The physicist on a mission to spark a quantum industrial revolution](https://www.newscientist.com/article/mg26535340-700-the-physicist-on-a-mission-to-spark-a-quantum-industrial-revolution/), by Thomas Lewton, [*New Scientist*](https://www.newscientist.com) (Mar. 10, 2025). Interviewee: Nicole Yunger Halpern.
