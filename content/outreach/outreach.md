@@ -104,6 +104,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 
 
 ## Presentations to student and interest groups
+- *Quantum steampunk: Quantum information meets thermodynamics*, Research Experiences for Undergraduates, [University of Maryland](https://umd.edu), College Park, MD, USA (Jul. 28, 2025). By Nicole Yunger Halpern.
 1. Quantum steampunk: Quantum information meets thermodynamics, Oxford Quantum Information Society, Oxford U., Oxford, UK and online (Mar. 6, 2025). By Nicole Yunger Halpern.
 1. Mentorship for the [STAR Lab Program](https://sarsef.org/programs/stem-exploration/star-lab/), [SARSEF](https://sarsef.org/) (Southern Arizona Research, Science and Engineering Foundation), Tucson, AZ, USA (Sep 2024—Jan 2025). By Kanu Sinha.
 1. Quantum steampunk: Quantum information meets thermodynamics, Society of Physics Students, [U. of Maryland](https://umd.edu), College Park, MD, USA (Sep. 12, 2024). By Nicole Yunger Halpern.
