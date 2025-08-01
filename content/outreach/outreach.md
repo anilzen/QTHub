@@ -65,7 +65,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
-1. “Getting a feel for quantum mechanics,” by Conor Feehly, [*Cosmos*](https://cosmosmagazine.com) (June 2025). Interviewee: Nicole Yunger Halpern.
+1. [“Getting a feel for quantum mechanics”](https://cosmosmagazine.com/science/physics/quantum-games-open-secret-world-to-next-generation/), by Conor Feehly, [*Cosmos*](https://cosmosmagazine.com) (June 2025). Interviewee: Nicole Yunger Halpern.
 1. [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025). Interviewee: Nicole Yunger Halpern.
 1. [“A new take on the oldest physics: What actually happened right after the big bang?”](https://rqs.umd.edu/news/new-take-oldest-physics-what-actually-happened-right-after-big-bang), by Dina Genkina, Institute for Robust Quantum Simulation (Apr. 7, 2025). Interviewee: Nicole Yunger Halpern.
 1. [The physicist on a mission to spark a quantum industrial revolution](https://www.newscientist.com/article/mg26535340-700-the-physicist-on-a-mission-to-spark-a-quantum-industrial-revolution/), by Thomas Lewton, [*New Scientist*](https://www.newscientist.com) (Mar. 10, 2025). Interviewee: Nicole Yunger Halpern.
@@ -101,7 +101,6 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/#), by Dan Garisto, [*Scientific American*](https://www.scientificamerican.com) (Oct. 6, 2022). Interviewee: Nicole Yunger Halpern.
 1. [UMD graduate students reflect on end of Ford Foundation diversity fellowship](https://dbknews.com/2022/10/03/end-ford-foundation-diversity-fellowship/), by Nene Narh-Mensah, [*Diamondback*](https://dbknews.com) (Oct. 3, 2022). Interviewees: Anthony Munson and Nicole Yunger Halpern.
 1. [Diving into UMD's Quantum Community](https://umdphysics.umd.edu/about-us/news/department-news/1780-ugrad-f22.html), by Bailey Bedford, [*U. of Maryland Physics Website*](https://umdphysics.umd.edu) (Sep. 6, 2022). Interviewee: Nicole Yunger Halpern.
-
 
 ## Presentations to student and interest groups
 - *Quantum steampunk: Quantum information meets thermodynamics*, Research Experiences for Undergraduates, [University of Maryland](https://umd.edu), College Park, MD, USA (Jul. 28, 2025). By Nicole Yunger Halpern.
