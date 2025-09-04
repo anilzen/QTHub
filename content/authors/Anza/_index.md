@@ -36,7 +36,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.it/citations?user=LgwbKf8AAAAJ
 
-# user_groups:
-  # - Senior Personnel
+user_groups:
+  - Senior Personnel
 ---
 
