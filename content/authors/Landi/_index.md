@@ -2,7 +2,7 @@
 # Display name
 title: Gabriel Landi
 
-weight: 35
+weight: 45
 
 authors:
   - Landi
