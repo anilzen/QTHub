@@ -66,6 +66,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media
+1. [Maryland Quantum-Thermodynamics Hub Secures Funding for Three More Years](https://www.umdphysics.umd.edu/about-us/news/department-news/2060-hub-2.html), [Department of Physics](https://www.umdphysics.umd.edu/), [U. of Maryland](https://umd.edu), by Chris Cesare (Sep. 15, 2025). Interviewee: Nicole Yunger Halpern.
 1. [Quantum Qs with Nicole](https://mailchi.mp/84e8901d683e/quick-bits-september-qsf-newsletter), *QSF Newsletter* (Sep. 2025). Interviewee: Nicole Yunger Halpern.
 1. ["Quantum games open secret world to next generation"](https://cosmosmagazine.com/science/physics/quantum-games-open-secret-world-to-next-generation/), by Conor Feehly, [*Cosmos*](https://cosmosmagazine.com) (Jul. 31 2025). Interviewee: Nicole Yunger Halpern.
 1. [“Celebrate World Quantum Day with quantum steampunk”](https://www.smilepolitely.com/culture/celebrate-world-quantum-day-with-quantum-steampunk/), by Linea Johnson, [*Smile Politely*](https://www.smilepolitely.com) (Apr. 9, 2025). Interviewee: Nicole Yunger Halpern.
