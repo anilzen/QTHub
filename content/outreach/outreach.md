@@ -15,6 +15,13 @@ subtitle:
 design:
   columns: '1'
 ---
+## Quantum-Steampunk Creative Writing
+
+The course *Writing Quantum Steampunk: Science-Fiction Workshop* is taking place at the University of Maryland during Spring 2026. The course is cross-listed across physics, computer science, chemistry, mechanical engineering, English, and arts and humanities. Additional details, including course structure and teaching materials, are available on the [Quantum Steampunk teaching page](https://quantumsteampunk.umiacs.io/teaching/).
+
+The Maryland Quantum-Thermodynamics Hub hosted the *Quantum-Steampunk Short-Story Contest* in 2022–2023. Information about the contest finalists, rules, and judges can be found on the [Contest page](https://qtd-hub.umd.edu/contest/).
+
+
 ## YouTube channel
 
 We have a [YouTube channel](https://www.youtube.com/@MarylandQTD) featuring videos from our [events](../event/). The lectures of the [Maryland Quantum-Thermodynamics Symposium 2023](https://qtd-hub.umd.edu/event/symposium-2023/) are collected in a [playlist](https://www.youtube.com/playlist?list=PLpSxWmTiKkRUyCuLangnSY_nCDAbkNEdy). 
@@ -133,6 +140,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog posts
+1. [Make use of time, let not advantage slip](https://quantumfrontiers.com/2025/12/14/make-use-of-time-let-not-advantage-slip/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 14, 2025). By Nicole Yunger Halpern.
 1. [What distinguishes quantum from classical thermodynamics?](https://quantumfrontiers.com/2025/11/26/what-distinguishes-quantum-from-classical-thermodynamics/), [Quantum Frontiers](https://quantumfrontiers.com) (Nov. 26, 2025). By Nicole Yunger Halpern.
 1. [The sequel](https://quantumfrontiers.com/2025/10/26/the-sequel/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 26, 2025). By Nicole Yunger Halpern.
 1. [Nicole’s guide to writing research statements](https://quantumfrontiers.com/2025/08/10/nicoles-guide-to-writing-research-statements/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 10, 2025). By Nicole Yunger Halpern.
