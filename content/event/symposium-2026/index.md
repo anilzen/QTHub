@@ -6,21 +6,21 @@ event_url: ./
 
 location: University of Rochester
 address:
-  street: 500 Joseph C. Wilson Blvd.
+  street:
   city: Rochester
-  region: NY, USA
-  postcode: 14627
+  region: NY
+  postcode:
   country: USA
 
 summary: 'Joint with the Center for Coherence and Quantum Science (CQS).'
 
 date: '2026-06-03T13:00:00Z'
-date_end: '2025-06-04T15:00:00Z'
+date_end: '2026-06-04T15:00:00Z'
 all_day: true
 
 publishDate: '2025-12-17T00:00:00Z'
 
-authors: [Anza, Landi, Yunger-Halpern]
+authors: [Landi, Yunger-Halpern]
 tags: []
 
 featured: true
