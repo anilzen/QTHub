@@ -15,12 +15,12 @@ subtitle:
 design:
   columns: '1'
 ---
+
 ## Quantum-Steampunk Creative Writing
 
-The course *Writing Quantum Steampunk: Science-Fiction Workshop* is taking place at the University of Maryland during Spring 2026. The course is cross-listed across physics, computer science, chemistry, mechanical engineering, English, and arts and humanities. Additional details, including course structure and teaching materials, are available on the [Quantum Steampunk teaching page](https://quantumsteampunk.umiacs.io/teaching/).
+The course Writing Quantum Steampunk: Science-Fiction Workshop is taking place at the University of Maryland during Spring 2026. The course is cross-listed across physics, computer science, chemistry, mechanical engineering, English, and arts and humanities. See [here](https://quantumsteampunk.umiacs.io/teaching/) for details. 
 
-The Maryland Quantum-Thermodynamics Hub hosted the *Quantum-Steampunk Short-Story Contest* in 2022–2023. Information about the contest finalists, rules, and judges can be found on the [Contest page](https://qtd-hub.umd.edu/contest/).
-
+The Maryland Quantum-Thermodynamics Hub hosted the Quantum-Steampunk Short-Story Contest in 2022–2023. You can read the finalists, as well as learn about the rules and judges, [here](https://qtd-hub.umd.edu/contest/).
 
 ## YouTube channel
 
