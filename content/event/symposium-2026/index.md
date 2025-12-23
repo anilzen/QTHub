@@ -43,9 +43,13 @@ projects: []
 
 Joint with the [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS).
 
+# Invited Speakers
 
-
-<!-- # Invited Speakers -->
+- [Giulia Rubino](https://www.giulia-rubino.com/) (University of Bristol)
+- Bayan Karimi (University of Chicago)
+- [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
+- [Lea Ferreira dos Santos](https://physics.uconn.edu/person/lea-ferreira-dos-santos/) (University of Connecticut)
+- [Felipe Barra](https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm) (University of Chile)
 
 
 <!-- ---
