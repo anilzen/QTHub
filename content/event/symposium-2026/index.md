@@ -45,12 +45,26 @@ Joint with the [Center for Coherence and Quantum Science](https://www.sas.roches
 
 # Invited Speakers
 
+{{% callout note %}}
+More invited speakers will be announced.
+{{% /callout %}}
+
+<!-- _More invited speakers will be announced._ -->
+
 - [Felipe Barra](https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm) (University of Chile)
 - [Lea Ferreira dos Santos](https://physics.uconn.edu/person/lea-ferreira-dos-santos/) (University of Connecticut)
 - [Giulia Rubino](https://www.giulia-rubino.com/) (University of Bristol)
 - Bayan Karimi (University of Chicago)
 - [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
 - [Mark Wilde](https://www.engineering.cornell.edu/people/mark-wilde/) (Cornell University)
+
+# Poster Session
+
+A poster session will include prizes for student and postdoctoral entrants, sponsored by the [Fidelity Center for Applied Technology](https://www.fcatalyst.com/).
+
+# Travel Scholarships
+
+Travel scholarships for early-career researchers will be available. These travel grants are sponsored by [Normal Computing](https://www.normalcomputing.com/).
 
 <!-- ---
 # Titles and Abstracts
