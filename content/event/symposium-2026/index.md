@@ -45,11 +45,6 @@ Joint with the [Center for Coherence and Quantum Science](https://www.sas.roches
 
 # Invited Speakers
 
-{{% callout note %}}
-More invited speakers will be announced.
-{{% /callout %}}
-
-<!-- _More invited speakers will be announced._ -->
 
 - [Felipe Barra](https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm) (University of Chile)
 - [Lea Ferreira dos Santos](https://physics.uconn.edu/person/lea-ferreira-dos-santos/) (University of Connecticut)
@@ -57,14 +52,17 @@ More invited speakers will be announced.
 - Bayan Karimi (University of Chicago)
 - [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
 - [Mark Wilde](https://www.engineering.cornell.edu/people/mark-wilde/) (Cornell University)
+&#x22EE;
+_More invited speakers will be announced._
+
 
 # Poster Session
 
-A poster session will include prizes for student and postdoctoral entrants, sponsored by the [Fidelity Center for Applied Technology](https://www.fcatalyst.com/).
+A poster session will include a competition for student and postdoctoral entrants. [The Fidelity Center for Applied Technology](https://www.fcatalyst.com/) is offering prizes.
 
 # Travel Scholarships
 
-Travel scholarships for early-career researchers will be available. These travel grants are sponsored by [Normal Computing](https://www.normalcomputing.com/).
+Early-career researchers will be able to apply for travel grants sponsored by [Normal Computing](https://www.normalcomputing.com/). Check back later for details.
 
 <!-- ---
 # Titles and Abstracts
