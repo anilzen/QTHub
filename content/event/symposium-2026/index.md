@@ -52,8 +52,7 @@ Joint with the [Center for Coherence and Quantum Science](https://www.sas.roches
 - Bayan Karimi (University of Chicago)
 - [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
 - [Mark Wilde](https://www.engineering.cornell.edu/people/mark-wilde/) (Cornell University)
-
-&#x22EE;
+- ...
 
 _More invited speakers will be announced._
 
