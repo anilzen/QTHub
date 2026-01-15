@@ -44,10 +44,6 @@ projects: []
 Joint with the [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS).
 
 
-Change the "Invited speakers" category to have the label "Invited science speakers"
-Add a "Keynote speaker" category. Add to the category "Novelist and Scientific American contributing editor Mark Alpert, author of Final Theory, The Omega Theory, and other science-inspired novels." It might be nice to introduce the cover of one of those two books into the webpage as an image to attract the eye to the category.
-
-
 # Keynote Speaker
 Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of Final Theory, The Omega Theory, and other science-inspired novels.
 
