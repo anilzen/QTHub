@@ -45,7 +45,7 @@ Joint with the [Center for Coherence and Quantum Science](https://www.sas.roches
 
 
 # Keynote Speaker
-Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of Final Theory, The Omega Theory, and other science-inspired novels.
+Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
 
 ![Book cover](cover_omega_theory.jpg)
 
