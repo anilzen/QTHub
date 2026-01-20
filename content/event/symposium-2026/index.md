@@ -52,17 +52,13 @@ Novelist and Scientific American contributing editor [Mark Alpert](https://www.m
 
 # Invited Science Speakers
 
-
 - [Felipe Barra](https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm) (University of Chile)
 - [Lea Ferreira dos Santos](https://physics.uconn.edu/person/lea-ferreira-dos-santos/) (University of Connecticut)
+- [Saikat Guha](https://ece.umd.edu/clark/faculty/1891/Saikat-Guha) (University of Maryland)
 - [Giulia Rubino](https://www.giulia-rubino.com/) (University of Bristol)
 - Bayan Karimi (University of Chicago)
 - [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
 - [Mark Wilde](https://www.engineering.cornell.edu/people/mark-wilde/) (Cornell University)
-- ...
-
-_More invited speakers will be announced._
-
 
 # Poster Session
 
