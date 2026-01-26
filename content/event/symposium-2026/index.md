@@ -38,9 +38,9 @@ slides: ""
 projects: []
 ---
 
-There is no registration fee for this event, but registration is required.
+There is no registration fee, but registration is required.
 
-{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here" %}}
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}}
 
 
 A collaboration between the [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu/) and the University of Rochester [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS)
