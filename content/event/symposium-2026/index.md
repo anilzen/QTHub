@@ -41,8 +41,7 @@ projects: []
 <!-- {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeDL4aFxYBVjcpVj1-zKGDu6b0RIw0wRr666aJ-sYAXvTZPCw/viewform?usp=sharing" cta_text="Register here" %}} -->
 
 
-Joint with the [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS).
-
+A collaboration between the [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu/) and the University of Rochester [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS)
 
 # Keynote Speaker
 Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
@@ -150,6 +149,6 @@ The repeated system-bath interaction model, also known as the quantum collision 
 ---
 --> 
 
-<div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
+<!-- <div style="border: 2px solid #7f6c34; padding: .3rem; border-radius: 8px; background-color: #f9e09e; margin-top: 1em; text-align: center; color: #522602;">
   <strong>🚧 More information to come soon. 🚧</strong>
-</div> 
+</div>  -->
