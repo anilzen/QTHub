@@ -38,12 +38,11 @@ slides: ""
 projects: []
 ---
 
+**Co-hosts:** [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu/) & University of Rochester [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS)
+
 There is no registration fee, but registration is required.
 
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}}
-
-
-A collaboration between the [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu/) and the University of Rochester [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS)
 
 # Keynote Speaker
 Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
