@@ -141,6 +141,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. Quantum steampunk, *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog posts
+- [Quantum cartography](https://quantumfrontiers.com/2026/02/11/quantum-cartography/), [Quantum Frontiers](https://quantumfrontiers.com) (Feb. 11, 2026). By Nicole Yunger Halpern.
 1. [Nicole’s guide to interviewing for faculty positions](https://quantumfrontiers.com/2026/01/04/nicoles-guide-to-interviewing-for-faculty-positions/), [Quantum Frontiers](https://quantumfrontiers.com) (Jan. 4, 2026). By Nicole Yunger Halpern.
 1. [Blending science with fiction in Baltimore](https://quantumfrontiers.com/2025/09/21/blending-science-with-fiction-in-baltimore/), [Quantum Frontiers](https://quantumfrontiers.com) (Sep. 21, 2025). By Nicole Yunger Halpern.
 1. [Make use of time, let not advantage slip](https://quantumfrontiers.com/2025/12/14/make-use-of-time-let-not-advantage-slip/), [Quantum Frontiers](https://quantumfrontiers.com) (Dec. 14, 2025). By Nicole Yunger Halpern.
