@@ -53,7 +53,7 @@ Participants of the QTD Conference can reserve rooms at a discounted group rate.
 Additional hotel options offering conference discounts will be announced soon.
 
 # Keynote Speaker
-Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels, will talk about:
+Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
 
 ![Book cover](cover_omega_theory.jpg)
 
