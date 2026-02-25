@@ -53,7 +53,12 @@ Participants of the QTD Conference can reserve rooms at a discounted group rate.
 Additional hotel options offering conference discounts will be announced soon.
 
 # Keynote Speaker
-Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
+Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels, will talk about:
+
+### Quantum Crash: Turning Science into Fiction and Vice Versa
+
+Both fiction and physics require lots of imagination. Albert Einstein famously imagined chasing after a light beam, and his thought experiments about quantum entanglement paved the way for laboratory experiments several decades later. Meanwhile, novelists such as H.G. Wells and Arthur C. Clarke not only imagined science-based stories -- their fiction also suggested new directions for researchers to explore. Mark Alpert, a former editor at *Scientific American* who has written eleven science-based novels, will discuss how his education in physics inspired his first two novels, *Final Theory* and *The Omega Theory* (originally titled *Quantum Crash*). He’ll explain how a visit to a lab at the University of Maryland -- to help him edit a *Scientific American* story about quantum computing by Christopher Monroe and David Wineland -- led to the writing of *Quantum Crash*, which featured speculations on the connection between quantum physics and information theory. And he’ll talk about his continuing efforts to encourage collaboration between physicists and fiction writers, who have a mutual interest in stimulating new ideas for research and boosting the public’s interest in science.
+
 
 ![Book cover](cover_omega_theory.jpg)
 
