@@ -16,3 +16,9 @@
 .btn-primary:hover {  
   color: #000;
 }
+
+// Make manually listed references slightly smaller while keeping normal line flow.
+.symposium-reference-list p {
+  font-size: 0.94em;
+  margin-bottom: 0.35rem;
+}

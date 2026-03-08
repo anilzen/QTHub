@@ -95,9 +95,11 @@ The standard dynamical description is the global Lindblad equation obtained from
 We analyze particle, energy, and information flows [3]. Information flows are essential in multipartite systems to reconcile the second law with the apparent violations induced by the demon’s action. 
 We focus on the partial secular regime, where the nonequilibrium steady state exhibits coherence, and introduce a dissipative particle transport mechanism whose strength can be tuned to drive a transition from a coherent to a coherence-free nonequilibrium steady state. We study how decoherence reshapes information flows and impacts the performance of the thermoelectric engine across this coherent–incoherent transition.
 
-[1] A. Trushechkin, Unified Gorini-Kossakowski-Lindblad-Sudarshan quantum master equation beyond the secular approximation, Physical Review A **103**, [062226](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062226) (2021).
-[2] P. P. Potts, A. A. S. Kalaee, and A. Wacker, A thermodynamically consistent Markovian master equation beyond the secular approximation, New Journal of Physics **23**, [123013](https://iopscience.iop.org/article/10.1088/1367-2630/ac3b2f) (2021)
-[3] J. M. Horowitz and M. Esposito, Thermodynamics with continuous information flow, Physical Review X **4**, [031015](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.031015) (2014);  K. Ptaszynski and M. Esposito, Thermodynamics of quantum information flows, Physical Review Letters **122**, [150603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.150603) (2019).
+<div class="symposium-reference-list">
+<p>[1] A. Trushechkin, Unified Gorini-Kossakowski-Lindblad-Sudarshan quantum master equation beyond the secular approximation, Physical Review A <strong>103</strong>, <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062226">062226</a> (2021).</p>
+<p>[2] P. P. Potts, A. A. S. Kalaee, and A. Wacker, A thermodynamically consistent Markovian master equation beyond the secular approximation, New Journal of Physics <strong>23</strong>, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac3b2f">123013</a> (2021).</p>
+<p>[3] J. M. Horowitz and M. Esposito, Thermodynamics with continuous information flow, Physical Review X <strong>4</strong>, <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.031015">031015</a> (2014); K. Ptaszynski and M. Esposito, Thermodynamics of quantum information flows, Physical Review Letters <strong>122</strong>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.150603">150603</a> (2019).</p>
+</div>
 
 ---
 
@@ -108,9 +110,11 @@ We focus on the partial secular regime, where the nonequilibrium steady state ex
 
 Coherence is a key property of quantum systems and plays a central role in quantum heat engines and refrigerators. In this talk, I will discuss two different experiments where decoherence and pure quantum dynamics play a role. The first one is related to thermalization in isolated quantum systems via the study of Poincare recoveries in a system of coupled qubits, where the revival time scales exponentially with the number of participating qubits: I present the theoretical background [1] and on-going experiments. The second example [2] is a thermal (bolometric) measurement [3] of quantum interference in a qubit-resonator system, weakly coupled to a heat bath. Landau-Zener type interferences are observed via the measurement of the temperature of the mesoscopic bath, when the system is driven periodically. This setup and measurement serve as a precursor experiment for a quantum Otto refrigerator.
 
-[1] Bayan Karimi, Xuntao Wu, Andrew Cleland, and Jukka P. Pekola, [arXiv:2508.13489](https://arxiv.org/abs/2508.13489) (2025).
-[2] Christoforus Dimas Satrya, Aleksandr S. Strelnikov, Luca Magazzù, Yu-Cheng Chang, Rishabh Upadhyay, Joonas T. Peltonen, Bayan Karimi, and Jukka P. Pekola, [arXiv:2510.23092](https://arxiv.org/abs/2510.23092) (2025). 
-[3] Jukka P. Pekola and Bayan Karimi, Rev. Mod. Phys. **93**, [041001](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.93.041001) (2021).
+<div class="symposium-reference-list">
+<p>[1] Bayan Karimi, Xuntao Wu, Andrew Cleland, and Jukka P. Pekola, <a href="https://arxiv.org/abs/2508.13489">arXiv:2508.13489</a> (2025).</p>
+<p>[2] Christoforus Dimas Satrya, Aleksandr S. Strelnikov, Luca Magazzù, Yu-Cheng Chang, Rishabh Upadhyay, Joonas T. Peltonen, Bayan Karimi, and Jukka P. Pekola, <a href="https://arxiv.org/abs/2510.23092">arXiv:2510.23092</a> (2025).</p>
+<p>[3] Jukka P. Pekola and Bayan Karimi, Rev. Mod. Phys. <strong>93</strong>, <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.93.041001">041001</a> (2021).</p>
+</div>
 
 ---
 
