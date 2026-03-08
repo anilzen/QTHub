@@ -86,7 +86,7 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
 ---
 
 ## Felipe Barra
-*University of Chicago* and *Aalto University*
+*University of Chile*
 
 ### Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon
 
