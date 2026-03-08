@@ -47,7 +47,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h1 id="titles-and-abstracts">Titles and Abstracts&lt;/h1>
 &lt;hr>
 &lt;h2 id="felipe-barra">Felipe Barra&lt;/h2>
-&lt;p>&lt;em>University of Chicago&lt;/em> and &lt;em>Aalto University&lt;/em>&lt;/p>
+&lt;p>&lt;em>University of Chile&lt;/em>&lt;/p>
 &lt;h3 id="decoherence-and-information-flows-in-a-quantum-thermoelectric-maxwell-demon">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon&lt;/h3>
 &lt;p>We consider a multipartite system that operates as a thermoelectric engine and can be interpreted as an autonomous Maxwell demon rectifying particle flow against a chemical potential bias.
 The standard dynamical description is the global Lindblad equation obtained from the Redfield equation after a full secular approximation. This equation satisfies a local detailed balance condition and is therefore thermodynamically consistent. Recently, Lindblad equations satisfying local detailed balance have also been derived using a partial secular approximation [1,2]. These local or semi-local Lindblad equations provide a more accurate description of the dynamics within their range of validity and, importantly, preserve coherences between nearly degenerate states in the nonequilibrium steady state.
