@@ -41,6 +41,7 @@ lodestone for North American quantum thermodynamics.&lt;/p></description></item>
 &lt;p>Participants of the QTD Conference can reserve rooms at a discounted group rate. Please use the following links to book your stay:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://www.ihg.com/staybridge/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&amp;amp;qSrt=sBR&amp;amp;qSlH=ROCBA&amp;amp;qRms=1&amp;amp;qAdlt=1&amp;amp;qCiD=2&amp;amp;qCiMy=052026&amp;amp;qCoD=5&amp;amp;qCoMy=052026&amp;amp;qGrpCd=QTD&amp;amp;setPMCookies=true&amp;amp;qSHBrC=SB&amp;amp;qDest=1000%20Genesee%20Street,%20Rochester,%20NY,%20US&amp;amp;showApp=true&amp;amp;adjustMonth=false&amp;amp;srb_u=1&amp;amp;qRmFltr=" target="_blank" rel="noopener">&lt;strong>Staybridge Suites Rochester University&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hilton.com/en/attend-my-event/urdepartmentofphysics/" target="_blank" rel="noopener">&lt;strong>Hilton (UR Department of Physics Rate)&lt;/strong>&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Additional hotel options offering conference discounts will be announced soon.&lt;/p>
 &lt;h1 id="keynote-speaker">Keynote Speaker&lt;/h1>
@@ -76,6 +77,25 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>Early-career researchers will be able to apply for travel grants sponsored by &lt;a href="https://www.normalcomputing.com/" target="_blank" rel="noopener">Normal Computing&lt;/a>. Check back later for details.&lt;/p>
 &lt;hr>
 &lt;h1 id="titles-and-abstracts">Titles and Abstracts&lt;/h1>
+&lt;hr>
+&lt;h2 id="felipe-barra">Felipe Barra&lt;/h2>
+&lt;p>&lt;em>University of Chicago&lt;/em> and &lt;em>Aalto University&lt;/em>&lt;/p>
+&lt;h3 id="decoherence-and-information-flows-in-a-quantum-thermoelectric-maxwell-demon">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon&lt;/h3>
+&lt;p>We consider a multipartite system that operates as a thermoelectric engine and can be interpreted as an autonomous Maxwell demon rectifying particle flow against a chemical potential bias.
+The standard dynamical description is the global Lindblad equation obtained from the Redfield equation after a full secular approximation. This equation satisfies a local detailed balance condition and is therefore thermodynamically consistent. Recently, Lindblad equations satisfying local detailed balance have also been derived using a partial secular approximation [1,2]. These local or semi-local Lindblad equations provide a more accurate description of the dynamics within their range of validity and, importantly, preserve coherences between nearly degenerate states in the nonequilibrium steady state.
+We analyze particle, energy, and information flows [3]. Information flows are essential in multipartite systems to reconcile the second law with the apparent violations induced by the demon’s action.
+We focus on the partial secular regime, where the nonequilibrium steady state exhibits coherence, and introduce a dissipative particle transport mechanism whose strength can be tuned to drive a transition from a coherent to a coherence-free nonequilibrium steady state. We study how decoherence reshapes information flows and impacts the performance of the thermoelectric engine across this coherent–incoherent transition.&lt;/p>
+&lt;p>[1] A. Trushechkin, Unified Gorini-Kossakowski-Lindblad-Sudarshan quantum master equation beyond the secular approximation, Physical Review A &lt;strong>103&lt;/strong>, &lt;a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062226" target="_blank" rel="noopener">062226&lt;/a> (2021).
+[2] P. P. Potts, A. A. S. Kalaee, and A. Wacker, A thermodynamically consistent Markovian master equation beyond the secular approximation, New Journal of Physics &lt;strong>23&lt;/strong>, &lt;a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac3b2f" target="_blank" rel="noopener">123013&lt;/a> (2021)
+[3] J. M. Horowitz and M. Esposito, Thermodynamics with continuous information flow, Physical Review X &lt;strong>4&lt;/strong>, &lt;a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.031015" target="_blank" rel="noopener">031015&lt;/a> (2014); K. Ptaszynski and M. Esposito, Thermodynamics of quantum information flows, Physical Review Letters &lt;strong>122&lt;/strong>, &lt;a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.150603" target="_blank" rel="noopener">150603&lt;/a> (2019).&lt;/p>
+&lt;hr>
+&lt;h2 id="bayan-karimi">Bayan Karimi&lt;/h2>
+&lt;p>&lt;em>University of Chicago&lt;/em> and &lt;em>Aalto University&lt;/em>&lt;/p>
+&lt;h3 id="coherent-quantum-thermodynamics-in-superconducting-circuits">Coherent quantum thermodynamics in superconducting circuits&lt;/h3>
+&lt;p>Coherence is a key property of quantum systems and plays a central role in quantum heat engines and refrigerators. In this talk, I will discuss two different experiments where decoherence and pure quantum dynamics play a role. The first one is related to thermalization in isolated quantum systems via the study of Poincare recoveries in a system of coupled qubits, where the revival time scales exponentially with the number of participating qubits: I present the theoretical background [1] and on-going experiments. The second example [2] is a thermal (bolometric) measurement [3] of quantum interference in a qubit-resonator system, weakly coupled to a heat bath. Landau-Zener type interferences are observed via the measurement of the temperature of the mesoscopic bath, when the system is driven periodically. This setup and measurement serve as a precursor experiment for a quantum Otto refrigerator.&lt;/p>
+&lt;p>[1] Bayan Karimi, Xuntao Wu, Andrew Cleland, and Jukka P. Pekola, &lt;a href="https://arxiv.org/abs/2508.13489" target="_blank" rel="noopener">arXiv:2508.13489&lt;/a> (2025).
+[2] Christoforus Dimas Satrya, Aleksandr S. Strelnikov, Luca Magazzù, Yu-Cheng Chang, Rishabh Upadhyay, Joonas T. Peltonen, Bayan Karimi, and Jukka P. Pekola, &lt;a href="https://arxiv.org/abs/2510.23092" target="_blank" rel="noopener">arXiv:2510.23092&lt;/a> (2025).
+[3] Jukka P. Pekola and Bayan Karimi, Rev. Mod. Phys. &lt;strong>93&lt;/strong>, &lt;a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.93.041001" target="_blank" rel="noopener">041001&lt;/a> (2021).&lt;/p>
 &lt;hr>
 &lt;h2 id="lea-ferreira-dos-santos">Lea Ferreira dos Santos&lt;/h2>
 &lt;p>&lt;em>University of Connecticut&lt;/em>&lt;/p>
