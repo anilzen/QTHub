@@ -69,7 +69,7 @@ Both fiction and physics require lots of imagination. Albert Einstein famously i
 - [Lea Ferreira dos Santos](https://physics.uconn.edu/person/lea-ferreira-dos-santos/) (University of Connecticut)
 - [Saikat Guha](https://ece.umd.edu/clark/faculty/1891/Saikat-Guha) (University of Maryland)
 - [Giulia Rubino](https://www.giulia-rubino.com/) (University of Bristol)
-- Bayan Karimi (University of Chicago)
+- Bayan Karimi (University of Chicago and Aalto University)
 - [Charles Stafford](https://w3.physics.arizona.edu/people/charles-stafford) (University of Arizona)
 - [Mark Wilde](https://www.engineering.cornell.edu/people/mark-wilde/) (Cornell University)
 
