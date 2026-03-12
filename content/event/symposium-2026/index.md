@@ -124,3 +124,16 @@ Coherence is a key property of quantum systems and plays a central role in quant
 Dissipation is commonly regarded as an obstacle to quantum control, as it induces decoherence and irreversibility. In this talk, we show that dissipation can instead be exploited as a resource to engineer and regulate complex dynamics in interacting quantum systems. Using an experimentally realizable two-species Bose-Josephson junction, we demonstrate that dissipation enables distinct dynamical regimes, including synchronized phase-locked oscillations, transient chaos, and steady-state chaos. The emergence of each behavior is determined by experimentally tunable parameters. Remarkably, dissipation regulates the duration of chaotic behavior and information scrambling, and can restore coherence at long times.
 
 ---
+
+## Mark Wilde
+*Cornell University*
+
+### Quantum thermodynamics and semi-definite optimization
+
+In quantum thermodynamics, a system is described by a Hamiltonian and a list of non-commuting charges representing conserved quantities like particle number or electric charge, and an important goal is to determine the system's minimum energy in the presence of these conserved charges. In optimization theory, a semi-definite program (SDP) involves a linear objective function optimized over the cone of positive semi-definite operators intersected with an affine space. These problems arise from differing motivations in the physics and optimization communities and are phrased using very different terminology, yet they are essentially identical mathematically. By adopting Jaynes' mindset motivated by quantum thermodynamics, we observe that minimizing free energy in the aforementioned thermodynamics problem, instead of energy, leads to an elegant solution in terms of a dual chemical potential maximization problem that is concave in the chemical potential parameters. As such, one can employ standard (stochastic) gradient ascent methods to find the optimal values of these parameters, and these methods are guaranteed to converge quickly. At low temperature, the minimum free energy provides an excellent approximation for the minimum energy. We then show how this Jaynes-inspired gradient-ascent approach can be used in both first- and second-order classical and hybrid quantum-classical algorithms for minimizing energy, and equivalently, how it can be used for solving SDPs, with guarantees on the runtimes of the algorithms. Finally, we benchmark these algorithms on several problems of interest in thermodynamics, including one- and two-dimensional quantum Heisenberg models with nearest and next-to-nearest neighbor interactions and with the charges set to the total x, y, and z magnetizations. We also offer an alternative compelling interpretation of these algorithms as methods for designing ground and thermal states of controllable Hamiltonians.
+
+<div class="symposium-reference-list">
+<p>Based on <a href="https://arxiv.org/abs/2505.04514">arXiv:2505.04514</a> and <a href="https://arxiv.org/abs/2508.09103">arXiv:2508.09103</a>.</p>
+</div>
+
+---
