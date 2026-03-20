@@ -125,6 +125,25 @@ Dissipation is commonly regarded as an obstacle to quantum control, as it induce
 
 ---
 
+## Charles Stafford
+*University of Arizona*
+
+### Quantum Heat and the Emergence of the 2nd Law
+
+We show that the conventional formulas used to compute heat and entropy produced in quantum processes are incomplete due to the failure to account for the intrinsically nonlocal character of quantum work, which becomes increasingly important at low absolute temperatures.  We analyze both steady-state and transient flows of heat and entropy in driven quantum systems, and show that inclusion of nonlocal work is needed to obey the 3rd Law of Thermodynamics.  Importantly, the correct results for heat dissipated in quantum processes can be orders of magnitude less than that predicted by the conventional formula.   Our formula for entropy flow describes unitary evolution; to account for the irreversibility implicit in the conventional formula, explicit mechanisms of decoherence and thermalization must be included.  We show that the conventional macroscopic result for Joule heating is reproduced in an exactly solvable model of a quantum wire when a large number of continuous thermoelectric measurements are performed, wherein the information obtained about the local electron distribution is not stored but is rejected as entropy into the wire, causing decoherence.
+
+<div class="symposium-reference-list">
+<p>Parth Kumar, Caleb M. Webb, CAS, <a href="https://doi.org/10.1103/PhysRevLett.133.070404">Work Sum Rule for Open Quantum Systems</a>, Phys. Rev. Lett. 133, 070404 (2024); 
+
+Marco A. Jimenez Valencia, Parth Kumar, Yiheng Xu, Ferdinand Evers, CAS, <a href="https://arxiv.org/abs/2509.00645">Entropy Flow at the Quantum Limit</a>, arXiv:2509.00645; 
+
+Marco A. Jimenez Valencia, CAS, <a href="https://doi.org/10.3390/e28030316">Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire</a>, Entropy 28(3), 316 (2026).</p>
+</div>
+
+
+
+---
+
 ## Mark Wilde
 *Cornell University*
 
