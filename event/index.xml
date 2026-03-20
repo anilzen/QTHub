@@ -73,6 +73,16 @@ We focus on the partial secular regime, where the nonequilibrium steady state ex
 &lt;h3 id="dissipation-as-a-resource-coherence-recovery-and-chaos-control">Dissipation as a Resource: Coherence Recovery and Chaos Control&lt;/h3>
 &lt;p>Dissipation is commonly regarded as an obstacle to quantum control, as it induces decoherence and irreversibility. In this talk, we show that dissipation can instead be exploited as a resource to engineer and regulate complex dynamics in interacting quantum systems. Using an experimentally realizable two-species Bose-Josephson junction, we demonstrate that dissipation enables distinct dynamical regimes, including synchronized phase-locked oscillations, transient chaos, and steady-state chaos. The emergence of each behavior is determined by experimentally tunable parameters. Remarkably, dissipation regulates the duration of chaotic behavior and information scrambling, and can restore coherence at long times.&lt;/p>
 &lt;hr>
+&lt;h2 id="charles-stafford">Charles Stafford&lt;/h2>
+&lt;p>&lt;em>University of Arizona&lt;/em>&lt;/p>
+&lt;h3 id="quantum-heat-and-the-emergence-of-the-2nd-law">Quantum Heat and the Emergence of the 2nd Law&lt;/h3>
+&lt;p>We show that the conventional formulas used to compute heat and entropy produced in quantum processes are incomplete due to the failure to account for the intrinsically nonlocal character of quantum work, which becomes increasingly important at low absolute temperatures. We analyze both steady-state and transient flows of heat and entropy in driven quantum systems, and show that inclusion of nonlocal work is needed to obey the 3rd Law of Thermodynamics. Importantly, the correct results for heat dissipated in quantum processes can be orders of magnitude less than that predicted by the conventional formula. Our formula for entropy flow describes unitary evolution; to account for the irreversibility implicit in the conventional formula, explicit mechanisms of decoherence and thermalization must be included. We show that the conventional macroscopic result for Joule heating is reproduced in an exactly solvable model of a quantum wire when a large number of continuous thermoelectric measurements are performed, wherein the information obtained about the local electron distribution is not stored but is rejected as entropy into the wire, causing decoherence.&lt;/p>
+&lt;div class="symposium-reference-list">
+&lt;p>Parth Kumar, Caleb M. Webb, CAS, &lt;a href="https://doi.org/10.1103/PhysRevLett.133.070404">Work Sum Rule for Open Quantum Systems&lt;/a>, Phys. Rev. Lett. 133, 070404 (2024);
+&lt;p>Marco A. Jimenez Valencia, Parth Kumar, Yiheng Xu, Ferdinand Evers, CAS, &lt;a href="https://arxiv.org/abs/2509.00645">Entropy Flow at the Quantum Limit&lt;/a>, arXiv:2509.00645;&lt;/p>
+&lt;p>Marco A. Jimenez Valencia, CAS, &lt;a href="https://doi.org/10.3390/e28030316">Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire&lt;/a>, Entropy 28(3), 316 (2026).&lt;/p>&lt;/p>
+&lt;/div>
+&lt;hr>
 &lt;h2 id="mark-wilde">Mark Wilde&lt;/h2>
 &lt;p>&lt;em>Cornell University&lt;/em>&lt;/p>
 &lt;h3 id="quantum-thermodynamics-and-semi-definite-optimization">Quantum thermodynamics and semi-definite optimization&lt;/h3>
