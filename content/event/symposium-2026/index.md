@@ -80,7 +80,172 @@ A poster session will include a competition for student and postdoctoral entrant
 Early-career researchers will be able to apply for travel grants sponsored by [Normal Computing](https://www.normalcomputing.com/). Check back later for details.
 
 ---
+
+# Schedule
+
+<table class="table table-bordered table-responsive">
+  <thead class="thead" style="background-color: #704214;">
+    <tr>
+      <th style="width: 20%; color: #EAE7D6;">Time</th>
+      <th style="width: 40%; color: #EAE7D6;">Wednesday, June 3rd</th>
+      <th style="width: 40%; color: #EAE7D6;">Thursday, June 4th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:30 AM &mdash; 9:00 AM</td>
+      <td style="background-color: #b9a56e;">Registration<br>Morey Hall</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9:00 AM &mdash; 10:00 AM</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://www.giulia-rubino.com/">Giulia Rubino</a>, University of Bristol
+        <br>
+        <a href="#giulia-rubino">Title to be announced</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: Gabriel Landi</em>
+      </td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://physics.uconn.edu/person/lea-ferreira-dos-santos/">Lea Ferreira dos Santos</a>, University of Connecticut
+        <br>
+        <a href="#lea-ferreira-dos-santos">Dissipation as a Resource: Coherence Recovery and Chaos Control</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: George Mihailescu</em>
+      </td>
+    </tr>
+    <tr>
+      <td>10:00 AM &mdash; 10:30 AM</td>
+      <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
+      <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
+    </tr>
+    <tr>
+      <td>10:30 AM &mdash; 11:30 AM</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra</a>, University of Chile
+        <br>
+        <a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: Ignacio Franco</em>
+      </td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://www.engineering.cornell.edu/people/mark-wilde/">Mark Wilde</a>, Cornell University
+        <br>
+        <a href="#mark-wilde">Quantum thermodynamics and semi-definite optimization</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: TBD</em>
+      </td>
+    </tr>
+    <tr>
+      <td>11:30 AM &mdash; 12:00 PM</td>
+      <td style="background-color: #b9a56e;">Free time</td>
+      <td style="background-color: #b9a56e;">Free time</td>
+    </tr>
+    <tr>
+      <td>12:00 PM &mdash; 2:00 PM</td>
+      <td style="background-color: #b9a56e;">Lunch<br>Rettner Atrium</td>
+      <td style="background-color: #b9a56e;">Lunch<br>Rettner Atrium</td>
+    </tr>
+    <tr>
+      <td>2:00 PM &mdash; 2:30 PM</td>
+      <td style="background-color: #b9a56e;">Lunch<br>Rettner Atrium</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
+        <br>
+        <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: TBD</em>
+      </td>
+    </tr>
+    <tr>
+      <td>2:30 PM &mdash; 3:00 PM</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi</a>, University of Chicago and Aalto University
+        <br>
+        <a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: John Nichol</em>
+      </td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
+        <br>
+        <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: TBD</em>
+      </td>
+    </tr>
+    <tr>
+      <td>3:00 PM &mdash; 3:30 PM</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi</a>, University of Chicago and Aalto University
+        <br>
+        <a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: John Nichol</em>
+      </td>
+      <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium<br>Poster prize announcement</td>
+    </tr>
+    <tr>
+      <td>3:30 PM &mdash; 4:30 PM</td>
+      <td style="background-color: #b9a56e;">Poster session &amp; refreshments<br>Rettner Atrium</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://ece.umd.edu/clark/faculty/1891/Saikat-Guha">Saikat Guha</a>, University of Maryland
+        <br>
+        <a href="#saikat-guha">Title to be announced</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: Machiel Blok</em>
+      </td>
+    </tr>
+    <tr>
+      <td>4:30 PM &mdash; 6:00 PM</td>
+      <td style="background-color: #b9a56e;">Poster session &amp; refreshments<br>Rettner Atrium</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6:00 PM</td>
+      <td style="background-color: #ffc8a1;">
+        <a href="https://www.markalpert.com/">Mark Alpert</a>, novelist and <em>Scientific American</em> contributing editor
+        <br>
+        <a href="#quantum-crash-turning-science-into-fiction-and-vice-versa">Quantum Crash: Turning Science into Fiction and Vice Versa</a>
+        <br>
+        Hoyt Hall
+        <br>
+        <em>Chair: Nicole Yunger Halpern</em>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+---
 # Titles and Abstracts
+---
+
+## Giulia Rubino
+*University of Bristol*
+
+### Title to be announced
+
+Abstract to be announced.
+
 ---
 
 ## Felipe Barra
@@ -154,5 +319,14 @@ In quantum thermodynamics, a system is described by a Hamiltonian and a list of 
 <div class="symposium-reference-list">
 <p>Based on <a href="https://arxiv.org/abs/2505.04514">arXiv:2505.04514</a> and <a href="https://arxiv.org/abs/2508.09103">arXiv:2508.09103</a>.</p>
 </div>
+
+---
+
+## Saikat Guha
+*University of Maryland*
+
+### Title to be announced
+
+Abstract to be announced.
 
 ---
