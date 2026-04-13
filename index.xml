@@ -75,7 +75,165 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h1 id="travel-scholarships">Travel Scholarships&lt;/h1>
 &lt;p>Early-career researchers will be able to apply for travel grants sponsored by &lt;a href="https://www.normalcomputing.com/" target="_blank" rel="noopener">Normal Computing&lt;/a>. Check back later for details.&lt;/p>
 &lt;hr>
+&lt;h1 id="schedule">Schedule&lt;/h1>
+&lt;table class="table table-bordered table-responsive">
+&lt;thead class="thead" style="background-color: #704214;">
+&lt;tr>
+&lt;th style="width: 20%; color: #EAE7D6;">Time&lt;/th>
+&lt;th style="width: 40%; color: #EAE7D6;">Wednesday, June 3rd&lt;/th>
+&lt;th style="width: 40%; color: #EAE7D6;">Thursday, June 4th&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>8:30 AM &amp;mdash; 9:00 AM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Registration&lt;br>Morey Hall&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:00 AM &amp;mdash; 10:00 AM&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://www.giulia-rubino.com/">Giulia Rubino&lt;/a>, University of Bristol
+&lt;br>
+&lt;a href="#giulia-rubino">Title to be announced&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: Gabriel Landi&lt;/em>
+&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://physics.uconn.edu/person/lea-ferreira-dos-santos/">Lea Ferreira dos Santos&lt;/a>, University of Connecticut
+&lt;br>
+&lt;a href="#lea-ferreira-dos-santos">Dissipation as a Resource: Coherence Recovery and Chaos Control&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: George Mihailescu&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:00 AM &amp;mdash; 10:30 AM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
+&lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:30 AM &amp;mdash; 11:30 AM&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra&lt;/a>, University of Chile
+&lt;br>
+&lt;a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: Ignacio Franco&lt;/em>
+&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://www.engineering.cornell.edu/people/mark-wilde/">Mark Wilde&lt;/a>, Cornell University
+&lt;br>
+&lt;a href="#mark-wilde">Quantum thermodynamics and semi-definite optimization&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: TBD&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:30 AM &amp;mdash; 12:00 PM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Free time&lt;/td>
+&lt;td style="background-color: #b9a56e;">Free time&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12:00 PM &amp;mdash; 2:00 PM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Lunch&lt;br>Rettner Atrium&lt;/td>
+&lt;td style="background-color: #b9a56e;">Lunch&lt;br>Rettner Atrium&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2:00 PM &amp;mdash; 2:30 PM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Lunch&lt;br>Rettner Atrium&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford&lt;/a>, University of Arizona
+&lt;br>
+&lt;a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: TBD&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2:30 PM &amp;mdash; 3:00 PM&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi&lt;/a>, University of Chicago and Aalto University
+&lt;br>
+&lt;a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: John Nichol&lt;/em>
+&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford&lt;/a>, University of Arizona
+&lt;br>
+&lt;a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: TBD&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3:00 PM &amp;mdash; 3:30 PM&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi&lt;/a>, University of Chicago and Aalto University
+&lt;br>
+&lt;a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: John Nichol&lt;/em>
+&lt;/td>
+&lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;br>Poster prize announcement&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3:30 PM &amp;mdash; 4:30 PM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Poster session &amp;amp; refreshments&lt;br>Rettner Atrium&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://ece.umd.edu/clark/faculty/1891/Saikat-Guha">Saikat Guha&lt;/a>, University of Maryland
+&lt;br>
+&lt;a href="#saikat-guha">Title to be announced&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: Machiel Blok&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4:30 PM &amp;mdash; 6:00 PM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Poster session &amp;amp; refreshments&lt;br>Rettner Atrium&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6:00 PM&lt;/td>
+&lt;td style="background-color: #ffc8a1;">
+&lt;a href="https://www.markalpert.com/">Mark Alpert&lt;/a>, novelist and &lt;em>Scientific American&lt;/em> contributing editor
+&lt;br>
+&lt;a href="#quantum-crash-turning-science-into-fiction-and-vice-versa">Quantum Crash: Turning Science into Fiction and Vice Versa&lt;/a>
+&lt;br>
+Hoyt Hall
+&lt;br>
+&lt;em>Chair: Nicole Yunger Halpern&lt;/em>
+&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
 &lt;h1 id="titles-and-abstracts">Titles and Abstracts&lt;/h1>
+&lt;hr>
+&lt;h2 id="giulia-rubino">Giulia Rubino&lt;/h2>
+&lt;p>&lt;em>University of Bristol&lt;/em>&lt;/p>
+&lt;h3 id="title-to-be-announced">Title to be announced&lt;/h3>
+&lt;p>Abstract to be announced.&lt;/p>
 &lt;hr>
 &lt;h2 id="felipe-barra">Felipe Barra&lt;/h2>
 &lt;p>&lt;em>University of Chile&lt;/em>&lt;/p>
@@ -122,6 +280,11 @@ We focus on the partial secular regime, where the nonequilibrium steady state ex
 &lt;div class="symposium-reference-list">
 &lt;p>Based on &lt;a href="https://arxiv.org/abs/2505.04514">arXiv:2505.04514&lt;/a> and &lt;a href="https://arxiv.org/abs/2508.09103">arXiv:2508.09103&lt;/a>.&lt;/p>
 &lt;/div>
+&lt;hr>
+&lt;h2 id="saikat-guha">Saikat Guha&lt;/h2>
+&lt;p>&lt;em>University of Maryland&lt;/em>&lt;/p>
+&lt;h3 id="title-to-be-announced-1">Title to be announced&lt;/h3>
+&lt;p>Abstract to be announced.&lt;/p>
 &lt;hr></description></item><item><title>Kubo-Martin-Schwinger relation for energy eigenstates of SU(2)-symmetric quantum many-body systems</title><link>https://qtd-hub.umd.edu/publication/2026-noh-lasek-leschack-etal/</link><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-noh-lasek-leschack-etal/</guid><description/></item><item><title>Metrological approach to the emergence of classical objectivity</title><link>https://qtd-hub.umd.edu/publication/2026-kiely-chisholm-touil-deffner-landi-campbell/</link><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-kiely-chisholm-touil-deffner-landi-campbell/</guid><description/></item><item><title>Bosonic statistics enhance Maxwell's demon in photonic experiment</title><link>https://qtd-hub.umd.edu/publication/2026-anguita-marzban-braasch-etal/</link><pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-anguita-marzban-braasch-etal/</guid><description/></item><item><title>Roadmap on Quantum Thermodynamics</title><link>https://qtd-hub.umd.edu/publication/2026-campbell-damico-ciampini-etal/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-campbell-damico-ciampini-etal/</guid><description/></item><item><title>Revealing the non-classicality of a molecular nanomagnet</title><link>https://qtd-hub.umd.edu/publication/2026-cammarata-campbell-paternostro/</link><pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-cammarata-campbell-paternostro/</guid><description/></item><item><title>Quantum speed limit for the OTOC from an open systems perspective</title><link>https://qtd-hub.umd.edu/publication/2026-tripathy-thingna-deffner/</link><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2026-tripathy-thingna-deffner/</guid><description/></item><item><title>Fluctuation theorems for autonomous work</title><link>https://qtd-hub.umd.edu/publication/2025-jarzynski-deffner-rahav/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-jarzynski-deffner-rahav/</guid><description/></item><item><title>Correcting noisy quantum gates with shortcuts to adiabaticity</title><link>https://qtd-hub.umd.edu/publication/2025-cavalcante-cakmak-bonanca-etal/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-cavalcante-cakmak-bonanca-etal/</guid><description/></item><item><title>Metrological symmetries in singular quantum multi-parameter estimation</title><link>https://qtd-hub.umd.edu/publication/2025-mihailescu-sarkar-bayat-campbell-mitchell/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-mihailescu-sarkar-bayat-campbell-mitchell/</guid><description/></item><item><title>Non-Markovian spontaneous emission in a tunable cavity formed by atomic mirrors</title><link>https://qtd-hub.umd.edu/publication/2025-das-solano-sinha/</link><pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-das-solano-sinha/</guid><description/></item><item><title>Decoherence and Brownian motion of a polarizable particle near a surface</title><link>https://qtd-hub.umd.edu/publication/2025-jakubec-jarzynski-sinha/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-jakubec-jarzynski-sinha/</guid><description/></item><item><title>Suppressing excitations in the nonlinear Landau-Zener model</title><link>https://qtd-hub.umd.edu/publication/2025-deffner-campbell/</link><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-deffner-campbell/</guid><description/></item><item><title>On the Baltimore Light RailLink into the quantum future</title><link>https://qtd-hub.umd.edu/publication/2025-domino-doucet-robertson-gardas-deffner/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-domino-doucet-robertson-gardas-deffner/</guid><description/></item><item><title>Endoreversible Stirling cycles: plasma engines at maximal power</title><link>https://qtd-hub.umd.edu/publication/2025-behrendt-deffner/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-behrendt-deffner/</guid><description/></item><item><title>Nonequilibrium steady states in multi-bath quantum collision models</title><link>https://qtd-hub.umd.edu/publication/2025-mcelvogue-mitchell-landi-etal/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-mcelvogue-mitchell-landi-etal/</guid><description/></item><item><title>Hamiltonian quantum gates – energetic advantage from entangleability</title><link>https://qtd-hub.umd.edu/publication/2025-stevens-deffner/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-stevens-deffner/</guid><description/></item><item><title>Effect of Self-Interaction on Feynman's Interpretation of the Lamb Shift</title><link>https://qtd-hub.umd.edu/publication/2025-milonni-berman-sinha/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-milonni-berman-sinha/</guid><description/></item><item><title>Master equation formulations for continuous feedback in quantum systems</title><link>https://qtd-hub.umd.edu/publication/2025-desousa/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-desousa/</guid><description/></item><item><title>Numerical evidence for the non-Abelian eigenstate thermalization hypothesis and a non-Abelian fluctuation-dissipation theorem</title><link>https://qtd-hub.umd.edu/publication/2025-leschack/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/publication/2025-leschack/</guid><description/></item><item><title>Maryland Quantum-Thermodynamics Symposium 2025 and first annual Quantum Workshop at UMBC</title><link>https://qtd-hub.umd.edu/event/symposium-2025/</link><pubDate>Tue, 27 May 2025 13:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/event/symposium-2025/</guid><description>&lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeDL4aFxYBVjcpVj1-zKGDu6b0RIw0wRr666aJ-sYAXvTZPCw/viewform?usp=sharing" class="btn btn-primary px-3 py-3">Register here&lt;/a>
