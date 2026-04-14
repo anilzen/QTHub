@@ -63,7 +63,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;td style="background-color: #ffc8a1;">
 &lt;a href="https://www.giulia-rubino.com/">Giulia Rubino&lt;/a>, University of Bristol
 &lt;br>
-&lt;a href="#giulia-rubino">Title to be announced&lt;/a>
+&lt;a href="#giulia-rubino">Minimally invasive measurement of work in coherent quantum systems&lt;/a>
 &lt;br>
 Morey Hall
 &lt;br>
@@ -200,8 +200,11 @@ Hoyt Hall
 &lt;hr>
 &lt;h2 id="giulia-rubino">Giulia Rubino&lt;/h2>
 &lt;p>&lt;em>University of Bristol&lt;/em>&lt;/p>
-&lt;h3 id="title-to-be-announced">Title to be announced&lt;/h3>
-&lt;p>Abstract to be announced.&lt;/p>
+&lt;h3 id="minimally-invasive-measurement-of-work-in-coherent-quantum-systems">Minimally invasive measurement of work in coherent quantum systems&lt;/h3>
+&lt;p>How could one measure work in a quantum process where coherence is an essential resource? In the standard two-point measurement protocol, work is inferred from two projective energy measurements, and the initial measurement destroys coherence thereby altering both the dynamics and energetics of the process. In this talk, I will introduce an alternative measurement protocol of the Heisenberg operator of work that avoids destroying coherence while still producing physically meaningful statistics. In particular, this one-point projective protocol faithfully reproduces the energy change in the untouched process while being minimally invasive, and it satisfies a Jarzynski-like fluctuation relation. I will show how to construct a Crooks-like detailed fluctuation relation for this protocol and derive a thermodynamic uncertainty relation (TUR) for it. This TUR reveals that the preservation of coherence comes at the price of a reduced signal-to-noise ratio. Furthermore, by analysing two generic quantum machines, I will illustrate how accounting for coherence can qualitatively change the measured efficiency of these machines as compared to brute-force measurement schemes. These results highlight the need for alternative operational notions of work in quantum thermodynamics.&lt;/p>
+&lt;p>[1] G. Rubino, K. V. Hovhannisyan, and P. Skrzypczyk, npj Quantum Information 11, 102 (2025).
+[2] K. V. Hovhannisyan, and A. Imparato, Quantum 8, 1336 (2024).
+[3] T. A. B. Pinto Silva, and D. Gelbwaser-Klimovsky, Phys. Rev. Res. 6, L022036 (2024).&lt;/p>
 &lt;hr>
 &lt;h2 id="felipe-barra">Felipe Barra&lt;/h2>
 &lt;p>&lt;em>University of Chile&lt;/em>&lt;/p>
@@ -251,7 +254,7 @@ We focus on the partial secular regime, where the nonequilibrium steady state ex
 &lt;hr>
 &lt;h2 id="saikat-guha">Saikat Guha&lt;/h2>
 &lt;p>&lt;em>University of Maryland&lt;/em>&lt;/p>
-&lt;h3 id="title-to-be-announced-1">Title to be announced&lt;/h3>
+&lt;h3 id="title-to-be-announced">Title to be announced&lt;/h3>
 &lt;p>Abstract to be announced.&lt;/p>
 &lt;hr></description></item><item><title>Maryland Quantum-Thermodynamics Symposium 2025 and first annual Quantum Workshop at UMBC</title><link>https://qtd-hub.umd.edu/event/symposium-2025/</link><pubDate>Tue, 27 May 2025 13:00:00 +0000</pubDate><guid>https://qtd-hub.umd.edu/event/symposium-2025/</guid><description>&lt;ul class="cta-group">
 &lt;li>
