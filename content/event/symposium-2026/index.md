@@ -246,9 +246,11 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
 
 How could one measure work in a quantum process where coherence is an essential resource? In the standard two-point measurement protocol, work is inferred from two projective energy measurements, and the initial measurement destroys coherence thereby altering both the dynamics and energetics of the process. In this talk, I will introduce an alternative measurement protocol of the Heisenberg operator of work that avoids destroying coherence while still producing physically meaningful statistics. In particular, this one-point projective protocol faithfully reproduces the energy change in the untouched process while being minimally invasive, and it satisfies a Jarzynski-like fluctuation relation. I will show how to construct a Crooks-like detailed fluctuation relation for this protocol and derive a thermodynamic uncertainty relation (TUR) for it. This TUR reveals that the preservation of coherence comes at the price of a reduced signal-to-noise ratio. Furthermore, by analysing two generic quantum machines, I will illustrate how accounting for coherence can qualitatively change the measured efficiency of these machines as compared to brute-force measurement schemes. These results highlight the need for alternative operational notions of work in quantum thermodynamics.
 
-[1] G. Rubino, K. V. Hovhannisyan, and P. Skrzypczyk, npj Quantum Information 11, 102 (2025).
-[2] K. V. Hovhannisyan, and A. Imparato, Quantum 8, 1336 (2024).
-[3] T. A. B. Pinto Silva, and D. Gelbwaser-Klimovsky, Phys. Rev. Res. 6, L022036 (2024).
+<div class="symposium-reference-list">
+<p>[1] G. Rubino, K. V. Hovhannisyan, and P. Skrzypczyk, npj Quantum Information 11, 102 (2025).</p>
+<p>[2] K. V. Hovhannisyan, and A. Imparato, Quantum 8, 1336 (2024).</p>
+<p>[3] T. A. B. Pinto Silva, and D. Gelbwaser-Klimovsky, Phys. Rev. Res. 6, L022036 (2024).</p>
+</div>
 
 ---
 
