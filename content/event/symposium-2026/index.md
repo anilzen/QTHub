@@ -44,12 +44,16 @@ There is no registration fee, but registration is required.
 
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}}
 
-## Accommodation
+## Practical Information
 
 Participants of the QTD Conference can reserve rooms at a discounted group rate. Please use the following links to book your stay:
 
 - [**Staybridge Suites Rochester University**](https://www.ihg.com/staybridge/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qSlH=ROCBA&qRms=1&qAdlt=1&qCiD=2&qCiMy=052026&qCoD=5&qCoMy=052026&qGrpCd=QTD&setPMCookies=true&qSHBrC=SB&qDest=1000%20Genesee%20Street,%20Rochester,%20NY,%20US&showApp=true&adjustMonth=false&srb_u=1&qRmFltr=)
 - [**Hilton (UR Department of Physics Rate)**](https://www.hilton.com/en/attend-my-event/urdepartmentofphysics/)
+
+The event will take place on the University of Rochester River campus at [Morey Hall](https://maps.app.goo.gl/uudZiGvBLkJshvAs7).
+
+Rochester airport (ROC) has connections to various large hubs, including NYC airports, Washington-area airports, Chicago, Atlanta, etc. From the airport to the hotels, it is a short 5–10-minute drive, and we recommend taking an Uber/Lyft/Taxi.
 
 # Keynote Speaker
 Novelist and Scientific American contributing editor [Mark Alpert](https://www.markalpert.com/), author of *Final Theory*, *The Omega Theory*, and other science-inspired novels.
@@ -73,7 +77,7 @@ Both fiction and physics require lots of imagination. Albert Einstein famously i
 
 # Poster Session
 
-A poster session will include a competition for student and postdoctoral entrants. [The Fidelity Center for Applied Technology](https://www.fcatalyst.com/) is offering prizes.
+We encourage all students and postdocs to present posters. The poster session will include a competition for student and postdoctoral entrants, with generous prizes offered by the Fidelity Center for Applied Technology.
 
 # Travel Scholarships
 
