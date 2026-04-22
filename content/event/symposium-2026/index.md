@@ -77,7 +77,7 @@ Both fiction and physics require lots of imagination. Albert Einstein famously i
 
 # Poster Session
 
-We encourage all students and postdocs to present posters. The poster session will include a competition for student and postdoctoral entrants, with generous prizes offered by the Fidelity Center for Applied Technology.
+We encourage all students and postdocs to present posters. The poster session will include a competition for student and postdoctoral entrants, with generous prizes offered by the [The Fidelity Center for Applied Technology](https://www.fcatalyst.com/).
 
 # Travel Scholarships
 
