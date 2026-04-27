@@ -110,7 +110,7 @@ Morey Hall
 &lt;br>
 Morey Hall
 &lt;br>
-&lt;em>Chair: George Mihailescu&lt;/em>
+&lt;em>Chair: Anna Schwartz&lt;/em>
 &lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -136,7 +136,7 @@ Morey Hall
 &lt;br>
 Morey Hall
 &lt;br>
-&lt;em>Chair: TBD&lt;/em>
+&lt;em>Chair: Alberto Rosal&lt;/em>
 &lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -152,19 +152,19 @@ Morey Hall
 &lt;tr>
 &lt;td>2:00 PM &amp;mdash; 2:30 PM&lt;/td>
 &lt;td style="background-color: #b9a56e;">Lunch&lt;br>Rettner Atrium&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
 &lt;a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford&lt;/a>, University of Arizona
 &lt;br>
 &lt;a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law&lt;/a>
 &lt;br>
 Morey Hall
 &lt;br>
-&lt;em>Chair: TBD&lt;/em>
+&lt;em>Chair: George Mihailescu&lt;/em>
 &lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2:30 PM &amp;mdash; 3:00 PM&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
 &lt;a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi&lt;/a>, University of Chicago and Aalto University
 &lt;br>
 &lt;a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits&lt;/a>
@@ -172,28 +172,10 @@ Morey Hall
 Morey Hall
 &lt;br>
 &lt;em>Chair: John Nichol&lt;/em>
-&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
-&lt;a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford&lt;/a>, University of Arizona
-&lt;br>
-&lt;a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law&lt;/a>
-&lt;br>
-Morey Hall
-&lt;br>
-&lt;em>Chair: TBD&lt;/em>
 &lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>3:00 PM &amp;mdash; 3:30 PM&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
-&lt;a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi&lt;/a>, University of Chicago and Aalto University
-&lt;br>
-&lt;a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits&lt;/a>
-&lt;br>
-Morey Hall
-&lt;br>
-&lt;em>Chair: John Nichol&lt;/em>
-&lt;/td>
 &lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;br>Poster prize announcement&lt;/td>
 &lt;/tr>
 &lt;tr>
