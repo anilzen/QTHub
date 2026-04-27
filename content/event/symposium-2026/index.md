@@ -119,7 +119,7 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
         <br>
         Morey Hall
         <br>
-        <em>Chair: George Mihailescu</em>
+        <em>Chair: Anna Schwartz</em>
       </td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
         <br>
         Morey Hall
         <br>
-        <em>Chair: TBD</em>
+        <em>Chair: Alberto Rosal</em>
       </td>
     </tr>
     <tr>
@@ -161,19 +161,19 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
     <tr>
       <td>2:00 PM &mdash; 2:30 PM</td>
       <td style="background-color: #b9a56e;">Lunch<br>Rettner Atrium</td>
-      <td style="background-color: #ffc8a1;">
+      <td rowspan="2" style="background-color: #ffc8a1;">
         <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
         <br>
         <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
         <br>
         Morey Hall
         <br>
-        <em>Chair: TBD</em>
+        <em>Chair: George Mihailescu</em>
       </td>
     </tr>
     <tr>
       <td>2:30 PM &mdash; 3:00 PM</td>
-      <td style="background-color: #ffc8a1;">
+      <td rowspan="2" style="background-color: #ffc8a1;">
         <a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi</a>, University of Chicago and Aalto University
         <br>
         <a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits</a>
@@ -181,28 +181,10 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
         Morey Hall
         <br>
         <em>Chair: John Nichol</em>
-      </td>
-      <td style="background-color: #ffc8a1;">
-        <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
-        <br>
-        <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
-        <br>
-        Morey Hall
-        <br>
-        <em>Chair: TBD</em>
       </td>
     </tr>
     <tr>
       <td>3:00 PM &mdash; 3:30 PM</td>
-      <td style="background-color: #ffc8a1;">
-        <a href="https://www.aalto.fi/en/people/bayan-karimi">Bayan Karimi</a>, University of Chicago and Aalto University
-        <br>
-        <a href="#bayan-karimi">Coherent quantum thermodynamics in superconducting circuits</a>
-        <br>
-        Morey Hall
-        <br>
-        <em>Chair: John Nichol</em>
-      </td>
       <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium<br>Poster prize announcement</td>
     </tr>
     <tr>
