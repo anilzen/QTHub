@@ -118,6 +118,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Diving into UMD's Quantum Community](https://umdphysics.umd.edu/about-us/news/department-news/1780-ugrad-f22.html), by Bailey Bedford, [*U. of Maryland Physics Website*](https://umdphysics.umd.edu) (Sep. 6, 2022). Interviewee: Nicole Yunger Halpern.
 
 ## Presentations to student and interest groups
+1. [“Quantum Steampunk: A Conversation Across Disciplines”](https://umd.libcal.com/event/16685824), *Speculative Futures: Researching Science, Fiction and Technology*, [University Libraries](https://www.lib.umd.edu), [U. of Maryland](https://umd.edu), College Park, MD, USA (Apr. 22, 2026). By Nicole Yunger Halpern.
 1. “Quantum art,” [*Quantum For All: World Quantum Day @ UMD*](https://umdphysics.umd.edu/about-us/news/department-news/2099-wq-2026.html), [U. of Maryland](https://umd.edu), College Park, MD, USA (Apr. 14, 2026). By Nicole Yunger Halpern.
 1. [“From science to science fiction: Quantum steampunk”](https://www.astro.umd.edu/news-events/events/bang-series-quantum-steampunk-real-world-science-fiction),  *Better Astronomy for the Next Generation (BANG!) Seminar*, [Dept. of Astronomy](https://www.astro.umd.edu), [U. of Maryland](https://umd.edu), College Park, MD, USA (Dec. 11, 2025). By Nicole Yunger Halpern.
 1. “Quantum steampunk: Not your great-great-grandmother's thermodynamics,” Society of Physics Students, [University of Maryland](https://umd.edu), College Park, MD, USA (Oct. 30, 2025). By Nicole Yunger Halpern.
