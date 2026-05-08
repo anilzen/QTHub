@@ -201,6 +201,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/) (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+1. Nicole Yunger Halpern has been awarded a Visiting Fellowship at King's College Cambridge for fall 2026.
 1. Jade LeSchack was awarded the 2025 U.S. National Science Foundation (NSF) Graduate Research Fellowship for her graduate studies, after receiving an Honorable Mention in April.
 1. Jade LeSchack earned High Honors from UMD’s Department of Physics for writing and defending a Bachelor’s thesis.
 1. Jade LeSchack received an Honorable Mention in the 2025 U.S. National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
