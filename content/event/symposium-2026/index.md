@@ -193,7 +193,7 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       <td style="background-color: #ffc8a1;">
         <a href="https://ece.umd.edu/clark/faculty/1891/Saikat-Guha">Saikat Guha</a>, University of Maryland
         <br>
-        <a href="#saikat-guha">Title to be announced</a>
+        <a href="#saikat-guha">Open problems in the connected worlds of quantum entropic monotonicities and the entropy power inequality</a>
         <br>
         Morey Hall
         <br>
@@ -317,8 +317,10 @@ In quantum thermodynamics, a system is described by a Hamiltonian and a list of 
 ## Saikat Guha
 *University of Maryland*
 
-### Title to be announced
+### Open problems in the connected worlds of quantum entropic monotonicities and the entropy power inequality
 
-Abstract to be announced.
+Shannon's Entropy Power Inequality (EPI), conjectured by Shannon (1948) and proved by Stam (1959), states that the entropy power of a random variable $Z$---the variance of a Gaussian-distributed random variable with the same entropy as $Z$---is strictly larger than the sum of the entropy powers of $X$ and $Y$, where $Z = X+Y$ and for statistically independent $X$ and $Y$. The EPI has had profound applications to various Gaussian-noise channel capacity theorems. The EPI is closely connected to the monotonic increase of the entropy of $Y_n = (X_1 + ... + X_n)/\sqrt{n}$ for i.i.d. $X_i$ and convergence to the entropy of a Gaussian with the same variance as $X_i$. This was suggested by Shannon (1948), formally stated by Lieb (1978), and first proven by Artstein-Ball-Barthe-Naor (2004). The simplest proofs of the EPI and entropic monotonicity stem from a relationship between the minimum mean squared error (estimation) and the mutual information (communication) of a Gaussian noise channel, now known as the I-MMSE result, proven by Guo-Shamai-Verdu (2005).
+
+In this talk, I will describe the Entropy Photon-number Inequality (EPnI), which I conjectured in 2007, with Erkmen and Shapiro, and which if proven true, would take on a role analogous to Shannon's EPI in proving coding theorem converses of various multi-terminal capacity theorems of quantum limits of classical communication over bosonic channels. I will describe various special cases of the EPnI proven in recent years---most notably the Giovannetti--Garcia-Patron--Cerf--Holevo (2014) proof that the vacuum input minimizes the output entropy of the single-mode thermal-noise channel and the De-Palma--Trevisan--Giovannetti (2017) generalization to arbitrary single-mode Gaussian channels---and their implications. I will also discuss developments in entropic monotonicity under the bosonic mixing: ${\hat b}_n = ({\hat a}_1 + ... + {\hat a}_n)/\sqrt{n}$; conjectured Guha (2007) and proved by Beigi and Mehrabi (2025). No single universal quantum I-MMSE exists today, but I will point to some interconnected related results in recent years, and open problems.
 
 ---
