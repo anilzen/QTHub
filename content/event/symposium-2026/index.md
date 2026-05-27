@@ -162,13 +162,13 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       <td>2:00 PM &mdash; 2:30 PM</td>
       <td style="background-color: #b9a56e;">Lunch<br>Rettner Atrium</td>
       <td rowspan="2" style="background-color: #ffc8a1;">
-        <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
+        <a href="https://ece.umd.edu/clark/faculty/1891/Saikat-Guha">Saikat Guha</a>, University of Maryland
         <br>
-        <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
+        <a href="#saikat-guha">Open problems in the connected worlds of quantum entropic monotonicities and the entropy power inequality</a>
         <br>
         Morey Hall
         <br>
-        <em>Chair: George Mihailescu</em>
+        <em>Chair: Machiel Blok</em>
       </td>
     </tr>
     <tr>
@@ -191,13 +191,13 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       <td>3:30 PM &mdash; 4:30 PM</td>
       <td style="background-color: #b9a56e;">Poster session &amp; refreshments<br>Rettner Atrium</td>
       <td style="background-color: #ffc8a1;">
-        <a href="https://ece.umd.edu/clark/faculty/1891/Saikat-Guha">Saikat Guha</a>, University of Maryland
+        <a href="https://w3.physics.arizona.edu/people/charles-stafford">Charles Stafford</a>, University of Arizona
         <br>
-        <a href="#saikat-guha">Open problems in the connected worlds of quantum entropic monotonicities and the entropy power inequality</a>
+        <a href="#charles-stafford">Quantum Heat and the Emergence of the 2nd Law</a>
         <br>
         Morey Hall
         <br>
-        <em>Chair: Machiel Blok</em>
+        <em>Chair: George Mihailescu</em>
       </td>
     </tr>
     <tr>
