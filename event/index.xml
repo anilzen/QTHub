@@ -61,17 +61,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>9:00 AM &amp;mdash; 10:00 AM&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
-&lt;a href="https://www.giulia-rubino.com/">Giulia Rubino&lt;/a>, University of Bristol
-&lt;br>
-&lt;a href="#giulia-rubino">Minimally invasive measurement of work in coherent quantum systems&lt;/a>
-&lt;br>
-Morey Hall
-&lt;br>
-&lt;em>Chair: Gabriel Landi&lt;/em>
-&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
+&lt;td>9:00 AM &amp;mdash; 9:15 AM&lt;/td>
+&lt;td style="background-color: #b9a56e;">Opening remarks&lt;br>Morey Hall&lt;/td>
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
 &lt;a href="https://physics.uconn.edu/person/lea-ferreira-dos-santos/">Lea Ferreira dos Santos&lt;/a>, University of Connecticut
 &lt;br>
 &lt;a href="#lea-ferreira-dos-santos">Dissipation as a Resource: Coherence Recovery and Chaos Control&lt;/a>
@@ -82,22 +74,28 @@ Morey Hall
 &lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>10:00 AM &amp;mdash; 10:30 AM&lt;/td>
-&lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
-&lt;td style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>10:30 AM &amp;mdash; 11:30 AM&lt;/td>
-&lt;td style="background-color: #ffc8a1;">
-&lt;a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra&lt;/a>, University of Chile
+&lt;td>9:15 AM &amp;mdash; 10:00 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
+&lt;a href="https://www.giulia-rubino.com/">Giulia Rubino&lt;/a>, University of Bristol
 &lt;br>
-&lt;a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon&lt;/a>
+&lt;a href="#giulia-rubino">Minimally invasive measurement of work in coherent quantum systems&lt;/a>
 &lt;br>
 Morey Hall
 &lt;br>
-&lt;em>Chair: Ignacio Franco&lt;/em>
+&lt;em>Chair: Gabriel Landi&lt;/em>
 &lt;/td>
-&lt;td style="background-color: #ffc8a1;">
+&lt;/tr>
+&lt;tr>
+&lt;td>10:00 AM &amp;mdash; 10:15 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:15 AM &amp;mdash; 10:30 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #b9a56e;">Coffee Break&lt;br>Rettner Atrium&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:30 AM &amp;mdash; 10:45 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
 &lt;a href="https://www.engineering.cornell.edu/people/mark-wilde/">Mark Wilde&lt;/a>, Cornell University
 &lt;br>
 &lt;a href="#mark-wilde">Quantum thermodynamics and semi-definite optimization&lt;/a>
@@ -108,8 +106,23 @@ Morey Hall
 &lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>11:30 AM &amp;mdash; 12:00 PM&lt;/td>
-&lt;td style="background-color: #b9a56e;">Free time&lt;/td>
+&lt;td>10:45 AM &amp;mdash; 11:30 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #ffc8a1;">
+&lt;a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra&lt;/a>, University of Chile
+&lt;br>
+&lt;a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon&lt;/a>
+&lt;br>
+Morey Hall
+&lt;br>
+&lt;em>Chair: Ignacio Franco&lt;/em>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:30 AM &amp;mdash; 11:45 AM&lt;/td>
+&lt;td rowspan="2" style="background-color: #b9a56e;">Free time&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:45 AM &amp;mdash; 12:00 PM&lt;/td>
 &lt;td style="background-color: #b9a56e;">Free time&lt;/td>
 &lt;/tr>
 &lt;tr>
