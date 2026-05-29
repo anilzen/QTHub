@@ -102,17 +102,9 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       <td></td>
     </tr>
     <tr>
-      <td>9:00 AM &mdash; 10:00 AM</td>
-      <td style="background-color: #ffc8a1;">
-        <a href="https://www.giulia-rubino.com/">Giulia Rubino</a>, University of Bristol
-        <br>
-        <a href="#giulia-rubino">Minimally invasive measurement of work in coherent quantum systems</a>
-        <br>
-        Morey Hall
-        <br>
-        <em>Chair: Gabriel Landi</em>
-      </td>
-      <td style="background-color: #ffc8a1;">
+      <td>9:00 AM &mdash; 9:15 AM</td>
+      <td style="background-color: #b9a56e;">Opening remarks<br>Morey Hall</td>
+      <td rowspan="2" style="background-color: #ffc8a1;">
         <a href="https://physics.uconn.edu/person/lea-ferreira-dos-santos/">Lea Ferreira dos Santos</a>, University of Connecticut
         <br>
         <a href="#lea-ferreira-dos-santos">Dissipation as a Resource: Coherence Recovery and Chaos Control</a>
@@ -123,22 +115,28 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       </td>
     </tr>
     <tr>
-      <td>10:00 AM &mdash; 10:30 AM</td>
-      <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
-      <td style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
-    </tr>
-    <tr>
-      <td>10:30 AM &mdash; 11:30 AM</td>
-      <td style="background-color: #ffc8a1;">
-        <a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra</a>, University of Chile
+      <td>9:15 AM &mdash; 10:00 AM</td>
+      <td rowspan="2" style="background-color: #ffc8a1;">
+        <a href="https://www.giulia-rubino.com/">Giulia Rubino</a>, University of Bristol
         <br>
-        <a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon</a>
+        <a href="#giulia-rubino">Minimally invasive measurement of work in coherent quantum systems</a>
         <br>
         Morey Hall
         <br>
-        <em>Chair: Ignacio Franco</em>
+        <em>Chair: Gabriel Landi</em>
       </td>
-      <td style="background-color: #ffc8a1;">
+    </tr>
+    <tr>
+      <td>10:00 AM &mdash; 10:15 AM</td>
+      <td rowspan="2" style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
+    </tr>
+    <tr>
+      <td>10:15 AM &mdash; 10:30 AM</td>
+      <td rowspan="2" style="background-color: #b9a56e;">Coffee Break<br>Rettner Atrium</td>
+    </tr>
+    <tr>
+      <td>10:30 AM &mdash; 10:45 AM</td>
+      <td rowspan="2" style="background-color: #ffc8a1;">
         <a href="https://www.engineering.cornell.edu/people/mark-wilde/">Mark Wilde</a>, Cornell University
         <br>
         <a href="#mark-wilde">Quantum thermodynamics and semi-definite optimization</a>
@@ -149,8 +147,23 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
       </td>
     </tr>
     <tr>
-      <td>11:30 AM &mdash; 12:00 PM</td>
-      <td style="background-color: #b9a56e;">Free time</td>
+      <td>10:45 AM &mdash; 11:30 AM</td>
+      <td rowspan="2" style="background-color: #ffc8a1;">
+        <a href="https://jfi.uchicago.edu/~tten/Chile/Sergio's%20site/fbarra.htm">Felipe Barra</a>, University of Chile
+        <br>
+        <a href="#felipe-barra">Decoherence and Information Flows in a Quantum Thermoelectric Maxwell Demon</a>
+        <br>
+        Morey Hall
+        <br>
+        <em>Chair: Ignacio Franco</em>
+      </td>
+    </tr>
+    <tr>
+      <td>11:30 AM &mdash; 11:45 AM</td>
+      <td rowspan="2" style="background-color: #b9a56e;">Free time</td>
+    </tr>
+    <tr>
+      <td>11:45 AM &mdash; 12:00 PM</td>
       <td style="background-color: #b9a56e;">Free time</td>
     </tr>
     <tr>
