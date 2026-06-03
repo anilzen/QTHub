@@ -160,7 +160,7 @@ Early-career researchers will be able to apply for travel grants sponsored by [N
     </tr>
     <tr>
       <td>11:30 AM &mdash; 11:45 AM</td>
-      <td rowspan="2" style="background-color: #b9a56e;">Free time</td>
+      <td rowspan="2" style="background-color: #b9a56e;">Conference photo<br>Coffee Break<br>Rettner Atrium</td>
     </tr>
     <tr>
       <td>11:45 AM &mdash; 12:00 PM</td>
