@@ -42,6 +42,61 @@ projects: []
 
 ![Conference participants at the 2026 Quantum Thermodynamics and Decoherence symposium](/uploads/26_symposium.jpeg)
 
+## Photos
+
+Photos from the symposium are available in the [public photo album](https://share.icloud.com/photos/067fBJV6v4SbmcCsLtLqiJFsA).
+
+<div class="symposium-photo-album" aria-label="Photos from the 2026 Quantum Thermodynamics and Decoherence symposium">
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-01.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-01.webp" alt="Poster prize winners at the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-02.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-02.webp" alt="Poster prize winners holding certificates at the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-03.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-03.webp" alt="Poster prize winners gathered at the front of the lecture room" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-04.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-prize-winners-04.webp" alt="Small group of poster prize winners at the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-session-01.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-session-01.webp" alt="Participants viewing posters during the symposium poster session" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-poster-session-02.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-poster-session-02.webp" alt="Poster session in the symposium atrium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-participant-badges.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-participant-badges.webp" alt="Participant badges for the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-auditorium-talk.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-auditorium-talk.webp" alt="Audience attending a symposium talk in an auditorium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-01.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-01.webp" alt="Speaker presenting during the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-02.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-02.webp" alt="Speaker presenting a slide during the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-03.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-03.webp" alt="Speaker at the front of the lecture room during the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-04.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-04.webp" alt="Symposium speaker presenting a slide" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-05.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-05.webp" alt="Speaker gesturing during a symposium presentation" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-06.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-06.webp" alt="Speaker presenting results during the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-07.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-07.webp" alt="Speaker presenting open-system dynamics during the symposium" loading="lazy">
+  </a>
+  <a href="/uploads/symposium-26-photos/qtd-2026-speaker-talk-08.webp">
+    <img src="/uploads/symposium-26-photos/qtd-2026-speaker-talk-08.webp" alt="Speaker at a lectern during the symposium" loading="lazy">
+  </a>
+</div>
+
 <!-- There is no registration fee, but registration is required.
 
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}} -->
