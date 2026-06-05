@@ -40,9 +40,11 @@ projects: []
 
 **Co-hosts:** [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu/) & University of Rochester [Center for Coherence and Quantum Science](https://www.sas.rochester.edu/quantum/index.html) (CQS)
 
-There is no registration fee, but registration is required.
+![Conference participants at the 2026 Quantum Thermodynamics and Decoherence symposium](/uploads/26_symposium.jpeg)
 
-{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}}
+<!-- There is no registration fee, but registration is required.
+
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSeXJ_UHPafzc32ICC3uWoOWQ4Wy4hxl5V--ZhBBzlno6goeZg/viewform" cta_text="Please register here." %}} -->
 
 ## Practical Information
 
@@ -81,7 +83,7 @@ We encourage all students and postdocs to present posters. The poster session wi
 
 # Travel Scholarships
 
-Early-career researchers will be able to apply for travel grants sponsored by [Normal Computing](https://www.normalcomputing.com/). Check back later for details.
+Early-career researchers will be able to apply for travel grants sponsored by [Normal Computing](https://www.normalcomputing.com/).
 
 ---
 
