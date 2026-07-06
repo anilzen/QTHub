@@ -204,6 +204,13 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/) (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+1. Kanu Sinha received a U.S. Department of Energy (DOE) Career Award (2025-2030).
+1. Kanu Sinha was selected as a JILA Visiting Fellow for 2026.
+1. Kanu Sinha was selected as a Scialog Quantum Matter and Information Fellow, awarded by the Research Corporation for Science Advancement (RCSA) (2025-2027).
+1. Kanu Sinha was listed as an honoree in the Photonics 100, awarded by *Electro Optics* to recognize innovators in photonics (2026).
+1. Annyun Das received the Galileo Scholarship, awarded by the College of Science at the University of Arizona (2026).
+1. Annyun Das received the Point Persistence Award, awarded by the Point Foundation (2026).
+1. Aaron Bartleson received the Maxwell demon prize for a poster presentation at the Quantum Thermodynamics and Decoherence Symposium (2026).
 1. Steve Campbell received an [IOP Publishing Editorial Excellence Award](https://ioppublishing.org/editorial-excellence-award-winners/#Quansci) for his contributions to *Quantum Science and Technology* and *New Journal of Physics*.
 1. Nicole Yunger Halpern was offered a [Simons Foundation Fellowship](https://www.newton.ac.uk/information/fellowships/simons-foundation/) from the Isaac Newton Institute at the U. of Cambridge.
 1. Nicole Yunger Halpern was offered a Visiting Fellowship at King's College, Cambridge for fall 2026.
