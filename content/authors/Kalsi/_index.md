@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maggie Williams
+title: Tara Kalsi
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,20 +16,20 @@ organizations:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://quthermo.umbc.edu/group-members/graduate-students/maggie-williams/
+  link: https://quthermo.umbc.edu/group-members/postdoctoral-researchers/tara-kalsi/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maggiew2@umbc.edu'
+  link: 'mailto:tkalsi@umbc.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_J3ToLgAAAAJ&hl=en
-# - icon: orcid
-#   icon_pack: fab
-#   link: https://orcid.org/0000-0002-2003-078X
+  link: https://scholar.google.com/citations?user=k1O1zCoAAAAJ&hl=en
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-1513-5795
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- Students
+- Postdoctoral Scholars
 ---

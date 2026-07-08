@@ -23,6 +23,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=4UlaEH8AAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/ReeceJRobertson
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/reece-robertson/
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0003-0627-1592
