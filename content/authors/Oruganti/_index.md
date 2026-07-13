@@ -28,5 +28,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Students
+- Alumni
 ---
