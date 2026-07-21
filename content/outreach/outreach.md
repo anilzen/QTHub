@@ -73,7 +73,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Nicole Yunger Halpern on quantum steampunk](https://conversationsattheperimeter.podbean.com/e/nicole-yunger-halpern-on-quantum-steampunk/), [Conversations at the Perimeter](https://conversationsattheperimeter.podbean.com), [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca) (Dec. 1, 2022). With Nicole Yunger Halpern.
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
-## Interviews in mainstream media
+## Interviews in mainstream media and popular-science books
 1. *To Illuminate Nature, from Molecules to the Cosmos*, by David Zierler, California Institute of Technology (2026). Interviewee: Nicole Yunger Halpern.
 1. [‘Back to the future’ messages are more efficient](https://physicsworld.com/a/back-to-the-future-messages-are-more-efficient/), by Anna Demming, [*Physics World*](https://physicsworld.com) (Jul. 3, 2026). Interviewee: Nicole Yunger Halpern.
 1. [*How To Think About The Quantum World*](https://shop.newscientist.com/collections/how-to-think-about/products/how-to-think-about-the-quantum-world?variant=55565632864641), [*New Scientist*](https://www.newscientist.com) (2026). Includes the feature interview [“Now is the time to realise useful autonomous quantum machines”](https://www.sciencedirect.com/science/article/abs/pii/S0262407925004336), by Thomas Lewton. Interviewee: Nicole Yunger Halpern.
