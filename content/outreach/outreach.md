@@ -75,6 +75,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media and popular-science books
+1. [“A little bit more than magic: the secret to quantum computing may lie in negativity”](https://www.phy.cam.ac.uk/news/a-little-bit-more-than-magic-the-secret-to-quantum-computing-may-lie-in-negativity/), by Vanessa Bismuth, *U. of Cambridge Research News* (Aug. 18, 2026). Interviewee: Nicole Yunger Halpern.
 1. [“Welcome to the Quantum-Steampunk Laboratory”](https://physics.aps.org/articles/v19/101), by Rachel Berkowitz, [*Physics Magazine*](https://physics.aps.org) (July 23, 2026). Interviewee: Nicole Yunger Halpern.
 1. *To Illuminate Nature, from Molecules to the Cosmos*, by David Zierler, California Institute of Technology (2026). Interviewee: Nicole Yunger Halpern.
 1. [‘Back to the future’ messages are more efficient](https://physicsworld.com/a/back-to-the-future-messages-are-more-efficient/), by Anna Demming, [*Physics World*](https://physicsworld.com) (Jul. 3, 2026). Interviewee: Nicole Yunger Halpern.
