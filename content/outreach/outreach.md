@@ -76,6 +76,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Quantum steampunk: Thermodynamics meets quantum information](https://www.clubhouse.com/room/M4AGW6eR?utm_campaign=QrYlUVt_ZoGyiI6IVFgGaA-461626&utm_medium=ch_invite), [It's About Time!](https://itsabouttime.club), [Clubhouse](https://www.clubhouse.com) (Nov. 19, 2022). With Nicole Yunger Halpern.
 
 ## Interviews in mainstream media and popular-science books
+1. [“Time travel may not break reality, experiments suggest. It may reveal that all of reality exists all at once.”](https://www.popularmechanics.com/science/a73835729/we-might-solve-time-travel-paradoxes/), by Jonathan O'Callaghan, [*Popular Mechanics*](https://www.popularmechanics.com) (Sept. 23, 2026). Interviewee: Nicole Yunger Halpern.
 1. [“Finally! How to get a truly random number — and prove it”](https://www.snexplores.org/article/quantum-random-number-generator), by Tejasri Gururaj, [*Science News Explores*](https://www.snexplores.org) (Sept. 15, 2026). Interviewee: Nicole Yunger Halpern.
 1. [“A conversation with Nicole Yunger Halpern: Insights into quantum thermodynamics”](https://scieye.wordpress.com/2026/08/20/a-conversation-with-nicole-yunger-halpern-insights-into-quantum-thermodynamics/), by Lakshmi Chandrasekharan, *Little Gray Cells Think…* (Aug. 20, 2026). Interviewee: Nicole Yunger Halpern.
 1. [“Study Sharpens the Search for Quantum Computing's ‘Magic’”](https://quics.umd.edu/about/news/study-sharpens-search-quantum-computings-magic), by Maria Ann Herd, [QuICS](https://quics.umd.edu) (Aug. 19, 2026). Interviewee: Nicole Yunger Halpern. Related posts: [UMIACS post on X](https://twitter.com/umiacs/status/2090836803792019942) and [LinkedIn](https://www.linkedin.com/posts/a-newstudy-published-in-physical-review-share-7496604022775369728-jiS2/).
@@ -157,6 +158,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. “Quantum steampunk,” *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog posts
+1. [Marcus theory and Marcus practice](https://quantumfrontiers.com/2026/09/27/marcus-theory-and-marcus-practice/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 27, 2026). By Nicole Yunger Halpern.
 1. [Quantum Computers Need More than “Magic”](https://quantumfrontiers.com/2026/09/20/quantum-computers-need-more-than-magic/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 20, 2026). By Jonathan J. Thio.
 1. [Nicole’s guide to writing and editing](https://quantumfrontiers.com/2026/08/26/nicoles-guide-to-writing-and-editing/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 26, 2026). By Nicole Yunger Halpern.
 1. [Interacting collaborators reveal noninteracting fermions](https://quantumfrontiers.com/2026/08/09/interacting-collaborators-reveal-noninteracting-fermions/), [Quantum Frontiers](https://quantumfrontiers.com) (Aug. 9, 2026). By Logan Hillberry.
