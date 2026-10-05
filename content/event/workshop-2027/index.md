@@ -27,6 +27,4 @@ draft: false
 projects: []
 ---
 
-The 2027 Maryland Quantum-Thermodynamics Hub workshop, **ITAMP Quantum-Thermodynamics Workshop II**, will take place on **June 21–23, 2027**, at 60 Garden St., Cambridge, Massachusetts.
-
-ITAMP is hosting the workshop and maintaining its webpage. Please visit the [**official ITAMP workshop webpage**](https://lweb.cfa.harvard.edu/itamp-event/itamp-quantum-thermodynamics-workshop-ii) for workshop information and updates.
+Please visit the [**official ITAMP workshop webpage**](https://lweb.cfa.harvard.edu/itamp-event/itamp-quantum-thermodynamics-workshop-ii) for workshop information and updates.
