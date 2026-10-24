@@ -224,6 +224,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [We’re founding a quantum-thermodynamics hub!](https://quantumfrontiers.com/2022/09/21/were-founding-a-quantum-thermodynamics-hub/), [Quantum Frontiers](https://quantumfrontiers.com/) (Sep. 21, 2022). By Nicole Yunger Halpern.
 
 ## Awards
+1. Sebastian Deffner was elected a [Fellow of the American Physical Society](https://www.aps.org/funding-recognition/aps-fellowship/dsnp-fellowship) in the Division of Statistical and Nonlinear Physics for his contributions to quantum thermodynamics (2026).
+1. Christopher Jarzynski received the [Benjamin W. Lee Professorship](https://www.msit.go.kr/eng/bbs/view.do?bbsSeqNo=42&mId=4&mPid=2&nttSeqNo=1317&sCode=eng), awarded by the Asia Pacific Center for Theoretical Physics and the Korean Physical Society, for his contributions to nonequilibrium thermodynamics, including the Jarzynski equality (2026).
 1. Kanu Sinha received a U.S. Department of Energy (DOE) Career Award (2025-2030).
 1. Kanu Sinha was selected as a JILA Visiting Fellow for 2026.
 1. Kanu Sinha was selected as a Scialog Quantum Matter and Information Fellow, awarded by the Research Corporation for Science Advancement (RCSA) (2025-2027).
