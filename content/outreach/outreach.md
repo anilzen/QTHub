@@ -158,6 +158,7 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. “Quantum steampunk,” *Casual Conversations*, [Dartmouth Class of 1969](https://www.dartmouth69.org), online (Sep. 20, 2022). By Nicole Yunger Halpern.
 
 ## Blog posts
+1. [Lunch with Horace Walpole](https://quantumfrontiers.com/2026/10/25/lunch-with-horace-walpole/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 25, 2026). By Nicole Yunger Halpern.
 1. [The Quantum Omelette Problem: How Much Energy Belongs to the Yolk?](https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 11, 2026). By Greeshma Oruganti.
 1. [In praise of questions](https://quantumfrontiers.com/2026/10/08/in-praise-of-questions/), [Quantum Frontiers](https://quantumfrontiers.com) (Oct. 8, 2026). By José Antonio Marín Guzmán.
 1. [Marcus theory and Marcus practice](https://quantumfrontiers.com/2026/09/27/marcus-theory-and-marcus-practice/), [Quantum Frontiers](https://quantumfrontiers.com) (Sept. 27, 2026). By Nicole Yunger Halpern.
