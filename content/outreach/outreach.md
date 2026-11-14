@@ -130,6 +130,8 @@ You can also see the lectures of the 2024 Winter Graduate School on AMO Physics,
 1. [Diving into UMD's Quantum Community](https://umdphysics.umd.edu/about-us/news/department-news/1780-ugrad-f22.html), by Bailey Bedford, [*U. of Maryland Physics Website*](https://umdphysics.umd.edu) (Sep. 6, 2022). Interviewee: Nicole Yunger Halpern.
 
 ## Presentations to student and interest groups
+1. “Beyond your great-great-grandmother’s thermodynamics,” [Emmy Noether Society](https://sites.google.com/view/emmy-noether-society/about), U. of Cambridge, Cambridge, UK (Nov. 13, 2026). By Nicole Yunger Halpern.
+1. “Quantum steampunk: Quantum information meets thermodynamics,” King's Maths Group, [King's College, Cambridge](https://www.kings.cam.ac.uk), U. of Cambridge, Cambridge, UK (Nov. 12, 2026). By Nicole Yunger Halpern.
 1. Mentorship for the [Do Quantum](https://doquantum.org/) program, University of Maryland, College Park, MD, USA (March 2025 - May 2026). By Vikram Kashyap.
 1. “Demonstration of Superconductor Levitation,” [*Maryland Day*](https://marylandday.umd.edu/), U. of Maryland, College Park, MD, USA (Apr. 25, 2026). By Vikram Kashyap, Twesh Upadhyaya, and Yuxin Wang.
 1. [“Quantum Steampunk: A Conversation Across Disciplines”](https://umd.libcal.com/event/16685824), *Speculative Futures: Researching Science, Fiction and Technology*, [University Libraries](https://www.lib.umd.edu), [U. of Maryland](https://umd.edu), College Park, MD, USA (Apr. 22, 2026). Panel discussion with Edward Daschle and Nicole Yunger Halpern.
